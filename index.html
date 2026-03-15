@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>A Pocket Full of Sin</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="A PbtA love letter to Delicious in Dungeons." content="If We Wandered Here Long Enough">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
+  <!-- <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"> -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+</head>
+<style>
+:root {
+    --bg-color: #231d1f;
+    --text-color: #c9bbb0;
+    --header-color: #4d9ab6;
+    --sub-header-color: #627b42;
+
+    --highlight-color: #6D711D;
+    --border-color: #3F738E;
+    --rare-color: #972117;
+
+    --sb-bg-color: #18161B;
+    --sb-text-color: #c9bbb0;
+    --sb-header-color: #3F738E;
+
+    --base-background-color: var(--bg-color);
+    --base-color           : var(--text-color);
+
+    --hr-border            : 1px solid var(--mono-tint2);
+    --selection-color      : #b4d5fe;
+    --strong-color         : var(--highlight-color);
+    --content-max-width                 : 55em;
+    --blockquote-background             : var(--mono-tint3);
+
+    --heading-color                     : var(--mono-shade3);
+
+    --heading-h1-color                  : var(--header-color);
+    --heading-h1-border-color           : var(--border-color);
+    --heading-h1-font-family            : ;
+    --heading-h1-font-size              : var(--font-size-xxxl);
+    --heading-h1-margin                 : ;
+    --heading-h1-padding                : ;
+
+    --heading-h2-color                  : var(--header-color);
+    --heading-h2-border-color           : var(--border-color);
+    --heading-h2-font-family            : ;
+    --heading-h2-font-size              : var(--font-size-xxl);
+    --heading-h2-font-weight            : ;
+    --heading-h2-margin                 : ;
+    --heading-h2-padding                : ;
+
+    --heading-h3-color                  : var(--header-color);
+    --heading-h3-font-family            : ;
+    --heading-h3-font-size              : var(--font-size-xl);
+    --heading-h3-font-weight            : ;
+    --heading-h3-margin                 : ;
+    --heading-h3-padding                : ;
+
+    --heading-h4-color                  : var(--header-color);
+    --heading-h4-font-family            : ;
+    --heading-h4-font-size              : var(--font-size-l);
+    --heading-h4-font-weight            : ;
+    --heading-h4-margin                 : ;
+    --heading-h4-padding                : ;
+
+    --heading-h5-color                  : var(--sub-header-color);
+    --heading-h5-font-family            : ;
+    --heading-h5-font-size              : var(--font-size-l);
+    --heading-h5-font-weight            : ;
+    --heading-h5-margin                 : ;
+    --heading-h5-padding                : ;
+
+    --heading-h6-color                  : var(--sub-header-color);
+    --heading-h6-font-family            : ;
+    --heading-h6-font-size              : var(--font-size-l);
+    --heading-h6-font-weight            : ;
+    --heading-h6-margin                 : ;
+    --heading-h6-padding                : ;
+
+    --link-color                        : ;
+
+    --sidebar-background                          : var(--sb-bg-color);
+    --sidebar-border-color                        : var(--rare-color);
+    --sidebar-border-width                        : 0;
+    --sidebar-padding                             : 0 25px;
+    --sidebar-transition-duration                 : var(--duration-fast);
+    --sidebar-width                               : 17rem;
+
+    /* Name */
+    --sidebar-name-color                          : var(--sb-header-color);
+    --sidebar-name-font-family                    : ;
+    --sidebar-name-font-size                      : var(--font-size-l);
+    --sidebar-name-font-weight                    : normal;
+    --sidebar-name-margin                         : 1.5rem 0 0;
+    --sidebar-name-padding                        : ;
+    --sidebar-name-text-align                     : center;
+
+    --sidebar-nav-pagelink-background             : ;
+    --sidebar-nav-pagelink-background--active     : ;
+    --sidebar-nav-pagelink-background--collapse   : ;
+    --sidebar-nav-pagelink-background--loaded     : ;
+    --sidebar-nav-pagelink-padding                : ;
+
+    --sidebar-nav-link-color--active: var(--highlight-color);
+    --sidebar-nav-link-font-weight--active        : 700;
+
+    --blockquote-background             : var(--sb-bg-color);
+    --blockquote-border-color           : var(--rare-color);
+    --blockquote-border-style           : solid;
+    --blockquote-border-width           : ;
+    --blockquote-border-radius          : var(--border-radius-m);
+    --blockquote-padding                : 1.5em;
+
+    --sidebar-toggle-background                   : #3D4550;
+    --sidebar-toggle-border-color                 : ;
+    --sidebar-toggle-border-radius                : var(--border-radius-s);
+    --sidebar-toggle-border-style                 : solid;
+    --sidebar-toggle-border-width                 : 0;
+    --sidebar-toggle-height                       : 36px;
+    --sidebar-toggle-icon-color                   : var(--base-color);
+}
+</style>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'A Pocket Full of Sin',
+      repo: 'rfkeepers/a_pocket_full_of_sin_ashcan',
+      loadSidebar: true,
+
+      search: 'auto', // default
+
+      // complete configuration parameters
+      search: {
+        maxAge: 1,
+        paths: 'auto', 
+        placeholder: 'search...',
+        noData: 'Nope, sorry!',
+        depth: 3,
+        hideOtherSidebarContent: false,
+      },
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
+</html>
