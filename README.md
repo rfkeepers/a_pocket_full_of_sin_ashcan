@@ -130,31 +130,31 @@ In selecting a Self, the player establishes: 1/ what personal storyline they wan
 
 Self concepts:
 
-> **Asylum**  
+> #### Asylum  
 > Holds a respectable public occupation: doctor, lawyer, professor, community leader, or etc.  
 > For those interested in stories about helping others at the potential downfall of one's own reputation.
 
-> **Trouble**  
+> #### Trouble  
 > Running or hiding from past transgressions, whether real or falsified.  
 > For those interested in stories about scraping together a means of survival when society refuses to help them.
 
-> **Devoted**  
+> #### Devoted  
 > Committed to a tight-knit organization: religion, mafia, family, a community, etc.  
 > For those interested in stories about balancing your taking on dirty, dangerous, or unwanted work to ultimately benefit those who depend on or control you.
 
-> **Hungry**  
+> #### Hungry  
 > Driven to fulfill a need that they cannot satisfy in the real world. Only concerned with their own gain.  
 > For those interested in stories about addiction or pursing human desire in a place unbound from social repercussion, whether or not that antagonizes those around them, whether or not they get damaged in the process.
 
-> **Truth Seeking**  
+> #### Seeking Truth
 > On an agenda to discover hidden information, possibly about pocket reality itself, possibly by using pocket reality to uncover information about the real world.  
 > For those interested in one of two stories: the extremes people will go in the name of scientific advancement, or for dredging information out the pocket to uncover corruption in the real world.
 
-> **Weird**  
+> #### Weird  
 > The only pocket-focused self: a rare someone who has a conscious, intimate relationship with both their own pocket reality, and pocket realities at large.  
 > For those interested in stories about otherness, outsiderness, and isolation.  A proxy for a life lived by escaping from reality.
 
-> **Ancient**  
+> #### Ancient  
 > (still thinking about this one, it'll be tough to get right, and I'll probably need help.)  
 > A vessel for old traditions originating long before and/or outside of america.  
 > For those interested in stories about cultural, ethnic, and religious heritage and obligation, and about immigration and expatriation. An opening to explore the notion of Sin Eating from the perspective of cultures outside of western european tradition.
@@ -169,26 +169,26 @@ Ego playbooks:
 
 (side note: I'm not yet satisfied with these archetypes.  Some are closer than others, but at large they don't feel like they're hitting the mark quite yet.)
 
-> **Knight**  
+> #### Knight  
 > "Truly I was born to be an example of misfortune, and a target at which the arrows of adversary are aimed.”  
 > Embodies protection, self-sacrifice, and strict adherence to virtues.
 
-> **Savior**  
+> #### Savior  
 > “Life always promises to give the world a person to take away everything bad.”  
 > Power through (imagined?) self-importance.  Righteousness must prevail over evil, even if that requires perpetrating evil.
 
-> **Monster**  
+> #### Monster  
 > “The fallen angel becomes a malignant devil. Yet even that enemy of God and man had friends and associates in his desolation; I am alone.”  
 > Bodily manifestation of guilt and sinfulness.  Power through body-horror.
 
-> **Siren**  
+> #### Siren  
 > “I Was Born When She Kissed Me. I Died When She Left Me. I Lived A Few Weeks While She Loved Me.”  
 > Desire, charms, glamour, and social graces.  Willing use others as pawns for their own purposes.
 
-> **Nobody**  
+> #### Nobody  
 > “I am not special. I am not a beautiful or unique snowflake. I'm the same decaying organic matter as everything else.”  
 > Avoidance and minimization of harm and attention by weaponizing their unimportance.
 
-> **Magician**  
+> #### Magician  
 > “Now you’re looking for the secret, but you won’t find it, because of course you’re not really looking. You don’t really want to know. You want to be fooled.”  
 > Performance, illusion, misdirection, and possibly even some real magic.
