@@ -12,17 +12,17 @@ A PbtA game where the players journey into other peoples' minds to eat their sin
 
 The players are **Sin Eaters**, living off meager pay from visiting ailing and dying persons to relieve them of their sins, guilts, fears, and other memories, permanently taking those traumas into their own bodies instead. 
 
-Why make this game about Sin Eaters? Two reasons.  First because there's a rich, metaphorical duplicity to the story of a person who's willing to save other people from their past failings, only to reduce their own existence to something of a reviled creature. Second because the idea that this all could play out in some mental otherworld-- an actual encounter with the lifetime of sin, not just a performative ritual of one-- is too good a combination to pass up.
+Note: see the "Aside" section below about the differences between the historical practice of sin eating, and its representation in this game.
 
 ### Touchstones
 
-- Psychonauts
-- The Cell
-- Inception
-- To the Moon
-- Piranesi
-- Eternal Sunshine of the Spotless Mind
-- What Dreams May Come
+- [Psychonauts](https://www.doublefine.com/games/psychonauts)
+- [The Cell](https://www.imdb.com/title/tt0209958)
+- [Inception](https://www.imdb.com/title/tt1375666)
+- [To the Moon](https://freebirdgames.com/games/to-the-moon/)
+- [Piranesi](https://en.wikipedia.org/wiki/Piranesi_(novel))
+- [Eternal Sunshine of the Spotless Mind](https://www.imdb.com/title/tt0338013)
+- [What Dreams May Come](https://www.imdb.com/title/tt0120889)
 
 
 ### Tone
@@ -33,11 +33,25 @@ Sessions may include sensitive content such as physical or mental trauma, child 
 
 ### Players Should Expect
 
-Play focuses on unraveling the memories and emotions of an npc.  The general focus of pay is on interpersonal narratives more so than extraordinary action, abilities, or magic. This is not power fantasy, it's about being a human that stumbles into mind-bending alternate reality.
+Play focuses on unraveling the memories and emotions of an npc.  The general focus of play is on interpersonal narratives more so than extraordinary action, abilities, or magic. This is not power fantasy, it's about being a human that stumbles into mind-bending alternate reality.
 
 In the background, PCs are pariahs and at odds with the world. The job of sin eating may fill a social need, but this comes at the cost of alienation. This undercurrent informs us of who the players are, and what might compel a person to take on this work.
 
 No common philosophy is required for the job, therefore Sin Eaters are rarely friends or close comrades. They are bound together by their work, not by unifying principles or goals.  Likewise, they are rarely antagonists: life is hard enough already without them getting in each-others' way.
+
+---
+
+## An Aside - About Sin Eating
+
+[Sin Eating](https://en.wikipedia.org/wiki/Sin-eater) is (or, at least, was) an actual religious practice that-- according to the western European version-- had the "Sin Eater" consume a ritual meal (often a simple loaf of bread and some drink) over the corpse of the recently deceased.  Through this consumption the sins of the deceased were transferred to the eater, unfettering the soul of the departed from their worldly troubles and preventing their spirit from remaining on the earth.
+
+This transfer of sin was reportedly a literal process. The eater, for their trouble, now carries that sin for the remainder of their life.  So it would go, time and again, ingesting more and more sin into their being, ever more becoming a vessel for human evils.  The writing describing the social status of those people is, well, grim.
+
+Why make this game about Sin Eaters? Two reasons.  First because there's a rich, metaphorical duplicity to the story of a person who's willing to save other people from their past failings, only to reduce their own existence to something of a reviled creature. Second because the idea that this all could play out in some mental otherworld-- an actual encounter with the lifetime of sin, not just a performative ritual of one-- is too good a combination to pass up.
+
+This game is not intended as a historically accurate representation of the practice of sin eating. I'm taking a lot of liberty to extrapolate from a real religious practice and spin that extraction into a game where people to sit down at a table and roll dice. I believe in the value of games, as I believe in the way they allow us to explore and empathize with ourselves and others. At the same time, I want to respect the traditions and culture of all who previously and currently view these religious practices as legitimate and essential aspects of their lives.  It's not an easy balance.
+
+I have no intention to weasel out of culpability for misinterpreting or mischaracterizing real religious practices or values in any place in this text.  At the same time, to make this game, I'm going to intentionally reinterpret and recharacterize at least one historical religious practice, and perhaps more than that unintentionally. Rather than commit to being correct, appropriate, or inoffensive, I'd like to commit to an openness for future learning, correction, and representation. I aim to do the best I can from the start.  Failing that, I'm happy learn and do better.
 
 ---
 
@@ -53,9 +67,11 @@ A complete rotation of play occurs over three distinct phases:
 
 The seven course meal is a highly structured set of scenes wherein the MC and Players introduce the next job, meet their employers, investigate surface-level clues and initial details, and otherwise prepare for the journey into pocket reality.  The ultimate goal is to go into the next phase with as much knowledge as possible.
 
-On camera, the story layers shots of both a literal meal served in seven courses (a part of the sin eater ritual) interpolated with scenes of the players as they are introduced to the situation and begin to gather information to frame the pocket reality they're about to enter.
+The employer, in each case, is the household (or other organization) that has called upon this group of sin eaters to perform their ritual services.  The work is always contract work, and this employer acts as their client for only a single loop.
 
-This phase breaks into seven parts.
+On camera, the story interpolates scenes from a literal meal served in seven courses (a part of the sin eater ritual) with scenes of the players as they get introduced to the situation and go about gathering information to frame the pocket reality they're about to enter.
+
+This phase breaks into seven parts.  The first five play out in order.  The sixth part moves play into the next phase: pocket reality.  The final part returns to the meal to wrap up the story.
 
 1. _Amuse-Bouche_ - Players get introduced to the location and major NPCs.
 2. _Hors d’oeuvre_ - Knowledge gathering: players learn about the person whose mind they are about to enter from the employers, and set up the expectations of the job. What are they here to purge or clean from that person?
@@ -63,7 +79,7 @@ This phase breaks into seven parts.
 4. _Soup_ - Knowledge gathering: players have one last chance to pry their employers for details as they prepare the ritual.
 5. _Aperitif_ - A necessary ritual in every dive to the pocket: a psychedelic concoction to alter the mind.
 6. _Main Course_ - The players enter Pocket Reality, and continue play there until that phase concludes.
-7. _Desert_ - Report the results of their work to their employers.
+7. _Dessert_ - Report the results of their work to their employers.
 
 ### Pocket Reality
 
@@ -97,7 +113,7 @@ The following moves are only used within pocket reality.  The Seven Course Meal 
 
 ## Rolling Against Instability
 
-Any foreign intrusion into a pocket reality will inevitably destabilize its foundation, tugging against the fabric of that universe until it begins to unravel.  The result is not only devastating to the owner of that pocket, it also serves to make the world around the players increasingly hospitable.
+Any foreign intrusion into a pocket reality will inevitably destabilize its foundation, tugging against the fabric of that universe until it begins to unravel.  The result is not only devastating to the owner of that pocket, it also serves to make the world around the players increasingly inhospitable.
 
 All rolling for moves, within the pocket, is **2d10 vs Instability**.  The 2d10 represents the PC.  Instability is a single die that represents the pocket.  Success is determined by how many of the player's dice roll _above_ the instability die: 2, 1, or 0.
 
@@ -126,7 +142,9 @@ Examples:
 
 The "Self" playbooks represent the characters in reality: what they do, what situation they're in, and what they've committed themselves to.  
 
-In selecting a Self, the player establishes: 1/ what personal storyline they want to explore during downtime, 2/ their starting stats, and 3/ their character's take on intimacy and iniquity.  Selves very rarely start with pocket-phase moves.
+In selecting a Self, the player initially establishes: 1/ what personal storyline they want to explore during downtime, 2/ their starting stats, and 3/ their character's take on intimacy and iniquity.  Selves very rarely start with pocket-phase moves.
+
+As play continues, the self will evolve in two ways: 1/ adding or amending moves for all phases of play, 2/ forcing the world to change in significant ways (a tangential of taking _Iniquity_).
 
 Self concepts:
 
@@ -163,7 +181,9 @@ Self concepts:
 
 The "Ego" playbooks represent the way the characters imagine themselves.  It is the persona they embody in dreams, the voice in their imagined conversations, and their reflection of their own behavior.  When characters enter Pocket Reality they inhabit their ego, not their actual self.
 
-In selecting an Ego, the player establishes: 1/ what kind of behavioral archetype they want to inhabit in play, 2/ their starting moves.
+In selecting an Ego, the player initially establishes: 1/ what kind of behavioral archetype they want to inhabit in play, 2/ their starting moves.
+
+As play continues and the character advances, the Ego provides additional moves and stat changes.  Likewise, in standard PbtA fashion, characters will have the opportunity to branch out and select a move or two from the other Egos. This is primarily an interaction between Egos; Selves are never accessible across playbooks in this way.
 
 Ego playbooks:
 
