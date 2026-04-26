@@ -60,36 +60,36 @@ I have no intention to weasel out of culpability for misinterpreting or mischara
 A complete rotation of play occurs over three distinct phases:
 
 1. The Seven Course Meal
-2. Pocket Reality
+2. The Psychic Pocket
 3. Downtime
 
 ### The Seven Course Meal
 
-The seven course meal is a highly structured set of scenes wherein the MC and Players introduce the next job, meet their employers, investigate surface-level clues and initial details, and otherwise prepare for the journey into pocket reality.  The ultimate goal is to go into the next phase with as much knowledge as possible.
+The seven course meal is a highly structured set of scenes wherein the MC and Players introduce the next job, meet their employers, investigate surface-level clues and initial details, and otherwise prepare for the journey into psychic pocket.  The ultimate goal is to go into the next phase with as much knowledge as possible.
 
 The employer, in each case, is the household (or other organization) that has called upon this group of sin eaters to perform their ritual services.  The work is always contract work, and this employer acts as their client for only a single loop.
 
-On camera, the story interpolates scenes from a literal meal served in seven courses (a part of the sin eater ritual) with scenes of the players as they get introduced to the situation and go about gathering information to frame the pocket reality they're about to enter.
+On camera, the story interpolates scenes from a literal meal served in seven courses (a part of the sin eater ritual) with scenes of the players as they get introduced to the situation and go about gathering information to frame the psychic pocket they're about to enter.
 
-This phase breaks into seven parts.  The first five play out in order.  The sixth part moves play into the next phase: pocket reality.  The final part returns to the meal to wrap up the story.
+This phase breaks into seven parts.  The first five play out in order.  The sixth part moves play into the next phase: psychic pocket.  The final part returns to the meal to wrap up the story.
 
 1. _Amuse-Bouche_ - Players get introduced to the location and major NPCs.
 2. _Hors d’oeuvre_ - Knowledge gathering: players learn about the person whose mind they are about to enter from the employers, and set up the expectations of the job. What are they here to purge or clean from that person?
 3. _Palate Cleanser_ - Knowledge gathering: players go digging for clues and more honest or revealing information from friends, family, staff, and other citizens.
 4. _Soup_ - Knowledge gathering: players have one last chance to pry their employers for details as they prepare the ritual.
 5. _Aperitif_ - A necessary ritual in every dive to the pocket: a psychedelic concoction to alter the mind.
-6. _Main Course_ - The players enter Pocket Reality, and continue play there until that phase concludes.
+6. _Main Course_ - The players enter the psychic pocket, and continue play there until that phase concludes.
 7. _Dessert_ - Report the results of their work to their employers.
 
-### Pocket Reality
+### Psychic Pockets
 
-The lion's share of a sin eater's job takes place in the alternate, liminal realities contained within other people. These places have gone by many names over time: figment space, the mental world, the mindscape, the soulscape. Freud might have called it the home of the unconscious. Most formally, we call it pocket reality.
+The lion's share of a sin eater's job takes place in the alternate, liminal realities contained within other people. These places have gone by many names over time: figment space, the mental world, the mindscape, the soulscape. Freud might have called it the home of the unconscious. Most formally, we call it a psychic pocket.
 
-A pocket reality is a self-contained world. Not so much a real place as a hallucination of reality, and all the figments inside are themselves projections of some real thing. Every person, without conscious intent or design, whether they're aware of it or not, maintains their own pocket containing all their thoughts and emotions and harbored joys and indulgent secrets, all alive and active in this universe.
+A psychic pocket is a self-contained world. Not so much a real place as a hallucination of reality, and all the figments inside are themselves projections of some real thing. Every person, without conscious intent or design, whether they're aware of it or not, maintains their own pocket containing all their thoughts and emotions and harbored joys and indulgent secrets, all alive and active in this universe.
 
-The general populace doesn't consort with pocket reality. A person might grasp at slivers of their pockets through dreams or feverish pitches with barely a mote of comprehension. Science rankles over investigations into psychical forces. Charlatan hustlers push the paranormal into theatrical spotlights. All true tradition and heritage of pocket reality survives hidden behind closed doors and out-of-the-way corners, now believed to be one more performative, falsified spiritualism. 
+The general populace doesn't consort with psychic pockets. A person might grasp at slivers of their pockets through dreams or feverish pitches with barely a mote of comprehension. Science rankles over investigations into psychical forces. Charlatan hustlers push the paranormal into theatrical spotlights. All true tradition and heritage of psychic pockets survives hidden behind closed doors and out-of-the-way corners, now believed to be one more performative, falsified spiritualism. 
 
-In play, pocket reality is the primary space for freeform gameplay. Play stays in the pocket until the PCs contract is fulfilled. Players first take their time to investigate the pocket. They'll discover the hidden truths about this owner's history, secrets, and subconscious. Eventually it all culminates in the opportunity to consume the uncontrolled monstrosity of sin of this psychical world-- that is, the PCs take that sin into themselves on behalf of the pocket, increasing their _Iniquity_ in the process.
+In play, psychic pockets are the primary space for freeform gameplay. Play stays in the pocket until the PCs contract is fulfilled. Players first take their time to investigate the pocket. They'll discover the hidden truths about this owner's history, secrets, and subconscious. Eventually it all culminates in the opportunity to consume the uncontrolled monstrosity of sin of this psychical world-- that is, the PCs take that sin into themselves on behalf of the pocket, increasing their _Iniquity_ in the process.
 
 ### Downtime
 
@@ -104,7 +104,7 @@ Players use this time on some of following:
 
 ## Basic Moves
 
-The following moves are only used within pocket reality.  The Seven Course Meal and Downtime phases use their own distinct set of moves.
+The following moves are only used within psychic pockets.  The Seven Course Meal and Downtime phases use their own distinct set of moves.
 
 - **Scuffle and Fracas** - A group move consolidating an action-packed sequence into a single passage.
 - **Disinter a Secret** - Establish or unveil a truth about the pocket, the person's history or psyche, or the world outside.
@@ -113,7 +113,7 @@ The following moves are only used within pocket reality.  The Seven Course Meal 
 
 ## Rolling Against Instability
 
-Any foreign intrusion into a pocket reality will inevitably destabilize its foundation, tugging against the fabric of that universe until it begins to unravel.  The result is not only devastating to the owner of that pocket, it also serves to make the world around the players increasingly inhospitable.
+Any foreign intrusion into a psychic pocket will inevitably destabilize its foundation, tugging against the fabric of that universe until it begins to unravel.  The result is not only devastating to the owner of that pocket, it also serves to make the world around the players increasingly inhospitable.
 
 All rolling for moves, within the pocket, is **2d10 vs Instability**.  The 2d10 represents the PC.  Instability is a single die that represents the pocket.  Success is determined by how many of the player's dice roll _above_ the instability die: 2, 1, or 0.
 
@@ -165,11 +165,11 @@ Self concepts:
 > For those interested in stories about addiction or pursing human desire in a place unbound from social repercussion, whether or not that antagonizes those around them, whether or not they get damaged in the process.
 
 > #### Seeking Truth
-> On an agenda to discover hidden information, possibly about pocket reality itself, possibly by using pocket reality to uncover information about the real world.  
+> On an agenda to discover hidden information, possibly about a psychic pocket itself, possibly by using the psychic pocket to uncover information about the real world.  
 > For those interested in one of two stories: the extremes people will go in the name of scientific advancement, or for dredging information out the pocket to uncover corruption in the real world.
 
 > #### Weird  
-> The only pocket-focused self: a rare someone who has a conscious, intimate relationship with both their own pocket reality, and pocket realities at large.  
+> The only pocket-focused self: a rare someone who has a conscious, intimate relationship with both their own psychic pocket, and pocket realities at large.  
 > For those interested in stories about otherness, outsiderness, and isolation.  A proxy for a life lived by escaping from reality.
 
 > #### Ancient  
@@ -179,7 +179,7 @@ Self concepts:
 
 ### Egos
 
-The "Ego" playbooks represent the way the characters imagine themselves.  It is the persona they embody in dreams, the voice in their imagined conversations, and their reflection of their own behavior.  When characters enter Pocket Reality they inhabit their ego, not their actual self.
+The "Ego" playbooks represent the way the characters imagine themselves.  It is the persona they embody in dreams, the voice in their imagined conversations, and their reflection of their own behavior.  When characters enter psychic pockets they inhabit their ego, not their actual self.
 
 In selecting an Ego, the player initially establishes: 1/ what kind of behavioral archetype they want to inhabit in play, 2/ their starting moves.
 
