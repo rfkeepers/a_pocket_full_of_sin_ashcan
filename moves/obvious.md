@@ -1,48 +1,20 @@
 # Obvious Moves
 
-## Confront Someone
-
-> (largely taken from UHH straight up)
-
-When you confront someone, roll. On any hit, you interrupt them and they can’t proceed without dealing with you. On a 10+ hit, they have to choose whether to back down and give you your way, or defy you and force your hand.
-
-> (the 7-9 part needs a revision, however)
-
-On a 7–9 hit, if they don’t want to back down or force your hand, they can try to prevaricate, mollify you, explain, bargain, or justify themselves instead.
-
-On a miss, ask the MC or the other player what goes wrong. Perhaps you’ve tipped your hand.
-
-## Draw Someone Out ()
-
-> (It's not bad, but also not exactly what I want from this game.  UHH wants you to get people to reveal _themselves_.  Pocket wants you to reveal _the situation_ more than the figments).
-
-When you draw someone out, roll. On any hit, you seize their attention and they open up to you. On a 10+ hit, ask them 2 of the following; they must answer honestly. On a 7–9 hit, ask 1.
-- What are you considering? (what's going on here?)
-- Where are you open to me, where are you vulnerable, and where are you guarded? (how can you help me?)
-- What are you forgetting, ignoring, or keeping from yourself?
-- What do you hope I’ll do?
-- What are you afraid I’ll do? (what are you afraid will happen?)
-- What do you expect, and how do you feel about it?
-
-On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you’ve revealed yourself to them instead.
-
 ## Intrude on Someone
 
-> (mostly the same as UHH waylay.)
+When you intrude on someone's moment, roll. On any hit, you interrupt them, and they can’t do anything more without dealing with you. On a 10+ hit, choose 2 of the following. On a 7–9 hit, choose 1.
 
-When you intrude in someone's moment, roll. On any hit, they must drop everything and deal with you. On a 10+ hit, choose 2 of the following. On a 7–9 hit, choose 1.
-
-- You drive them scrambling back. (you overwhelm them?)
-- You strike them violently, wounding and dismaying them.
+- You drive them scrambling back.
 - You throw them off-balance and they stumble or fall.
 - You seize bodily hold of them.
 - You shock and startle them and they panic or freeze.
+- You steal any attention they're getting from onlookers.
 
-On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you’ve overplayed your position and given them the upper hand.
+On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you misread your opportunity and gave them the upper hand.
 
 ## Sniff the Wind
 
-> (still digesting from UHH)
+> (still digesting from UHH; maybe turn this into instability?)
 
 When you sniff the wind, roll. On any hit, ask the MC questions, which they must answer truthfully. On a 10+ hit, ask 2. On a 7–9 hit, ask 1.
 
@@ -78,3 +50,41 @@ I can provide strength and protection to those around me.
 I am [x], or I can [x].
 
 On a miss, choose 1 that you are or can, and 1 that you definitely aren’t or can’t. In any case, ask the MC what happens and where you are now.
+
+## Size Someone Up
+
+When you size someone up, roll. On any hit, ask them questions; they must answer honestly. These are things that you realize about them from just a quick look; you need not speak or interact in any way. On a 10+ hit, ask them 2 questions. On a 7–9 hit, ask them 1.
+
+- What do you intend to do?
+- How far are you prepared to go?
+- !! Where are you confident, and where are you uncertain?
+- ! What do you hope will happen, what do you fear, and how prepared are you for each?
+
+On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you’ve revealed your attention or your intentions to them.
+
+
+## Open Up to Someone
+
+When you open up to someone, roll. On any hit, you capture their attention and they must hear you out. On a 10+ hit, choose 2 of the following. On a 7–9 hit, choose 1.
+
+- Reveal to them what you’d like them to do. If they accede, offer them a reward or a favor, but if they refuse, you may consider it an insult.
+- Reveal to them something you’re considering, and judge their reaction to it. Ask their player what they think; they have to tell you. This can be implicit or explicit, and they may or may not realize what they’ve revealed.
+- !! Offer them something, explicitly or implicitly. If they accept it, they’re beholden to you, in proportion, as you judge it, but if they refuse, you may consider it an insult.
+- ! Confide in them or explain something to them. Tell them what you reveal and ask them how they take it. They must answer honestly.
+
+On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you’ve made yourself beholden to them.
+
+## Draw Someone Out
+
+> (It's not bad, but also not exactly what I want from this game.  UHH wants you to get people to reveal _themselves_.  Pocket wants you to reveal _the situation_ more than the figments.  Maybe combine this with Open Up?).
+
+When you draw someone out, roll. On any hit, you seize their attention and they open up to you. On a 10+ hit, ask them 2 of the following; they must answer honestly. On a 7–9 hit, ask 1.
+
+- What are you considering? (what's going on here?)
+- Where are you open to me, where are you vulnerable, and where are you guarded? (how can you help me?)
+- What are you forgetting, ignoring, or keeping from yourself?
+- What do you hope I’ll do?
+- What are you afraid I’ll do? (what are you afraid will happen?)
+- What do you expect, and how do you feel about it?
+
+On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you’ve revealed yourself to them instead.
