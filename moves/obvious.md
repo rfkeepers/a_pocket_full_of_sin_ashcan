@@ -2,7 +2,7 @@
 
 ## Take Their Measure
 
-**When you size someone up,** roll. On any hit, ask them questions; they must answer honestly. These are all impressions you can get at a glance, even at a distance- you don't need to speak with them first. On a 2+, ask 2 from the list. On a 1, ask them 1.
+**When you size someone up,** roll. On any hit, ask their player these questions; they must answer honestly. These are all impressions you can get at a glance, even at a distance. You don't need to speak with them first. On a 2+, ask 2 from the list. On a 1, ask them 1.
 
 - What do you intend to do, and how far are you prepared to go?
 - Where are you open to me? Where are you vulnerable, and where are you guarded?
@@ -52,7 +52,9 @@ On a miss, ask the MC what goes wrong. They might have you choose 1 anyway, but 
 
 ## Scuffle and Fracas
 
-**When you get into a scuffle or fracas**- whatever danger, disaster, or developing catastrophe it is- tell the MC what you mean to achieve by the end of this, and roll. If anyone else is getting into it at the same time, they do the same right now. On 2+, you do it and nothing terrible happens, to boot. On 1, you either nothing terrible happens or you do what you meant to, say which. On a miss, ask the MC what happens and where you are now.
+**When you get into a scuffle or fracas** or otherwise navigate your way through some chaos, answer the next question and roll. What do you want to have accomplished by the time the hubbub dies down? (ex: steal the queen's necklace, stand proud above them all, disappear without a trace, sneak a kiss and steal his heart). On 2+ you do it, and what's more, nothing terrible happens. On 1, either nothing terrible happens or you accomplish your goal, say which. On a miss, prepare for the worst. Ask the MC what happens and where you are now.
+
+Anytime a scuffle begins, all characters in the scene get drawn into it. Before resolving any one roll everyone should state their goal and make a roll.  If you'd rather stay out of it then that's what you're trying to accomplish.  When the dust settles, it settles for everyone all at once.
 
 ## Draw Someone Out
 
