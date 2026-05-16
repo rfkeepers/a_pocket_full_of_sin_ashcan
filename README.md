@@ -102,15 +102,6 @@ Players use this time on some of following:
 
 ---
 
-## Basic Moves
-
-The following moves are only used within psychic pockets.  The Seven Course Meal and Downtime phases use their own distinct set of moves.
-
-- **Scuffle and Fracas** - A group move consolidating an action-packed sequence into a single passage.
-- **Disinter a Secret** - Establish or unveil a truth about the pocket, the person's history or psyche, or the world outside.
-- **Tamper with Reality** - PCs may attempt to impose their own will on the pocket, shaping or changing it to fit their needs.
-- **Come 'Round** - Recover from, or stabilize, Harm.  Focuses on inter-character dynamics, not on the mechanics of healing.
-
 ## Rolling Against Instability
 
 Any foreign intrusion into a psychic pocket will inevitably destabilize its foundation, tugging against the fabric of that universe until it begins to unravel.  The result is not only devastating to the owner of that pocket, it also serves to make the world around the players increasingly inhospitable.
@@ -191,7 +182,7 @@ Ego playbooks:
 
 > #### Knight  
 > "Truly I was born to be an example of misfortune, and a target at which the arrows of adversary are aimed.”  
-> Embodies protection, self-sacrifice, and strict adherence to virtues.
+> An embodiment of protection, self-sacrifice, and strict adherence to virtues.
 
 > #### Savior  
 > “Life always promises to give the world a person to take away everything bad.”  
@@ -201,9 +192,9 @@ Ego playbooks:
 > “The fallen angel becomes a malignant devil. Yet even that enemy of God and man had friends and associates in his desolation; I am alone.”  
 > Bodily manifestation of guilt and sinfulness.  Power through body-horror.
 
-> #### Siren  
-> “I Was Born When She Kissed Me. I Died When She Left Me. I Lived A Few Weeks While She Loved Me.”  
-> Desire, charms, glamour, and social graces.  Willing use others as pawns for their own purposes.
+> #### Firebrand  
+> “Nature never appeals to intelligence until habit and instinct are useless.”  
+> Instigation alive. A spark seeking dry tinder.
 
 > #### Nobody  
 > “I am not special. I am not a beautiful or unique snowflake. I'm the same decaying organic matter as everything else.”  

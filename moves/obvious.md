@@ -2,7 +2,7 @@
 
 ## Take Their Measure
 
-When you size someone up, roll. On any hit, ask them questions; they must answer honestly. These are all impressions you can get at a glance, even at a distance- you don't need to speak with them first. On a 2+, ask 2 from the list. On a 1, ask them 1.
+**When you size someone up,** roll. On any hit, ask them questions; they must answer honestly. These are all impressions you can get at a glance, even at a distance- you don't need to speak with them first. On a 2+, ask 2 from the list. On a 1, ask them 1.
 
 - What do you intend to do, and how far are you prepared to go?
 - Where are you open to me? Where are you vulnerable, and where are you guarded?
@@ -14,7 +14,7 @@ On a miss, ask the MC or the other player what goes wrong. They might have you c
 
 ## Come Right Out with It
 
-When you come right out and give someone what's on your mind, roll.  On a hit, you've got their attention.  You can do any or all of:
+**When you come right out and give someone what's on your mind,** roll.  On a hit, you've got their attention.  You can do any or all of:
 
 - Come clean about what you'd like them to do.
 - Come clean about something you've been hiding.
@@ -27,7 +27,7 @@ On a 1, if they don't want to hear about it, they can cut you off, dance around 
 
 ## Barge In on Someone
 
-When you come barging in on someone's moment, roll. On any hit, you interrupt them, and they can’t do anything more without dealing with you. On a 2+, choose 2 of the following. On a 1, choose 1.  These can be used to affect either whomever you intruded on, or on the gawkers and audience they've gathered.
+**When you come barging in on someone's moment,** roll. On any hit, you interrupt them, and they can’t do anything more without dealing with you. On a 2+, choose 2 of the following. On a 1, choose 1.  These can be used to affect either whomever you intruded on, or on the gawkers and audience they've gathered.
 
 - You drive them stumbling back, or scatter them.
 - You trip them, throw them off-balance, or unseat them from power.
@@ -40,7 +40,7 @@ On a miss, ask the MC or the other player what goes wrong. They might have you c
 
 ## Get the Lay of The Land
 
-When you survey your surroundings and get the lay of the land, roll. On any hit, ask the MC questions, and they'll answer truthfully. On a 2+, ask 2. On a 1, ask at least 1; you can ask a second question after, if you want to draw attention to yourself.
+**When you survey your surroundings and get the lay of the land,** roll. On any hit, ask the MC questions, and they'll answer truthfully. On a 2+, ask 2. On a 1, ask at least 1; you can ask a second question after, if you want to draw attention to yourself.
 
 - What’s coming this way?
 - What’s valuable here that we haven't yet found?
@@ -52,8 +52,8 @@ On a miss, ask the MC what goes wrong. They might have you choose 1 anyway, but 
 
 ## Scuffle and Fracas
 
-When you get into a scuffle or fracas- whatever danger, disaster, or developing catastrophe it is- tell the MC what you mean to achieve by the end of this, and roll. If anyone else is getting into it at the same time, they do the same right now. On 2+, you do it and nothing terrible happens, to boot. On 1, you either nothing terrible happens or you do what you meant to, say which. On a miss, ask the MC what happens and where you are now.
+**When you get into a scuffle or fracas**- whatever danger, disaster, or developing catastrophe it is- tell the MC what you mean to achieve by the end of this, and roll. If anyone else is getting into it at the same time, they do the same right now. On 2+, you do it and nothing terrible happens, to boot. On 1, you either nothing terrible happens or you do what you meant to, say which. On a miss, ask the MC what happens and where you are now.
 
 ## Draw Someone Out
 
-When you try to draw someone out, roll.  On 2+, tell their player, "I do indeed draw you out, by doing X. What’s the effect?" On 1, ask their player, "what could I do to draw you out?  What would be the effect?".  Whether you do it or not is up to you.  On a miss, ask them what went wrong? It may still draw them out, but prepare for the worst. Perhaps you revealed yourself to them.
+**When you try to draw someone out,** roll.  On 2+, tell their player, "I do indeed draw you out, by doing \<x\>. What’s the effect?" On 1, ask their player, "what could I do to draw you out?  What would be the effect?".  Whether you do it or not is up to you.  On a miss, ask them what went wrong? It may still draw them out, but prepare for the worst. Perhaps you revealed yourself to them.
