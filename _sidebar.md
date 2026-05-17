@@ -1,5 +1,5 @@
 - [Home](README.md)
-
+---
 <!-- - About This Game -->
   <!-- - [Safety](about-this-game/safety.md) -->
 

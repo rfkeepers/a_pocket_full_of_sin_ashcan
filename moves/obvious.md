@@ -1,6 +1,11 @@
 # Obvious Moves
 
-## Take Their Measure
+Obvious moves are the basic ways to play out an action or a moment. They help you discover new information, get closer to- or further from- other characters, and generally achieve your goals. There's nothing special about how they happen: every PC can use them. NPCs can use them on PCs, too!
+
+When calling on one of the obvious moves, it's best if you call out the move by name.  Eg: "I want to 'Take Their Measure'".  Likewise, the MC may ask if you're trying to use one of the moves, "It sounds like you're trying to 'Come Right Out With It'?" Obvious or not, it always helps for everyone to understand what you're trying to do.
+
+---
+### Take Their Measure
 
 **When you size someone up,** roll. On any hit, ask their player these questions; they must answer honestly. These are all impressions you can get at a glance, even at a distance. You don't need to speak with them first. On a 2+, ask 2 from the list. On a 1, ask them 1.
 
@@ -12,14 +17,15 @@
 
 On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you revealed your attention or your intentions to them.
 
-## Come Right Out with It
+---
+### Come Right Out with It
 
 **When you come right out and give someone what's on your mind,** roll.  On a hit, you've got their attention. Come clean about what you want or what they should know. Ask them how they take it.  They must answer honestly, even if they don't realize they've let it slip. On a 1, if they don't want to hear it they can cut you off, dance around the topic, or ride roughshod over what you're trying to show them.  On a miss, they might hear you out for a moment anyway, but be prepared for the worst. Ask their player what goes wrong.
 
-They can request a solemn promise from you at any point during the move. On a hit, you could ask a promise of them, too. But only one of you gets to make the request: whomever is first. You don't have to make the promise, of course. But if you don't, tell them honestly what's stopping you.
+They can request a solemn promise from you at any point during the move. On a hit, you could ask a promise of them, too. But only one of you gets to make the request: whomever is first. You don't have to agree to the promise, of course. But if you don't, tell them honestly what's stopping you.
 
-
-## Barge In on Someone
+---
+### Barge In on Someone
 
 **When you come barging in on someone's moment,** roll. On any hit, you interrupt them, and they can’t do anything more without dealing with you. On a 2+, choose 2 of the following. On a 1, choose 1.  These can be used to affect either whomever you intruded on, or on the gawkers and audience they've gathered.
 
@@ -32,7 +38,8 @@ They can request a solemn promise from you at any point during the move. On a hi
 
 On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you misread your opportunity and gave them, or their audience, the upper hand.
 
-## Get the Lay of The Land
+---
+### Get the Lay of The Land
 
 **When you survey your surroundings and get the lay of the land,** roll. On any hit, ask the MC questions, and they'll answer truthfully. On a 2+, ask 2. On a 1, ask at least 1; you can ask a second question after, if you want to draw attention to yourself.
 
@@ -44,12 +51,16 @@ On a miss, ask the MC or the other player what goes wrong. They might have you c
 
 On a miss, ask the MC what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you've made the pocket suspicious of you without knowing.
 
-## Scuffle and Fracas
+---
+### Scuffle and Fracas
 
 **When you get into a scuffle or fracas** or otherwise navigate your way through some chaos, answer the next question and roll. What do you want to have accomplished by the time the hubbub dies down? (ex: steal the queen's necklace, stand proud above them all, disappear without a trace, sneak a kiss and steal his heart). On 2+ you do it, and what's more, nothing terrible happens. On 1, either nothing terrible happens or you accomplish your goal, say which. On a miss, prepare for the worst. Ask the MC what happens and where you are now.
 
 Anytime a scuffle begins, all characters in the scene get drawn into it. Before resolving any one roll everyone should state their goal and make a roll.  If you'd rather stay out of it then that's what you're trying to accomplish.  When the dust settles, it settles for everyone all at once.
 
-## Draw Someone Out
+---
+### Draw Someone Out
 
 **When you try to draw someone out,** roll.  On 2+, tell their player, "I do indeed draw you out, by doing \<x\>. What’s the effect?" On 1, ask their player, "what could I do to draw you out?  What would be the effect?".  Whether you do it or not is up to you.  On a miss, ask them what went wrong? It may still draw them out, but prepare for the worst. Perhaps you revealed yourself to them.
+
+---
