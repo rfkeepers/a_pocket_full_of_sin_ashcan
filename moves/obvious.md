@@ -14,16 +14,10 @@ On a miss, ask the MC or the other player what goes wrong. They might have you c
 
 ## Come Right Out with It
 
-**When you come right out and give someone what's on your mind,** roll.  On a hit, you've got their attention.  You can do any or all of:
+**When you come right out and give someone what's on your mind,** roll.  On a hit, you've got their attention. Come clean about what you want or what they should know. Ask them how they take it.  They must answer honestly, even if they don't realize they've let it slip. On a 1, if they don't want to hear it they can cut you off, dance around the topic, or ride roughshod over what you're trying to show them.  On a miss, they might hear you out for a moment anyway, but be prepared for the worst. Ask their player what goes wrong.
 
-- Come clean about what you'd like them to do.
-- Come clean about something you've been hiding.
-- Show off what you've got up your sleeve.
-- Offer them something, implicitly or explicitly.
+They can request a solemn promise from you at any point during the move. On a hit, you could ask a promise of them, too. But only one of you gets to make the request: whomever is first. You don't have to make the promise, of course. But if you don't, tell them honestly what's stopping you.
 
-Whatever you reveal to them, ask their player what they think; they have to tell you honestly, even if their character doesn't realize they've let it slip.  They may, at any point, ask you to make them a promise in return; if you can't, tell them honestly why.
-
-On a 1, if they don't want to hear about it, they can cut you off, dance around the topic, circumlocute, or ride roughshod over what you're trying to show them. On a miss, ask the MC or the other player what goes wrong. They might hear you out for a moment anyway, but be prepared for the worst.
 
 ## Barge In on Someone
 
