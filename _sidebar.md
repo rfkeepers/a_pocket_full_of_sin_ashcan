@@ -12,6 +12,9 @@
 - Moves
   - [Obvious](/moves/obvious.md)
   - [Instability](/moves/instability.md)
+  - [Powers](/moves/pocket_powers.md)
+
+- [Burdens](/mechanics/burdens.md)
 
 <!-- - Playbooks -->
   <!-- - [Playbook Overview](playbooks/playbook_overview.md) -->

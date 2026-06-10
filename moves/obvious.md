@@ -17,6 +17,16 @@ When calling on one of the obvious moves, it's best if you call out the move by 
 
 On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you revealed your attention or your intentions to them.
 
+##### Burden
+
+Always ask one of the following questions:
+
+- What do you obviously not like about me?
+- What am I not going to like about you?
+- Why do I need to worry about having a run-in?
+
+The player who answers may not say, "nothing". If they try then any other player may provide an answer in their stead, and it must be treated as truth.
+
 ---
 ### Come Right Out with It
 
@@ -24,26 +34,39 @@ On a miss, ask the MC or the other player what goes wrong. They might have you c
 
 They can request a solemn promise from you at any point during the move. On a hit, you could ask a promise of them, too. But only one of you gets to make the request: whomever is first. You don't have to agree to the promise, of course. But if you don't, tell them honestly what's stopping you.
 
+##### Burden
+
+You cannot ask request promises from them.  Likewise, you must accept any promise they request of you.
+
 ---
 ### Barge In on Someone
 
-**When you come barging in on someone's moment,** roll. On any hit, you interrupt them, and they can’t do anything more without dealing with you. On a 2+, choose 2 of the following. On a 1, choose 1.  These can be used to affect either whomever you intruded on, or on the gawkers and audience they've gathered.
+**When you come barging in on someone's moment,** roll. On any hit, you interrupt them, and they can’t do anything more without dealing with you. On a 2+, choose 2 of the following. On a 1, choose 1.  These choices can affect either the character you intruded on or the gawkers and audience they've gathered.
 
-- You drive them stumbling back, or scatter them.
-- You trip them, throw them off-balance, or unseat them from power.
-- You lay hold of them.
-- You startle them out of their wits and their courage fails them.
 - They give you their undivided attention for more than a moment.
 - You deprive them of something they need right now.
+- You drive them floundering back, or scatter them.
+- You throw them off-balance, or unseat them from power.
+- You lay hold of them.
+- You startle them out of their wits and their courage fails them.
 
 On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you misread your opportunity and gave them, or their audience, the upper hand.
+
+##### Burden
+
+Always tell the MC one of the following:
+
+- I hurt them, even though I tried to restrain myself.
+- I scare them, though I only wanted to make a statement.
+- I disrespect them, though I tried to be appropriate.
+- I make a show of myself, tough you meant to be discrete.
 
 ---
 ### Get the Lay of The Land
 
-**When you survey your surroundings and get the lay of the land,** roll. On any hit, ask the MC questions, and they'll answer truthfully. On a 2+, ask 2. On a 1, ask at least 1; you can ask a second question after, if you want to draw attention to yourself.
+**When you survey your surroundings and get the lay of the land,** roll. On any hit, ask the MC questions and they'll answer truthfully. On a 2+, ask 2. On a 1, ask at least 1; you can ask a second question after, if you're willing to let the MC make a move.
 
-- What’s coming this way?
+- What’s coming this way or got its eye on me?
 - What’s valuable here that we haven't yet found?
 - What's wrong with this place?
 - What here rouses my personal interest?
@@ -51,16 +74,32 @@ On a miss, ask the MC or the other player what goes wrong. They might have you c
 
 On a miss, ask the MC what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you've made the pocket suspicious of you without knowing.
 
+##### Burden
+
+Always tell the MC one of the following:
+
+- I stand out like a sore thumb and draw attention to myself.
+- I snoop about like a bad egg and make someone suspicious of my intentions.
+- I blunder about and break, spill, or scatter something.
+
 ---
 ### Scuffle and Fracas
 
 **When you get into a scuffle or fracas** or otherwise navigate your way through some chaos, answer the next question and roll. What do you want to have accomplished by the time the hubbub dies down? (ex: steal the queen's necklace, stand proud above them all, disappear without a trace, sneak a kiss and steal his heart). On 2+ you do it, and what's more, nothing terrible happens. On 1, either nothing terrible happens or you accomplish your goal, say which. On a miss, prepare for the worst. Ask the MC what happens and where you are now.
 
-Anytime a scuffle begins, all characters in the scene get drawn into it. Before resolving any one roll everyone should state their goal and make a roll.  If you'd rather stay out of it then that's what you're trying to accomplish.  When the dust settles, it settles for everyone all at once.
+Anytime a scuffle begins, all characters in the scene get drawn into it. Before resolving any one roll everyone should state their goal, then everyone makes their roll at the same time.  If you'd rather stay out of it then that's what you're trying to accomplish.  When the dust settles, it settles for everyone all at once.
+
+##### Burden
+
+Whenever you get into a scuffle, whether or not you caused it, increase instability by `3`.
 
 ---
 ### Draw Someone Out
 
-**When you try to draw someone out,** roll.  On 2+, tell their player, "I do indeed draw you out, by doing \<x\>. What’s the effect?" On 1, ask their player, "what could I do to draw you out?  What would be the effect?".  Whether you do it or not is up to you.  On a miss, ask them what went wrong? It may still draw them out, but prepare for the worst. Perhaps you revealed yourself to them.
+**When you try to draw someone out,** roll.  On 2+, tell their player, "I do draw you out, by doing \<x\>. What’s the effect?" On 1, ask their player, "what could I do to draw you out?  What would be the effect?".  Whether you do it or not is up to you.  On a miss, ask them what went wrong? It may still draw them out, but prepare for the worst. Perhaps you revealed yourself to them.
+
+##### Burden
+
+Before you roll, tell their player: "I'm not allowed to get exactly what I want".  If you manage to draw them out, they have to choose: give you more than you were ready to handle, less than you'd hoped, or go about the whole thing cross-ways.
 
 ---
