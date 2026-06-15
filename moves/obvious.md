@@ -36,7 +36,7 @@ They can request a solemn promise from you at any point during the move. On a hi
 
 ##### Burden
 
-You cannot ask request promises from them.  Likewise, you must accept any promise they request of you.
+You cannot request promises from them.  Likewise, you must accept any promise they request of you.
 
 ---
 ### Barge In on Someone

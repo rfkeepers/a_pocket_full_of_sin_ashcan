@@ -9,12 +9,16 @@
   <!-- - [NPCs](rules/npcs.md) -->
   <!-- - [Attention Tokens](rules/attention_tokens.md) -->
 
+- Playing the game
+  - [Integrity](/playing/integrity.md)
+
 - Moves
   - [Obvious](/moves/obvious.md)
   - [Instability](/moves/instability.md)
   - [Powers](/moves/pocket_powers.md)
 
-- [Burdens](/mechanics/burdens.md)
+- Rules
+  - [Burdens](/mechanics/burdens.md)
 
 <!-- - Playbooks -->
   <!-- - [Playbook Overview](playbooks/playbook_overview.md) -->

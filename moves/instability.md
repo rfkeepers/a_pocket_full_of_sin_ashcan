@@ -29,7 +29,7 @@ You can pull any item you need from the surrounding scenery, just say, **"an \<x
 
 ##### Burden
 
-This item comes out of you, pulled somewhere into this pocket from deep inside your own. This realization always takes you by surprise.  Describe the lost memory the item recalls when you pick it up.
+This item comes out of you, pulled into this pocket from somewhere deep inside your own. This realization always takes you by surprise.  Describe the lost memory the item recalls when you pick it up.
 
 ---
 ### Disinter a Secret
