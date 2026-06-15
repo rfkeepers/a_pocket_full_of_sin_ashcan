@@ -17,7 +17,7 @@ When calling on one of the obvious moves, it's best if you call out the move by 
 
 On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you revealed your attention or your intentions to them.
 
-##### Burden
+<div class="burden">
 
 Always ask one of the following questions:
 
@@ -26,6 +26,7 @@ Always ask one of the following questions:
 - Why do I need to worry about having a run-in?
 
 The player who answers may not say, "nothing". If they try then any other player may provide an answer in their stead, and it must be treated as truth.
+</div>
 
 ---
 ### Come Right Out with It
@@ -34,9 +35,10 @@ The player who answers may not say, "nothing". If they try then any other player
 
 They can request a solemn promise from you at any point during the move. On a hit, you could ask a promise of them, too. But only one of you gets to make the request: whomever is first. You don't have to agree to the promise, of course. But if you don't, tell them honestly what's stopping you.
 
-##### Burden
+<div class="burden">
 
 You cannot request promises from them.  Likewise, you must accept any promise they request of you.
+</div>
 
 ---
 ### Barge In on Someone
@@ -52,14 +54,15 @@ You cannot request promises from them.  Likewise, you must accept any promise th
 
 On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you misread your opportunity and gave them, or their audience, the upper hand.
 
-##### Burden
+<div class="burden">
 
 Always tell the MC one of the following:
 
 - I hurt them, even though I tried to restrain myself.
 - I scare them, though I only wanted to make a statement.
 - I disrespect them, though I tried to be appropriate.
-- I make a show of myself, tough you meant to be discrete.
+- I make a show of myself, though I meant to be discrete.
+</div>
 
 ---
 ### Get the Lay of The Land
@@ -74,13 +77,14 @@ Always tell the MC one of the following:
 
 On a miss, ask the MC what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you've made the pocket suspicious of you without knowing.
 
-##### Burden
+<div class="burden">
 
 Always tell the MC one of the following:
 
 - I stand out like a sore thumb and draw attention to myself.
 - I snoop about like a bad egg and make someone suspicious of my intentions.
 - I blunder about and break, spill, or scatter something.
+</div>
 
 ---
 ### Scuffle and Fracas
@@ -89,17 +93,19 @@ Always tell the MC one of the following:
 
 Anytime a scuffle begins, all characters in the scene get drawn into it. Before resolving any one roll everyone should state their goal, then everyone makes their roll at the same time.  If you'd rather stay out of it then that's what you're trying to accomplish.  When the dust settles, it settles for everyone all at once.
 
-##### Burden
+<div class="burden">
 
 Whenever you get into a scuffle, whether or not you caused it, increase instability by `3`.
+</div>
 
 ---
 ### Draw Someone Out
 
 **When you try to draw someone out,** roll.  On 2+, tell their player, "I do draw you out, by doing \<x\>. What’s the effect?" On 1, ask their player, "what could I do to draw you out?  What would be the effect?".  Whether you do it or not is up to you.  On a miss, ask them what went wrong? It may still draw them out, but prepare for the worst. Perhaps you revealed yourself to them.
 
-##### Burden
+<div class="burden">
 
 Before you roll, tell their player: "I'm not allowed to get exactly what I want".  If you manage to draw them out, they have to choose: give you more than you were ready to handle, less than you'd hoped, or go about the whole thing cross-ways.
+</div>
 
 ---

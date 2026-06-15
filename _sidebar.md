@@ -15,7 +15,7 @@
 - Moves
   - [Obvious](/moves/obvious.md)
   - [Instability](/moves/instability.md)
-  - [Powers](/moves/pocket_powers.md)
+  - [Powers](/moves/psychic_powers.md)
 
 - Rules
   - [Burdens](/mechanics/burdens.md)

@@ -11,6 +11,7 @@
 <style>
 :root {
     --bg-color: #070a06;
+    --bg-burden-color: #0b0d0a;
     --text-color: #c9bbb0;
     --header-color: #E2B031;
     --sub-header-color: #813636;
@@ -120,6 +121,43 @@
     --sidebar-toggle-height                       : 36px;
     --sidebar-toggle-icon-color                   : var(--base-color);
 }
+
+.storybox {
+  background: var(--sb-bg-color);
+  border-radius: 12px;
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+  padding: 0 6% 0 4%;
+  font-style: oblique;
+  line-height: 1.25em;
+}
+
+.burden {
+  background: var(--bg-burden-color);
+  border-radius: 12px;
+  border-left: 1px solid var(--sub-header-color);
+  padding: 0 2% 0 2.5%;
+}
+
+.burden::before {
+  content: "❍ Burden";
+  font-size: 1.3em;
+  color: var(--sub-header-color);
+}
+
+.burden p {
+  padding-left: 1em;
+}
+
+.burden li {
+  margin-left: 0.5em;
+}
+
+.burden p:first-of-type {
+  margin-top: 4px;
+}
+
+
 </style>
 <body>
   <div id="app"></div>

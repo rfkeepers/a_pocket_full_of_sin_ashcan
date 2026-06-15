@@ -20,17 +20,11 @@ That second question might sound silly- you're playing this game to find out wha
 
 A persons' natural instinct is to insulate themselves from unreality. You will not die in your dream. A book cannot be served food. The video game, axiomatic to its code, cannot reciprocate your love. You are safe. Safe from harm, and from guilt, and sadness.
 
-```
-HENRY: If her neural activity stays within this
-range, I know she's self-cognitive. As if she
-were having a dream, but she knows she's dreaming.
-She can "wake up" any time she wants to... However,
-if her level of involvement is rather intense, as
-it was just now, she can perceive things as true.
-It's difficult to keep perspective.
+<div class="storybox">
 
-As Novak lingers on that question, Ramsey gestures
-at the red section.
+HENRY: If her neural activity stays within this range, I know she's self-cognitive. As if she were having a dream, but she knows she's dreaming. She can "wake up" any time she wants to... However, if her level of involvement is rather intense, as it was just now, she can perceive things as true. It's difficult to keep perspective.
+
+As Novak lingers on that question, Ramsey gestures at the red section.
 
 RAMSEY: What happens here?
 
@@ -38,13 +32,10 @@ HENRY: We don't talk about that.
 
 NOVAK: What happens?
 
-HENRY: Well, Theoretically, while she's inside. If
-she came to believe that Stargher's world is her
-world, her mind has the power to convince the body
-that anything done to it is, um, actually done.
+HENRY: Well, Theoretically, while she's inside. If she came to believe that Stargher's world is her world, her mind has the power to convince the body that anything done to it is, um, actually done.
 
 -- The Cell
-```
+</div>
 
 I can give you a clear assurance: pockets are not physical spaces, and you are safe. Safe from the possibility of death and injury at least. Your journey here, by principle and covenant, is to find out how your time in these pockets changes you; not to find out what untimely demise claims you at the end.
 

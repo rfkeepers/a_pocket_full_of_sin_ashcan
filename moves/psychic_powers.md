@@ -1,4 +1,4 @@
-# Pocket Powers
+# Psychic Powers
 
 Psychic pockets isolate themselves from the rest of the world by nature. Hidden and vulnerable behind the veil of consciousness. You, the player, trespassing in these inviolable spaces, gain a remarkable power over them: you get to affect change.
 
@@ -8,13 +8,13 @@ Yet you can do so much more than that.
 
 Every character gets the opportunity to push against pocket reality; to shape and reshape the very truth of the space. They can add or remove from what's here and what isn't, to make the logical illogical, to pull and twist the at shape of things.  You, player, get to do this any time you're in, but you each only get to do it once to each pocket.
 
-## Invoking a pocket power
+## Invoking a psychic power
 
-Pocket powers work differently from other moves. It's a vote, not a roll. Only your fellow players (and sometimes the MC) get a say in the matter; their votes determine the potency of the effect.
+Psychic powers work differently from other moves. It's a vote, not a roll. Only your fellow players (and sometimes the MC) get a say in the matter; their votes determine the potency of the effect.
 
 To use a power, first tell the table what power you're using, then call for a show of hands, resolve the outcome, then continue with play.  No other moves should be in this time; if other characters want to aid or interfere, that's why they have a vote.
 
-Voting on pocket powers is a metaphysical trick. Your own character doesn't have to be participating, present, or even aware of the power for you to cast your vote. It's not even "your character" making the vote. It's you.
+Voting on psychic powers is a metaphysical trick. Your own character doesn't have to be participating, present, or even aware of the power for you to cast your vote. It's not even "your character" making the vote. It's you.
 
 The rest of the rules are simple:
 - Only the flesh and blood characters can vote; not figments.
@@ -36,11 +36,10 @@ Since voting works differently than rolling, use the following as a guide to res
 
 ### Can the MC vote?
 
-Figments, bound within the same warp and weft as all the rest of the pocket, can neither use nor affect pocket powers. Should the MC bring some other flesh and blood character into the pocket with you, however, well that character may do as they please, and invoke and vote on powers alike.
+Figments, bound within the same warp and weft as all the rest of the pocket, can neither use nor affect psychic powers. Should the MC bring some other flesh and blood character into the pocket with you, however, well that character may do as they please, and invoke and vote on powers alike.
 
-## The powers
+## Powers
 
----
 ### Give them the notion
 
 When you introduce something new to the pocket- whether a figment, memory, idea, pain, joy, or anything else- a majority means it arrives in the pocket exactly as you want. If you have unanimity, name something else it brings with it or say how the pocket reacts to its presence. If a minority, it's here, but something went wrong: you've introduced something stunted, warped, or sickly.  Ask or tell the table what.
