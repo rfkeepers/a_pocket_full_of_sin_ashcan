@@ -1,5 +1,3 @@
-[![Frederick H. Evans - Kelmscott Manor: Attics](../resources/kelmscott_manor_attics.jpg)](https://www.philamuseum.org/objects/44516)
-
 # Integrity in the pocket
 
 You, player, are going to spend a lot of your time inside psychic pockets throughout this game. But what does it mean to _be_ inside a pocket? What does it mean to play at being inside a pocket?
@@ -23,9 +21,16 @@ That second question might sound silly- you're playing this game to find out wha
 A persons' natural instinct is to insulate themselves from unreality. You will not die in your dream. A book cannot be served food. The video game, axiomatic to its code, cannot reciprocate your love. You are safe. Safe from harm, and from guilt, and sadness.
 
 ```
-HENRY: If her neural activity stays within this range, I know she's self-cognitive. As if she were having a dream, but she knows she's dreaming. She can "wake up" any time she wants to... However, if her level of involvement is rather intense, as it was just now, she can perceive things as true. It's difficult to keep perspective.
+HENRY: If her neural activity stays within this
+range, I know she's self-cognitive. As if she
+were having a dream, but she knows she's dreaming.
+She can "wake up" any time she wants to... However,
+if her level of involvement is rather intense, as
+it was just now, she can perceive things as true.
+It's difficult to keep perspective.
 
-As Novak lingers on that question, Ramsey gestures at the red section.
+As Novak lingers on that question, Ramsey gestures
+at the red section.
 
 RAMSEY: What happens here?
 
@@ -33,7 +38,10 @@ HENRY: We don't talk about that.
 
 NOVAK: What happens?
 
-HENRY: Well, Theoretically, while she's inside. If she came to believe that Stargher's world is her world, her mind has the power to convince the body that anything done to it is, um, actually done.
+HENRY: Well, Theoretically, while she's inside. If
+she came to believe that Stargher's world is her
+world, her mind has the power to convince the body
+that anything done to it is, um, actually done.
 
 -- The Cell
 ```
@@ -55,3 +63,5 @@ You might be tempted, in the pocket, as you watch the impossible unfold into the
 Fight these temptations. They arise from the part of you that hopes to barricade itself from uncertainty, for your character's safety, for your own safety.  The excuse is right there, it's always right there: "the pocket isn't real, this doesn't matter". There is no integrity in the excuse.
 
 As the author, I could coerce the concern through mechanics: for harm, for the terror of a short drop and a sudden stop.  But that's not integrity either, not the game I want to make, nor the game I want you to play. Besides, I trust you, and that you're here for this experience as much as I am. It's all a matter of seeing to it that we understand each other about what that experience means. And then sticking to it. That's what integrity means.
+
+---
