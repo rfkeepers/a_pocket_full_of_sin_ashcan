@@ -6,7 +6,7 @@ You, player, are going to spend a lot of your time inside psychic pockets throug
 
 You may have already gleaned some obvious tenants from reading elsewhere: pockets are mental spaces, liminal, unreal, and subject to the whims and powers of anyone who enters them (which, let's be level, is no one outside you and your cohorts).
 
-Are they dreams? No, though their spaces sometimes fold together with the non-euclidean joinery that one finds in a dream.
+Are they dreams? No, though their interiors sometimes fold together with the non-euclidean joinery that one finds in a dream.
 
 So they must be real? Well, not that either. They are part of this world, but also outside of it. Little baubles of reality unto themselves.
 

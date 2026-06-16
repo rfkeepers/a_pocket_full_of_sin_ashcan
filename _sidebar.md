@@ -1,4 +1,4 @@
-- [Home](README.md)
+- [A Pocket Full of Sin](README.md)
 ---
 <!-- - About This Game -->
   <!-- - [Safety](about-this-game/safety.md) -->
