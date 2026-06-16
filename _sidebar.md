@@ -10,7 +10,7 @@
   <!-- - [Attention Tokens](rules/attention_tokens.md) -->
 
 - Playing the game
-  - [Integrity](/playing/integrity.md)
+  - [Integrity in the pocket](/playing/integrity.md)
 
 - Moves
   - [Obvious](/moves/obvious.md)
@@ -19,6 +19,10 @@
 
 - Rules
   - [Burdens](/mechanics/burdens.md)
+
+- Character Creation
+  - [Player characters](/chargen/basics.md)
+  - [Egos](/chargen/ego_sheet.md)
 
 <!-- - Playbooks -->
   <!-- - [Playbook Overview](playbooks/playbook_overview.md) -->

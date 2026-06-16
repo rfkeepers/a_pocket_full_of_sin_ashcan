@@ -127,6 +127,10 @@
     --search-result-heading-color: #FFFFFF;
 }
 
+.sidebar-nav p {
+  margin-bottom: 0;
+}
+
 .storybox {
   color: var(--story-color);
   background: var(--sb-bg-color);
@@ -163,6 +167,31 @@
   margin-top: 4px;
 }
 
+.oblique {
+  font-style: oblique;
+}
+
+.flex {
+  display: flex;
+}
+
+.fullwidth {
+  width: 100%;
+}
+
+.fillable {
+  position: relative;
+  overflow-x:hidden;
+}
+
+.fillable::after {
+  position: absolute;
+  bottom: 0.3rem;
+  width: 100%;
+  margin-left: 8px;
+  border-bottom: 1px solid var(--text-color);
+  content: "";
+}
 
 </style>
 <body>
