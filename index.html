@@ -13,6 +13,7 @@
     --bg-color: #070a06;
     --bg-burden-color: #0b0d0a;
     --text-color: #c9bbb0;
+    --text-dim-color: #a98b80;
     --header-color: #E2B031;
     --sub-header-color: #4d9ab6;
     --brown-sub-header-color: #813636;
@@ -26,6 +27,8 @@
     --sb-bg-color: #18161B;
     --sb-text-color: #c9bbb0;
     --sb-header-color: #E2B031;
+
+    --base-line-height: 1.4;
 
     --base-background-color: var(--bg-color);
     --base-color           : var(--text-color);
@@ -182,6 +185,7 @@
 .fillable {
   position: relative;
   overflow-x:hidden;
+  padding-top: 8px;
 }
 
 .fillable::after {
@@ -191,6 +195,69 @@
   margin-left: 8px;
   border-bottom: 1px solid var(--text-color);
   content: "";
+}
+
+.smallerfont {
+  font-size: 14px.
+}
+
+.dimfont {
+  color: var(--text-dim-color);
+}
+
+.indentsm {
+  padding-left: 4px;
+}
+
+div:not(.sidebar-nav) ul li::marker {
+  content: "✧ ";
+}
+
+article:not(.sidebar-nav) ul li::marker {
+  content: "✧ ";
+}
+
+.anchor-list {
+  padding-left: 0 !important;
+}
+
+.anchor-li::marker {
+  content: "" !important;
+}
+
+.anchor-li::before {
+  content: "〔❍ ❍〕";
+}
+
+.pad-bot-sm {
+  padding-bottom: 8px;
+}
+
+.selectable-dl dt::before {
+  content: "❍ ";
+}
+
+dt {
+  font-weight: bold;
+}
+
+dt::after {
+  content: ":";
+}
+
+dd {
+  font-style: oblique;
+  margin-left: 8px;
+  color: var(--text-dim-color);
+  padding-bottom: 8px;
+}
+
+dd:last-child {
+  padding-bottom: 0;
+}
+
+dl {
+  margin: 0;
 }
 
 </style>

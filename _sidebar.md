@@ -22,6 +22,7 @@
 
 - Character Creation
   - [Player characters](/chargen/basics.md)
+  - [Selves](/chargen/self_sheet.md)
   - [Egos](/chargen/ego_sheet.md)
 
 <!-- - Playbooks -->

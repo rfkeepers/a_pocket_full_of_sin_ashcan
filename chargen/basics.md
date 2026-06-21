@@ -1,13 +1,13 @@
-## Player Characters
+# Player Characters
 
-All PCs are a composite of two playbooks: their **Self** and their **Ego**.  All characters can be described by the statement: _I am [self], but I see myself as a [ego]._
+All PCs are a composite of two playbooks: their **Self** and their **Ego**.  Each can be described by the statement: _I am [self], but I see myself as a [ego]._
 
 Examples:
 - "I am Devoted, but I see myself as a Monster."
 - "I am Asylum, but I see myself as a Savior."
 - "I am Trouble, but I see myself as a Knight."
 
-### Selves
+## Selves
 
 The "Self" playbooks represent the characters in reality: what they do, what situation they're in, and what they've committed themselves to.  
 
@@ -46,7 +46,7 @@ Self concepts:
 > A vessel for old traditions originating long before and/or outside of america.  
 > For those interested in stories about cultural, ethnic, and religious heritage and obligation, and about immigration and expatriation. An opening to explore the notion of Sin Eating from the perspective of cultures outside of western european tradition.
 
-### Egos
+## Egos
 
 The "Ego" playbooks represent the way the characters imagine themselves.  It is the persona they embody in dreams, the voice in their imagined conversations, and their reflection of their own behavior.  When characters enter psychic pockets they inhabit their ego, not their actual self.
 

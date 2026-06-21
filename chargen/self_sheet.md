@@ -1,7 +1,7 @@
-<h1>Your Ego</h1>
+<h1>Your Self</h1>
 <div class="fullwidth">
-  <div class="fillable"><b>Char Name</b>:</div>
-  <div class="fillable"><b>Char Pronouns</b>:</div>
+  <div class="fillable"><b>Player Name</b>:</div>
+  <div class="fillable"><b>Player Pronouns</b>:</div>
 </div>
 <br>
 <h2>Appearance</h2>
@@ -9,27 +9,14 @@
 <dl>
   <dt>Presentation</dt>
   <dd>manly, feminine, a bit of both, not much of either, as I see fit, elsewise</dd>
-  <dt>Costume</dt>
-  <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, native american, mexican, oriental</dd>
-  <dt>Moves with</dt>
-  <dd>certainty, care, dignity, jitters, grace, fervor, ill portent, ease, agitation, languor</dd>
-  <dt>Detail</dt>
-  <dd>tbd for each ego</dd>
-</dl>
-<br>
-<h2>Burdens</h2>
-<br>
-<dl class="selectable-dl">
-  <dt>Mind</dt>
-  <dd>TBD</dd>
-  <dt>Heart</dt>
-  <dd>TBD</dd>
-  <dt>Hands</dt>
-  <dd>TBD</dd>
-  <dt>Tongue</dt>
-  <dd>TBD</dd>
-  <dt>Bones</dt>
-  <dd>TBD</dd>
+  <dt>Cut of your jib</dt>
+  <dd>pampered-plump, work-ravaged, silk-smooth, weather-stained, cadaver-walking, untamed</dd>
+  <dt>Mien</dt>
+  <dd>wild rose, snake, raven, honeypot, ogre, hound, angel, fox, peacock, rat, songbird, steam engine</dd>
+  <dt>never once accused of</dt>
+  <dd>generosity, abundant intellect, pacifism, honesty, moderation, over-exertion, fidelity, murder</dd>
+  <dt>Hiding a sin like</dt>
+  <dd>tbd for each self</dd>
 </dl>
 <br>
 <h2>Anchors</h2>
@@ -50,5 +37,8 @@
 #### ❍ Think up a playbook
 
 **When you conjure up a playbook,** roll.  On 2+, you come up with something that both matches the theme and has interesting mechanics. On 1, it either matches the theme or has interesting mechanics, pick one.  On a miss, it's not working out.  Scrap it and start over again.
+
+<br>
+<h2>Iniquity</h2>
 
 ---

@@ -43,16 +43,20 @@ Another assurance: that promise of safety isn't there for your protection. It's 
 
 Why the pedantry? Because of that simple question: why does any of what happens in a pocket even matter ? Pockets _are_ non-real. You could permit the harm and guilt and fear to pass over and through you. Though less likely, you could do the same with awe and wonder and epiphany. What would be left to you at the end save the statement of the journey alone: you visited psychic unreality- the universe of a person's life; the world at their innermost center- and then you returned.
 
+## What it means, literally
+
 ## Playing with integrity
 
-Make your characters treat each pocket as if it were real. Not just real. Indistinguishable from reality. Indistinguishable from the experience of living and breathing and feeling and spasms of rapture and thralls of suffering and cradling embrace of wonder. That's all I'm asking of you.
+Make your characters treat pocket space as if it were real. Not _just_ real. Indistinguishable from reality. Indistinguishable from the experience of living and breathing and feeling and spasms of rapture and thralls of suffering and cradling embrace of wonder. Indistinguishable like how a surprise kiss on the cheek makes you blush, and it doesn't matter from whom: you're still blushing, aren't you?
 
-I am asking you to tell me as you fall asleep, "I go now to dream, where nothing is real". And then, once dreaming, to tell me, "I know that I am dreaming, and all of this is real, and all of it matters."
+This is a bit like asking you to forget, as you fall asleep, that dreams are where nothing is real and none of it really matters. And instead, once dreaming, to tell me, "I know that I am dreaming, but all of this is real, and every bit of it is meaningful."
 
-You might be tempted, in the pocket, as you watch the impossible unfold into the world, as you observe mass and shape and absence intercourse, to turn to the person next to you and whisper, "I get what's happening here, this is one of them mindfucks. Well I've a mind like a steel trap."  You might be tempted to tell the ghost of your late daughter that they not here, that they're dead, in a box beneath the cold earth, and you aren't falling for it. You might be tempted to throw a punch at the brother of the deceased- not because they're an ornery cuss and they deserve it (which they certainly do)- but because you fear no recourse from a figment.
+You might be tempted, in the pocket, to harm to your antagonist with no regard to their life- not because they're an ornery cuss and they deserve it (which they certainly do)- but because you fear no recourse from harming figments. You might be tempted to tell the ghost of your late daughter that they are not here, that they're dead and buried in a box within the cold earth, and you aren't falling for such tricks. You might be tempted as you watch the impossible unfold into the world, as you observe mass and shape and absence intercourse, to turn to the person next to you and whisper, "I get what's happening here, this is one of them mindfucks. Well I've a mind like a steel trap."
 
-Fight these temptations. They arise from the part of you that hopes to barricade itself from uncertainty, for your character's safety, for your own safety.  The excuse is right there, it's always right there: "the pocket isn't real, this doesn't matter". There is no integrity in the excuse.
+Fight these temptations. They arise from the part of you that hopes to barricade itself against uncertainty. Your instinct is to safeguard your character- and yourself- from consequence and vulnerability. Yes, this instinct has a valid excuse perpetually dangling in front of you: "the pocket isn't real, so this doesn't actually matter". There is no integrity in that excuse.
 
-As the author, I could coerce the concern through mechanics: for harm, for the terror of a short drop and a sudden stop.  But that's not integrity either, not the game I want to make, nor the game I want you to play. Besides, I trust you, and that you're here for this experience as much as I am. It's all a matter of seeing to it that we understand each other about what that experience means. And then sticking to it. That's what integrity means.
+Why is this important? Because this game wasn't built to handle unmitigated unreality. The uncanny? Certainly. The twisted, bizarre, dreamlike, and even the surreal? With enthusiasm. Yet all these aspects show their best qualities when framed against the norms of humanity. Once you lose the grounding of the mundane the rest turns to a mere theme park: a place you go to escape pathos and indulge fancy. Then it all stops meaning anything.
+
+Cling to meaning. You're living through ephemeral experience as it is: as you travel or party or mingle or explore. We are already figments to each other as much as flesh and bone. But when has that ever stopped you from approaching new ephemera with hope and fear, reacting to it with anger or delight, or even just blushing a little when it surprises you? Bring that feeling with you, and play to find out where it goes.
 
 ---
