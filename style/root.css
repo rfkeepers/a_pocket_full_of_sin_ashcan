@@ -1,0 +1,164 @@
+:root {
+    --base-line-height: 1.4;
+
+    --base-background-color: var(--bg-color);
+    --base-color           : var(--text-color);
+
+    --hr-border            : 1px solid var(--border-color);
+    --strong-color         : var(--highlight-color);
+    --content-max-width                 : 55em;
+    --blockquote-background             : var(--mono-tint3);
+
+    --heading-color                     : var(--mono-shade3);
+
+    --heading-h1-color                  : var(--header-color);
+    --heading-h1-border-color           : var(--border-color);
+    --heading-h1-font-family            : ;
+    --heading-h1-font-size              : var(--font-size-xxxl);
+    --heading-h1-margin                 : ;
+    --heading-h1-padding                : ;
+
+    --heading-h2-color                  : var(--header-color);
+    --heading-h2-border-color           : var(--border-color);
+    --heading-h2-font-family            : ;
+    --heading-h2-font-size              : var(--font-size-xxl);
+    --heading-h2-font-weight            : ;
+    --heading-h2-margin                 : ;
+    --heading-h2-padding                : ;
+
+    --heading-h3-color                  : var(--header-color);
+    --heading-h3-font-family            : ;
+    --heading-h3-font-size              : var(--font-size-xl);
+    --heading-h3-font-weight            : ;
+    --heading-h3-margin                 : ;
+    --heading-h3-padding                : ;
+
+    --heading-h4-color                  : var(--header-color);
+    --heading-h4-font-family            : ;
+    --heading-h4-font-size              : var(--font-size-l);
+    --heading-h4-font-weight            : ;
+    --heading-h4-margin                 : ;
+    --heading-h4-padding                : ;
+
+    --heading-h5-color                  : var(--brown-sub-header-color);
+    --heading-h5-font-family            : ;
+    --heading-h5-font-size              : var(--font-size-l);
+    --heading-h5-font-weight            : ;
+    --heading-h5-margin                 : ;
+    --heading-h5-padding                : ;
+
+    --heading-h6-color                  : var(--brown-sub-header-color);
+    --heading-h6-font-family            : ;
+    --heading-h6-font-size              : var(--font-size-l);
+    --heading-h6-font-weight            : ;
+    --heading-h6-margin                 : ;
+    --heading-h6-padding                : ;
+
+    --link-color                        : ;
+
+    --sidebar-background                          : var(--sb-bg-color);
+    --sidebar-border-color                        : var(--rare-color);
+    --sidebar-border-width                        : 0;
+    --sidebar-padding                             : 0 25px;
+    --sidebar-transition-duration                 : var(--duration-fast);
+    --sidebar-width                               : 17rem;
+
+    /* Name */
+    --sidebar-name-color                          : var(--sb-header-color);
+    --sidebar-name-font-family                    : ;
+    /* --sidebar-name-font-size                      : var(--font-size-l); */
+    --sidebar-name-font-size                      : 0;
+    --sidebar-name-font-weight                    : normal;
+    --sidebar-name-margin                         : 1.5rem 0 0;
+    --sidebar-name-padding                        : ;
+    --sidebar-name-text-align                     : center;
+
+    --sidebar-nav-pagelink-background             : ;
+    --sidebar-nav-pagelink-background--active     : ;
+    --sidebar-nav-pagelink-background--collapse   : ;
+    --sidebar-nav-pagelink-background--loaded     : ;
+    --sidebar-nav-pagelink-padding                : ;
+
+    --sidebar-nav-link-color--active: var(--highlight-color);
+    --sidebar-nav-link-font-weight--active        : 700;
+
+    --blockquote-background             : var(--sb-bg-color);
+    --blockquote-border-color           : var(--rare-color);
+    --blockquote-border-style           : solid;
+    --blockquote-border-width           : ;
+    --blockquote-border-radius          : var(--border-radius-m);
+    --blockquote-padding                : 1.5em;
+
+    --sidebar-toggle-background                   : #3D4550;
+    --sidebar-toggle-border-color                 : ;
+    --sidebar-toggle-border-radius                : var(--border-radius-s);
+    --sidebar-toggle-border-style                 : solid;
+    --sidebar-toggle-border-width                 : 0;
+    --sidebar-toggle-height                       : 36px;
+    --sidebar-toggle-icon-color                   : var(--base-color);
+
+    --search-result-heading-color: #FFFFFF;
+}
+
+.github-corner{
+  display: none !important;
+}
+
+/* Style the theme switcher */
+.theme-toggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 999;
+  /* background: var(--theme-primary, #4285f4); */
+  background: transparent;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
+}
+
+.theme-toggle:hover {
+  /* background: var(--theme-primary-dark, #3367d6); */
+}
+
+.sidebar-nav p {
+  margin-bottom: 0;
+}
+
+div:not(.sidebar-nav) ul li::marker {
+  content: "✧ ";
+}
+
+article:not(.sidebar-nav) ul li::marker {
+  content: "✧ ";
+}
+
+dt {
+  font-weight: bold;
+}
+
+dt::after {
+  content: ":";
+}
+
+dd {
+  font-style: oblique;
+  margin-left: 8px;
+  color: var(--text-dim-color);
+  padding-bottom: 8px;
+}
+
+dd:last-child {
+  padding-bottom: 0;
+}
+
+dl {
+  margin: 0;
+}

@@ -42,6 +42,7 @@
 </ul>
 <br>
 <h2>Moves</h2>
+<p class="subtext">Pick 1 to start.</p>
 
 #### ❍ Compose a template
 

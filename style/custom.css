@@ -1,0 +1,132 @@
+.storybox {
+  color: var(--story-color);
+  background: var(--sb-bg-color);
+  border-radius: 12px;
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+  padding: 0 6% 0 4%;
+  font-style: oblique;
+  line-height: 1.25em;
+}
+
+/* =============================================================== */
+/* burden */
+/* =============================================================== */
+
+.burden {
+  background: var(--bg-burden-color);
+  border-radius: 12px;
+  border-left: 1px solid var(--sub-header-color);
+  padding: 1px 2% 1px 2.5%;
+}
+
+.burden::before {
+  content: "❍ Burden";
+  font-size: 1.3em;
+  color: var(--sub-header-color);
+}
+
+.burden p {
+  padding-left: 1em;
+}
+
+.burden li {
+  margin-left: 0.5em;
+}
+
+.burden p:first-of-type {
+  margin-top: 4px;
+}
+
+/* =============================================================== */
+/* fillable */
+/* =============================================================== */
+
+.fillable {
+  position: relative;
+  overflow-x:hidden;
+  padding-top: 8px;
+}
+
+.fillable::after {
+  position: absolute;
+  bottom: 0.3rem;
+  width: 100%;
+  margin-left: 8px;
+  border-bottom: 1px solid var(--text-color);
+  content: "";
+}
+
+/* =============================================================== */
+/* anchor */
+/* =============================================================== */
+
+.anchor-list {
+  padding-left: 0 !important;
+}
+
+.anchor-li::marker {
+  content: "" !important;
+}
+
+.anchor-li::before {
+  content: "〔❍ ❍〕";
+}
+
+/* =============================================================== */
+/* selectable */
+/* =============================================================== */
+
+.selectable-dl dt::before {
+  content: "❍ ";
+}
+
+/* =============================================================== */
+/* stages */
+/* =============================================================== */
+
+.list-stages {
+}
+
+.stage-li h6 {
+  position: relative;
+  overflow-x:hidden;
+  padding-top: 8px;
+}
+
+.stage-li h6::after {
+  position: absolute;
+  bottom: 0.45rem;
+  width: 100%;
+  margin-left: 8px;
+  border-bottom: 1px solid var(--brown-sub-header-color);
+  content: "";
+}
+
+/* =============================================================== */
+/* rewards */
+/* =============================================================== */
+
+.reward {
+  background: var(--bg-burden-color);
+  border-radius: 12px;
+  border-left: 1px solid var(--sub-header-color);
+  padding: 1px 2% 1px 2.5%;
+}
+
+.reward .title {
+  color: var(--sub-header-color);
+}
+
+.reward p {
+  padding-left: 1em;
+}
+
+.reward li {
+  margin-left: 0.5em;
+}
+
+.reward p:first-of-type {
+  margin-top: 4px;
+}
+

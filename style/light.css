@@ -1,0 +1,20 @@
+:root {
+    --bg-color: #FCFCFC;
+    --bg-burden-color: #EEEEEE;
+    --text-color: #403C39;
+    --text-dim-color: #8A6F66;
+    --header-color: #813636;
+    --sub-header-color: #4d9ab6;
+    --brown-sub-header-color: #A4790B;
+
+    --story-color: #706C49;
+    --highlight-color: #000000;
+    --blue-highlight-color: #4d9ab6;
+    --border-color: #6C2F75;
+    --rare-color: #997723;
+
+    --sb-bg-color: #E9E5E4;
+    --sb-text-color: #c9bbb0;
+    --sb-header-color: #E2B031;
+    --selection-color: #161e21;
+}
