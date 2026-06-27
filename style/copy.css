@@ -1,15 +1,15 @@
 :root {
     --bg-color: #070a06;
-    --bg-burden-color: #0b0d0a;
+    --bg-blurb-color: #0b0d0a;
     --text-color: #c9bbb0;
     --text-dim-color: #a98b80;
     --header-color: #E2B031;
     --sub-header-color: #4d9ab6;
-    --brown-sub-header-color: #813636;
+    --alt-sub-header-color: #813636;
 
-    --story-color: #BBBBBB;
+    --story-text-color: #BBBBBB;
     --highlight-color: #FFFFFF;
-    --blue-highlight-color: #4d9ab6;
+    --alt-highlight-color: #4d9ab6;
     --border-color: #6C2F74;
     --rare-color: #997723;
 
@@ -23,7 +23,7 @@
     --base-color           : var(--text-color);
 
     --hr-border            : 1px solid var(--border-color);
-    --selection-color      : #161e21;
+    --sb-search-match-color      : #161e21;
     --strong-color         : var(--highlight-color);
     --content-max-width                 : 55em;
     --blockquote-background             : var(--mono-tint3);
@@ -59,14 +59,14 @@
     --heading-h4-margin                 : ;
     --heading-h4-padding                : ;
 
-    --heading-h5-color                  : var(--brown-sub-header-color);
+    --heading-h5-color                  : var(--alt-sub-header-color);
     --heading-h5-font-family            : ;
     --heading-h5-font-size              : var(--font-size-l);
     --heading-h5-font-weight            : ;
     --heading-h5-margin                 : ;
     --heading-h5-padding                : ;
 
-    --heading-h6-color                  : var(--brown-sub-header-color);
+    --heading-h6-color                  : var(--alt-sub-header-color);
     --heading-h6-font-family            : ;
     --heading-h6-font-size              : var(--font-size-l);
     --heading-h6-font-weight            : ;
@@ -124,7 +124,7 @@
 }
 
 .storybox {
-  color: var(--story-color);
+  color: var(--story-text-color);
   background: var(--sb-bg-color);
   border-radius: 12px;
   border-top: 1px solid var(--border-color);
@@ -135,7 +135,7 @@
 }
 
 .burden {
-  background: var(--bg-burden-color);
+  background: var(--bg-blurb-color);
   border-radius: 12px;
   border-left: 1px solid var(--sub-header-color);
   padding: 0 2% 0 2.5%;
@@ -270,12 +270,12 @@ dl {
   bottom: 0.45rem;
   width: 100%;
   margin-left: 8px;
-  border-bottom: 1px solid var(--brown-sub-header-color);
+  border-bottom: 1px solid var(--alt-sub-header-color);
   content: "";
 }
 
 .reward {
-  background: var(--bg-burden-color);
+  background: var(--bg-blurb-color);
   border-radius: 12px;
   border-left: 1px solid var(--sub-header-color);
   padding: 0 2% 0 2.5%;

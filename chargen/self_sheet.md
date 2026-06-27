@@ -12,8 +12,8 @@
   <dt>Cut of your jib</dt>
   <dd>pampered-plump, work-ravaged, silk-smooth, weather-stained, cadaver-walking, untamed</dd>
   <dt>Mien</dt>
-  <dd>wild rose, snake, raven, honeypot, ogre, hound, angel, fox, peacock, rat, songbird, steam engine</dd>
-  <dt>never once accused of</dt>
+  <dd>wild rose, snake, raven, honeypot, troll, apple, hound, angel, fox, peacock, rat, songbird, steam engine</dd>
+  <dt>Never once accused of</dt>
   <dd>generosity, abundant intellect, pacifism, honesty, moderation, over-exertion, fidelity, murder</dd>
   <dt>Hiding a sin like</dt>
   <dd>tbd for each self</dd>

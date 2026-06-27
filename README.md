@@ -104,21 +104,3 @@ Players use this time on some of following:
 
 ---
 
-## Rolling Against Instability
-
-Any foreign intrusion into a psychic pocket will inevitably destabilize its foundation, tugging against the fabric of that universe until it begins to unravel.  The result is not only devastating to the owner of that pocket, it also serves to make the world around the players increasingly inhospitable.
-
-All rolling for moves, within the pocket, is **2d10 vs Instability**.  The 2d10 represents the PC.  Instability is a single die that represents the pocket.  Success is determined by how many of the player's dice roll _above_ the instability die: 2, 1, or 0.
-
-Ex: if the instability die rolls `5`, then a player's roll of `[7, 9]` is "2 above": a full success.  A roll of `[4, 9]` is "1 above": a mixed success.  A roll of `[1, 5]` is "0 above": a miss.
-
-Instability always begins at `1 of d4`, and counts upwards as mechanics demand. When the count outgrows the sides on the die (ex: "5 of d4"), then the instability upgrades to the next die, in the following order:
-- d4 - The pocket is stable and calm.
-- d6 - The pocket trembles, oddities begin to occur, continuity (what little there may be) shifts. The unconscious trickles into the present.
-- d8 - Everything begins to shift, warp, and roil. Figments of the deep unconscious pry apart the seams and slip into the conscious space.
-- d10 - Upheavals, chaos, and confusion.  The stitching of reality hangs loose.  The characters' remaining time here is untenable.
-
-If "11 of d10" is ever reached, the pocket falters, and all visitors get ejected.
-
----
-

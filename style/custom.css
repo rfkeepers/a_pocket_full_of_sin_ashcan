@@ -1,5 +1,5 @@
 .storybox {
-  color: var(--story-color);
+  color: var(--story-text-color);
   background: var(--sb-bg-color);
   border-radius: 12px;
   border-top: 1px solid var(--border-color);
@@ -14,7 +14,7 @@
 /* =============================================================== */
 
 .burden {
-  background: var(--bg-burden-color);
+  background: var(--bg-blurb-color);
   border-radius: 12px;
   border-left: 1px solid var(--sub-header-color);
   padding: 1px 2% 1px 2.5%;
@@ -35,6 +35,35 @@
 }
 
 .burden p:first-of-type {
+  margin-top: 4px;
+}
+
+/* =============================================================== */
+/* example */
+/* =============================================================== */
+
+.example {
+  background: var(--bg-blurb-color);
+  border-radius: 12px;
+  border-left: 1px solid var(--sub-header-color);
+  padding: 1px 2% 1px 2.5%;
+}
+
+.example::before {
+  content: "Example";
+  font-size: 1.3em;
+  color: var(--sub-header-color);
+}
+
+.example p {
+  padding-left: 1em;
+}
+
+.example li {
+  margin-left: 0.5em;
+}
+
+.example p:first-of-type {
   margin-top: 4px;
 }
 
@@ -70,7 +99,7 @@
 }
 
 .anchor-li::before {
-  content: "〔❍ ❍〕";
+  content: "❍ ❍ - ";
 }
 
 /* =============================================================== */
@@ -99,7 +128,7 @@
   bottom: 0.45rem;
   width: 100%;
   margin-left: 8px;
-  border-bottom: 1px solid var(--brown-sub-header-color);
+  border-bottom: 1px solid var(--alt-sub-header-color);
   content: "";
 }
 
@@ -108,13 +137,14 @@
 /* =============================================================== */
 
 .reward {
-  background: var(--bg-burden-color);
+  background: var(--bg-blurb-color);
   border-radius: 12px;
   border-left: 1px solid var(--sub-header-color);
-  padding: 1px 2% 1px 2.5%;
+  padding: 4px 2% 1px 2.5%;
 }
 
 .reward .title {
+  font-size: 1.2em;
   color: var(--sub-header-color);
 }
 

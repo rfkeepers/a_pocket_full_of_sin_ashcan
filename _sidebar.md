@@ -18,7 +18,9 @@
   - [Powers](/moves/psychic_powers.md)
 
 - Rules
+  - [Instability](/mechanics/instability.md)
   - [Burdens](/mechanics/burdens.md)
+  - [Rolling](/mechanics/rolling.md)
 
 - Character Creation
   - [Player characters](/chargen/basics.md)

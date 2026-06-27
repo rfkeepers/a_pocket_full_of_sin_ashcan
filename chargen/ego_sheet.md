@@ -10,7 +10,7 @@
   <dt>Presentation</dt>
   <dd>manly, feminine, a bit of both, not much of either, as I see fit, elsewise</dd>
   <dt>Costume</dt>
-  <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, native american, mexican, oriental</dd>
+  <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, mexican, native american, oriental</dd>
   <dt>Moves with</dt>
   <dd>certainty, care, dignity, jitters, grace, fervor, ill portent, ease, agitation, languor</dd>
   <dt>Detail</dt>
@@ -32,6 +32,11 @@
   <dd>TBD</dd>
 </dl>
 <br>
+
+### Overburdened
+
+**When you would mark a sixth burden,** your burdens overwhelm you.
+
 <h2>Anchors</h2>
 <ul class="anchor-list">
   <li class="anchor-li">Anchor 1</li>

@@ -40,14 +40,14 @@
     --heading-h4-margin                 : ;
     --heading-h4-padding                : ;
 
-    --heading-h5-color                  : var(--brown-sub-header-color);
+    --heading-h5-color                  : var(--alt-sub-header-color);
     --heading-h5-font-family            : ;
     --heading-h5-font-size              : var(--font-size-l);
     --heading-h5-font-weight            : ;
     --heading-h5-margin                 : ;
     --heading-h5-padding                : ;
 
-    --heading-h6-color                  : var(--brown-sub-header-color);
+    --heading-h6-color                  : var(--alt-sub-header-color);
     --heading-h6-font-family            : ;
     --heading-h6-font-size              : var(--font-size-l);
     --heading-h6-font-weight            : ;
@@ -126,6 +126,10 @@
 
 .theme-toggle:hover {
   /* background: var(--theme-primary-dark, #3367d6); */
+}
+
+.theme-icon {
+  color: var(--text-color);
 }
 
 .sidebar-nav p {
