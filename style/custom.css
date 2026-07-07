@@ -17,7 +17,7 @@
   background: var(--bg-blurb-color);
   border-radius: 12px;
   border-left: 1px solid var(--sub-header-color);
-  padding: 1px 2% 1px 2.5%;
+  padding: 8px 2% 1px 2.5%;
 }
 
 .burden::before {

@@ -28,6 +28,17 @@ Ultimately, each move gets the final say on how to handle its outcomes. Moves ca
   <dt>Miss</dt>
   <dd>Maybe you still did what you wanted, maybe not. A miss isn't necessarily a failure. It means the outcome isn't what you wanted, in one way or another.</dd>
 </dl>
+
+You'll also see the following terms:
+
+<dl>
+  <dt>Success</dt>
+  <dd>Applies when you get either a Full or Complicated Success. Aka: 1 or more dice rolled above instability.</dd>
+  <dt>Complicated success</dt>
+  <dd>Whatever your goal was, you achieve it. But the results aren't exactly what you might want: they're complicated, messy, or going to cost you extra.</dd>
+  <dt>Miss</dt>
+  <dd>Maybe you still did what you wanted, maybe not. A miss isn't necessarily a failure. It means the outcome isn't what you wanted, in one way or another.</dd>
+</dl>
 <br>
 
 ## Who rolls?
@@ -50,7 +61,7 @@ Characters don't have stats in this game. That means there's no way to "add +1" 
 
 We can represent those swells- the ups and downs of position and power and disposition- with two affects: confidence and grounding.
 
-Side note: if a roll is affected by both sides of an affect- confident _and_ hesitant, grounded _and_ unmoored- the two cancel each other out, and neither affect gets invoked. If the source is transient (such as a temporary bonus or detriment) then the affect still gets "consumed" in the process.
+Side note: if a roll is affected by both sides of an affect- confident _and_ hesitant, grounded _and_ adrift- the two cancel each other out, and neither affect gets invoked. If the source is transient (such as a temporary bonus or detriment) then the affect still gets "consumed" in the process.
 
 ### Confidence
 
@@ -60,22 +71,22 @@ Side note: confidence only affects the 2d8 dice. Instability is never confident,
 
 <dl>
   <dt>Confident</dt>
-  <dd>Any die that rolls 1 gets flipped to an 8 instead.</dd>
+  <dd>Any die that rolls 1 gets swapped to an 8 instead.</dd>
   <dt>Hesitant</dt>
-  <dd>Any die that rolls 8 gets flipped to a 1 instead.</dd>
+  <dd>Any die that rolls 8 gets swapped to a 1 instead.</dd>
 </dl>
 <br>
 
 ### Grounding
 
-Characters with solid grounding stand firm against shifting psychic instability. They weather effects of instability as if held fast to a foundation. Should they lose that grounding, becoming unmoored and unprotected, they drift at the mercy of the forces around them, and could be tossed to and fro in the currents.
+Characters with solid grounding stand firm against shifting psychic instability. They weather effects of instability as if held fast to a foundation. Should they lose that grounding, becoming adrift and unprotected, they drift at the mercy of the forces around them, and could be tossed to and fro in the currents.
 
 Side note: grounding only affects the instability die. Characters don't choose to act in a more or less grounded manner.  They either have their footing or they don't.
 
 <dl>
   <dt>Grounded</dt>
   <dd>Instability is downgraded by one die size (minimum d4). If multiple players are rolling, only those who are grounded use the smaller die. The rest still use the regular die.  This may require rolling more than one instability dice.</dd>
-  <dt>Unmoored</dt>
+  <dt>Adrift</dt>
   <dd>Instability is upgraded by one die size (maximum d12). If multiple players are rolling, only those who are grounded use the larger die. The rest still use the regular die.  This may require rolling more than one instability dice.</dd>
 </dl>
 <br>

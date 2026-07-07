@@ -13,6 +13,7 @@
   - [Integrity in the pocket](/playing/integrity.md)
 
 - Moves
+  - [About](/moves/about.md)
   - [Obvious](/moves/obvious.md)
   - [Instability](/moves/instability.md)
   - [Powers](/moves/psychic_powers.md)

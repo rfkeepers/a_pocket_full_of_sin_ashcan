@@ -7,7 +7,7 @@ When calling on one of the obvious moves, it's best if you call out the move by 
 ---
 ### Take Their Measure
 
-**When you size someone up,** roll. On any hit, ask their player these questions; they must answer honestly. These are all impressions you can get at a glance, even at a distance. You don't need to speak with them first. On a 2+, ask 2 from the list. On a 1, ask them 1.
+**When you size someone up,** roll. On any success, ask their player these questions; they must answer honestly. These are all impressions you can get at a glance, even at a distance. You don't need to speak with them first. On a 2+, ask 2 from the list. On a 1, ask them 1.
 
 - What do you intend to do, and how far are you prepared to go?
 - Where are you open to me? Where are you vulnerable, and where are you guarded?
@@ -31,9 +31,9 @@ The player who answers may not say, "nothing". If they try then any other player
 ---
 ### Come Right Out with It
 
-**When you come right out and give someone what's on your mind,** roll.  On a hit, you've got their attention. Come clean about what you want or what they should know. Ask them how they take it.  They must answer honestly, even if they don't realize they've let it slip. On a 1, if they don't want to hear it they can cut you off, dance around the topic, or ride roughshod over what you're trying to show them.  On a miss, they might hear you out for a moment anyway, but be prepared for the worst. Ask their player what goes wrong.
+**When you come right out and give someone what's on your mind,** roll.  On a success, you've got their attention. Come clean about what you want or what they should know. Ask them how they take it.  They must answer honestly, even if they don't realize they've let it slip. On a 1, if they don't want to hear it they can cut you off, dance around the topic, or ride roughshod over what you're trying to show them.  On a miss, they might hear you out for a moment anyway, but be prepared for the worst. Ask their player what goes wrong.
 
-They can request a solemn promise from you at any point during the move. On a hit, you could ask a promise of them, too. But only one of you gets to make the request: whomever is first. You don't have to agree to the promise, of course. But if you don't, tell them honestly what's stopping you.
+They can request a solemn promise from you at any point during the move. On a success, you could ask a promise of them, too. But only one of you gets to make the request: whomever is first. You don't have to agree to the promise, of course. But if you don't, tell them honestly what's stopping you.
 
 <div class="burden">
 
@@ -43,7 +43,7 @@ You cannot request promises from them.  Likewise, you must accept any promise th
 ---
 ### Barge In on Someone
 
-**When you come barging in on someone's moment,** roll. On any hit, you interrupt them, and they can’t do anything more without dealing with you. On a 2+, choose 2 of the following. On a 1, choose 1.  These choices can affect either the character you intruded on or the gawkers and audience they've gathered.
+**When you come barging in on someone's moment,** roll. On any success, you interrupt them, and they can’t do anything more without dealing with you. On a 2+, choose 2 of the following. On a 1, choose 1.  These choices can affect either the character you intruded on or the gawkers and audience they've gathered.
 
 - They give you their undivided attention for more than a moment.
 - You deprive them of something they need right now.
@@ -67,7 +67,7 @@ Always tell the MC one of the following:
 ---
 ### Get the Lay of The Land
 
-**When you survey your surroundings and get the lay of the land,** roll. On any hit, ask the MC questions and they'll answer truthfully. On a 2+, ask 2. On a 1, ask at least 1; you can ask a second question after, if you're willing to let the MC make a move.
+**When you survey your surroundings and get the lay of the land,** roll. On any success, ask the MC questions and they'll answer truthfully. On a 2+, ask 2. On a 1, ask at least 1; you can ask a second question after, if you're willing to let the MC make a move.
 
 - What’s coming this way or got its eye on me?
 - What’s valuable here that we haven't yet found?
