@@ -1,27 +1,27 @@
 # Rolling
 
-This game uses a unique system of rolling called the `instability system`. Let's not let that overwhelm.  At its core, when we hide all the little differences, it mimics the _feel_ and _effect_ of rolling that you'll find in any other pbta. Two dice, bell curve, three-band outcomes (miss, complicated success, full success). If you're familiar with pbta then all this should make sense in the same way.
+This game uses a unique system of rolling called the `instability system`. Let's not let that overwhelm.  At its core, when we hide all the little differences, it mimics the _feel_ and _effect_ of rolling that you'll find in any other pbta. Two dice, bell curve, three-band outcomes (miss, complicated success, clear success). If you're familiar with pbta then all this should make sense in the same way.
 
 ## How rolling works
 
 All rolls in this game, no matter the situation, are handled with **2d8 vs Instability**.  The character taking the action (usually, but not necessarily, the player) rolls the 2d8.  The instability die (see: [instability](/mechanics/instability.md)) gets rolled by whomever is opposing that character (usually, but not necessarily, this is the MC's job).
 
-Success gets determined by how many of the player's dice roll _above_ the instability die: `2+` dice for a full success, `1` for a complicated success, or none to miss the roll.
+Success gets determined by how many of the player's dice roll _above_ the instability die: `2+` dice for a clear success, `1` for a complicated success, or none to miss the roll.
 
 <div class="example">
 
 The MC rolls instability and gets `5`.
 
-If the player rolls `7, 8`, that's "2 above": a full success.  A roll of `4, 8` is "1 above": a complicated success.  A roll of `1, 5` is "0 above" (instability wins all ties): a miss.
+If the player rolls `7, 8`, that's "2 above": a clear success.  A roll of `4, 8` is "1 above": a complicated success.  A roll of `1, 5` is "0 above" (instability wins all ties): a miss.
 </div>
 <br>
 
 ## What do the outcomes mean?
 
-Ultimately, each move gets the final say on how to handle its outcomes. Moves can go as hard or as soft with the consequences as they want, so one might add a complication to a full success while another might not punish a miss at all. But in general they all follow a similar pattern:
+Ultimately, each move gets the final say on how to handle its outcomes. Moves can go as hard or as soft with the consequences as they want, so one might add a complication to a clear success while another might not punish a miss at all. But in general they all follow a similar pattern:
 
 <dl>
-  <dt>Full success</dt>
+  <dt>Clear success</dt>
   <dd>The outcome is as good as it can possibly get, and probably lands with no strings attached.</dd>
   <dt>Complicated success</dt>
   <dd>Whatever your goal was, you achieve it. But the results aren't exactly what you might want: they're complicated, messy, or going to cost you extra.</dd>
@@ -33,7 +33,7 @@ You'll also see the following terms:
 
 <dl>
   <dt>Success</dt>
-  <dd>Applies when you get either a Full or Complicated Success. Aka: 1 or more dice rolled above instability.</dd>
+  <dd>Applies when you get either a Clear or Complicated Success. Aka: 1 or more dice rolled above instability.</dd>
   <dt>Complicated success</dt>
   <dd>Whatever your goal was, you achieve it. But the results aren't exactly what you might want: they're complicated, messy, or going to cost you extra.</dd>
   <dt>Miss</dt>

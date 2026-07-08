@@ -40,9 +40,21 @@ The question doesn't normally come up this way. In all likelihood you're already
 
 A more likely example: you all reflect a moment backward and realize someone had brushed against a trigger but didn't use their move. Are you breaking the game, did you do something wrong? Not precisely. Missing a move means you've weakened the moment, not prevented it altogether.
 
-Ideally everyone at the table will strive to ensure moves get leveraged in play. That assurance depends on the players knowing when a move could be employed, and which move is best for the moment. No one player owns this job. The MC, fitting with ttrpg traditions, often sits well positioned to make the call, though any other person at the table may contribute all the same, including the player making the move.
+In the ideal table, everyone all participants strive to use moves whenever the opportunity arises. Even in those moments where you do not immediately see the significance, moves have a way of generating significance on their own. This contract depends on the players knowing when each move could be employed, and which move is best for the moment. No one player owns this job. The MC, fitting with ttrpg traditions, often sits well positioned to make the call, though any other person at the table may contribute all the same, including the player making the move.
 
 In this game, more so than most pbta, the players are encouraged to call out their moves by name and intent. Literally, "I want to do that voodoo that I do, so that I can...". The MC, likewise, is encouraged to call out the moves their NPCs are making at the players' characters. Playing out the action in scene (or alluding to how they do it, via conversation) ensures that you have your character actually _do_ the move, in accordance with the fiction (a part of play that can happen either before or after you call your move, the order matters naught). But calling it can be as essential as doing it, else the others at the table might mistake your intent or, worse, not realize you were trying to invoke a move at all!
+
+## The gaps
+
+All the moves in this text serve to elicit a particular mood. The universe of things your characters could do is so much greater than the list this game admits. Sometimes that means the game isn't interested in what you might try to do. Sometimes that means the interest is there, but not by the approach you've taken.
+
+You will hit a gap between the moves. All players do, eventually. They see a significant moment where the rules do not. Caught in such a situation, what is one to do?
+
+For example: you want to undertake a perilous stunt, a precarious exploit, a death-defying feat! But, how? This game has no move to signify your audacity. Nothing even comes close, because this is a game about feelings, not stunts. When that moment occurs at your table the character can simply do it, or not, with complication or without. Pick the most rational option and carry on the conversation. It's not important to this game.
+
+Another example: you've challenged a rival to a duel. A formal and proper- if still lethal- fight. _Scuffle and Fracas_ is too messy, fitted more for a brawl than a duel. So what's left? Look sideways at this scene. Are you trying to reveal a truth about the world to them?  _Come Right Out with It_. Trying to steal the glory that they think is theirs? _Barge In on Someone_. Maybe you want them to reveal their true selves to all around? _Draw Someone Out_.
+
+When all else fails you can fall back to the conversation. Talk about what's a stake, what you want, and what the other players are interested in. No rule states that the conversation cannot be significant on its own. Moves merely help illuminate the point.
 
 ## A tutorial
 
@@ -74,7 +86,7 @@ This move has a special case: we have to ask the other character for permission 
 
 Finally, the rest. By standard you'll find some kind of resolution (a roll, or perhaps vote) or cost, or both.  The rules here may be as simple or as complex as the game requires. Moves are not required to follow any strict format.
 
-This particular move is on the basic side. The player must roll (see: [rolling](/mechanics/rolling.md)), and the results follow the basic trio of outcomes: full success, complicated success, and a miss. On the best outcome (2), the character wins their love with no strings attached. If it gets complicated, they'll need to put in extra effort to get what they want. In this case their requirement doesn't need to be satisfiable immediately. Or perhaps at all. They lay down the line for you to cross.
+This particular move is on the basic side. The player must roll (see: [rolling](/mechanics/rolling.md)), and the results follow the basic trio of outcomes: clear success, complicated success, and a miss. On the best outcome (2), the character wins their love with no strings attached. If it gets complicated, they'll need to put in extra effort to get what they want. In this case their requirement doesn't need to be satisfiable immediately. Or perhaps at all. They lay down the line for you to cross.
 
 The 'miss' case in this move is tightly controlled: the players involved get a bit of choice, but not much. Many other moves leave the outcome wide open, allowing the table to build on the fallout with innumerable variations. What one tends to find across all pbta is the following: you didn't necessarily fail, you're not going to get what you want in the way that you want it, and it's up to the other player to decide what that means. Despite the prescribed possible consequences, this move still holds tight to that formula.
 
