@@ -120,7 +120,7 @@
 .stage-li h6 {
   position: relative;
   overflow-x:hidden;
-  padding-top: 8px;
+  padding-top: 16px;
 }
 
 .stage-li h6::after {
@@ -132,6 +132,10 @@
   content: "";
 }
 
+.stage-li li p {
+  margin: 0;
+}
+
 /* =============================================================== */
 /* rewards */
 /* =============================================================== */
@@ -140,7 +144,7 @@
   background: var(--bg-blurb-color);
   border-radius: 12px;
   border-left: 1px solid var(--sub-header-color);
-  padding: 4px 2% 1px 2.5%;
+  padding: 4px 2% 8px 2.5%;
 }
 
 .reward .title {
@@ -150,13 +154,19 @@
 
 .reward p {
   padding-left: 1em;
+  margin-bottom: 4px;
+}
+
+.reward li::marker {
+  content: "✧ ";
 }
 
 .reward li {
-  margin-left: 0.5em;
+  margin-left: 2rem;
 }
 
-.reward p:first-of-type {
-  margin-top: 4px;
+.reward li p {
+  margin: 0;
+  padding: 0;
 }
 

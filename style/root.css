@@ -136,10 +136,6 @@
   margin-bottom: 0;
 }
 
-div:not(.sidebar-nav) ul li::marker {
-  content: "✧ ";
-}
-
 article:not(.sidebar-nav) ul li::marker {
   content: "✧ ";
 }

@@ -27,7 +27,6 @@
   <li class="anchor-li">Anchor 4</li>
   <li class="anchor-li">Anchor 5</li>
 </ul>
-<br>
 <h2>Moves</h2>
 <p class="subtext">Pick 1 to start.</p>
 
@@ -43,6 +42,15 @@
 <h2>Iniquity</h2>
 <p class="subtext">Begin at Ⓞ . Move to the next stage each time you brave your inituqity.</p>
 <div class="list-stages">
+  <div class="stage-li">
+
+  ###### Ⓞ The Introduction
+
+  Answer the following questions with the other characters.
+  - Who am I?
+  - Who are you?
+  - I know that I am I, but are you, you?
+  </div>
   <div class="stage-li">
 
   ###### ⓵ The Beginning
@@ -120,6 +128,7 @@
   - Persist. Continue playing this character, just as they are.
   - Change. Select a new Self and set your iniquity to 0.
   - Retire. Hand your sheet to the MC and begin another one.
+
   </div>
   </div>
 </div>
