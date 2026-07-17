@@ -14,7 +14,7 @@ Players are encouraged to call out their moves by name and intent. There's no ne
 
 ## Handling gaps
 
-All the moves serve to elicit a particular mood. With fewer moves than things to do you may land in a gap between. What to do? First see if any other move fits the moment. By its intent if not the action. It's alright if nothing truly fits.
+Every move serves to elicit a particular mood, and it wouldn't be difficult to imagine a character doing something where no move fits the action. These gaps are intentional. If you land in one, see if any other move fits the moment by its intent (eg: you're not _throwing a punch_, you're _Coming Right Out with It_).
 
-When all else fails you can fall back to the conversation. Talk about what's a stake, what you want, and what the other players are interested in. No rule states that the conversation cannot be enough. Moves merely help illuminate the point.
+When all else fails the table should fall back to the conversation. Talk about what's a stake in this moment: what you want, and where the other players are invested. No rule states that the conversation cannot be enough. Moves merely help illuminate the point.
 

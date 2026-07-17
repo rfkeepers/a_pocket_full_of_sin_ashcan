@@ -10,7 +10,7 @@
   <dt>Presentation</dt>
   <dd>manly, feminine, a bit of both, not much of either, as I see fit, elsewise</dd>
   <dt>Costume</dt>
-  <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, mexican, native american, oriental</dd>
+  <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, ethnic</dd>
   <dt>Moves with</dt>
   <dd>certainty, care, dignity, jitters, grace, fervor, ill portent, ease, agitation, languor</dd>
   <dt>Detail</dt>
@@ -45,6 +45,7 @@
   <li class="anchor-li">Anchor 4</li>
   <li class="anchor-li">Anchor 5</li>
 </ul>
+<h2>Moves</h2>
 <p class="subtext">Pick 1 to start.</p>
 
 #### ❍ Compose a template
