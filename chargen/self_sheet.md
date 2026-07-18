@@ -40,7 +40,7 @@
 
 <br>
 <h2>Iniquity</h2>
-<p class="subtext">Begin at Ⓞ . Move to the next stage each time you brave your inituqity.</p>
+<p class="subtext">Begin at Ⓞ . Move to the next stage each time you feast on your iniquity.</p>
 <div class="list-stages">
   <div class="stage-li">
 
@@ -51,18 +51,20 @@
   - Who are you?
   - I know that I am I, but are you, you?
   </div>
+  <div class="reward">
   <div class="stage-li">
 
   ###### ⓵ The Beginning
 
   Establish what is at stake in life for your character.
 
-  <div class="reward">
   <div class="title">Selfhood</div>
 
   Choose another Anchor.  Mark one anchor as `Confident`, and the other as `Hesitant`.
   </div>
   </div>
+  <br>
+  <div class="reward">
   <div class="stage-li">
 
   ###### ⓶ The Problem
@@ -70,12 +72,13 @@
   Your situation gets complicated. Who or what in your life is affected?
 
   Pick the move below, or the other one you passed on.
-  <div class="reward">
   <div class="title">Growth</div>
 
   \< a new move goes here \>
   </div>
   </div>
+  <br>
+  <div class="reward">
   <div class="stage-li">
 
   ###### ⓷ The Danger
@@ -83,45 +86,47 @@
   The problem begins to affect your life in real ways. It follows you into
   the pocket, where you thought you were safe.
 
-  <div class="reward">
   <div class="title">Realization</div>
 
   Add two anchors from some other playbook into your options (one self, and one ego).  
   Choose a third anchor.
   </div>
   </div>
+  <br>
+  <div class="reward">
   <div class="stage-li">
 
   ###### ⓸ The Faint Hope
 
   A momentary reprieve. The problem abates or fades into the background for some time. What burden or danger are you free of?
 
-  <div class="reward">
   <div class="title">Fulfillment</div>
 
   \< an optional epithet goes here \>  
   \< an optional epithet goes here \>
   </div>
   </div>
+  <br>
+  <div class="reward">
   <div class="stage-li">
 
   ###### ⓹ The Tragedy
 
   What power is offered to a little mote of dust like yourself? None. Truly. You are the miserable focus of the universe.
 
-  <div class="reward">
   <div class="title">Strength</div>
 
   Pick a move available to any other playbook (self or ego), or one of yours that you previously passed up.
   </div>
   </div>
+  <br>
+  <div class="reward">
   <div class="stage-li">
 
   ###### ⓺ The Resolution
 
   It's over.
 
-  <div class="reward">
   <div class="title">Resignation</div>
 
   Pick one:

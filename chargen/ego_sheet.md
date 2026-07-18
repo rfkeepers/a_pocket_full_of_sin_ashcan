@@ -10,7 +10,7 @@
   <dt>Presentation</dt>
   <dd>manly, feminine, a bit of both, not much of either, as I see fit, elsewise</dd>
   <dt>Costume</dt>
-  <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, ethnic</dd>
+  <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, ethnic traditional (mexican, native american, oriental, etc)</dd>
   <dt>Moves with</dt>
   <dd>certainty, care, dignity, jitters, grace, fervor, ill portent, ease, agitation, languor</dd>
   <dt>Detail</dt>
@@ -20,7 +20,7 @@
 <h2>Burdens</h2>
 <br>
 <dl class="selectable-dl">
-  <dt>Mind</dt>
+  <dt>Psyche</dt>
   <dd>TBD</dd>
   <dt>Heart</dt>
   <dd>TBD</dd>

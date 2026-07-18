@@ -50,9 +50,7 @@ Self concepts:
 
 The "Ego" playbooks represent the way the characters imagine themselves.  It is the persona they embody in dreams, the voice in their imagined conversations, and their reflection of their own behavior.  When characters enter psychic pockets they inhabit their ego, not their actual self.
 
-In selecting an Ego, the player initially establishes: 1/ what kind of behavioral archetype they want to inhabit in play, 2/ their starting moves.
-
-As play continues and the character advances, the Ego provides additional moves and stat changes.  Likewise, in standard PbtA fashion, characters will have the opportunity to branch out and select a move or two from the other Egos. This is primarily an interaction between Egos; Selves are never accessible across playbooks in this way.
+In selecting an Ego, the player initially establishes: 1/ what kind of behavioral archetype they want to inhabit in play, 2/ their starting moves, 3/ how their character responds to Burdens.
 
 Ego playbooks:
 

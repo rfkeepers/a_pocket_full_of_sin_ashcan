@@ -127,13 +127,22 @@
   position: absolute;
   bottom: 0.45rem;
   width: 100%;
-  margin-left: 8px;
+  /* margin-left: 8px; */
   border-bottom: 1px solid var(--alt-sub-header-color);
   content: "";
 }
 
-.stage-li li p {
+.stage-li h6 {
+  padding-top: 8px;
+}
+
+.stage-li p {
   margin: 0;
+  margin-top: 4px;
+}
+
+.stage-li .title {
+  padding-left: 16px;
 }
 
 /* =============================================================== */
