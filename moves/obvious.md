@@ -5,30 +5,6 @@ Obvious moves are the basic ways to play out an action or a moment. They help yo
 When calling on one of the obvious moves, it's best if you call out the move by name.  Eg: "I want to 'Take Their Measure'".  Likewise, the MC may ask if you're trying to use one of the moves, "It sounds like you're trying to 'Come Right Out With It'?" Obvious or not, it always helps for everyone to understand what you're trying to do.
 
 ---
-### Take Their Measure
-
-**When you size someone up,** roll. On any success, ask their player these questions; they must answer honestly. These are all impressions you can get at a glance, even at a distance. You don't need to speak with them first. On a 2+, ask 2 from the list. On a 1, ask them 1.
-
-- What do you intend to do, and how far are you prepared to go?
-- Where are you open to me? Where are you vulnerable, and where are you guarded?
-- What do you hope I’ll do, and what would you do if I don't?
-- What do you expect to happen, and how do you feel about it?
-- What are you forgetting, ignoring, or keeping hidden (possibly from yourself)?
-
-On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you revealed your attention or your intentions to them.
-
-<div class="burden">
-
-Always ask one of the following questions:
-
-- What do you obviously not like about me?
-- What am I not going to like about you?
-- Why do I need to worry about having a run-in?
-
-The player who answers may not say, "nothing". If they try then any other player may provide an answer in their stead, and it must be treated as truth.
-</div>
-
----
 ### Come Right Out with It
 
 **When you come right out and give someone what's on your mind,** roll.  On a success, you've got their attention. Come clean about what you want or what they should know. Ask them how they take it.  They must answer honestly, even if they don't realize they've let it slip. On a 1, if they don't want to hear it they can cut you off, dance around the topic, or ride roughshod over what you're trying to show them.  On a miss, they might hear you out for a moment anyway, but be prepared for the worst. Ask their player what goes wrong.
