@@ -44,7 +44,7 @@
 <div class="list-stages">
   <div class="stage-li">
 
-  ###### Ⓞ The Introduction
+  ##### Ⓞ The Introduction
 
   Answer the following questions with the other characters.
   - Who am I?
@@ -54,11 +54,11 @@
   <div class="reward">
   <div class="stage-li">
 
-  ###### ⓵ The Beginning
+  ##### ⓵ The Beginning
 
   Establish what is at stake in life for your character.
 
-  <div class="title">Selfhood</div>
+  ###### Selfhood
 
   Choose another Anchor.  Mark one anchor as `Confident`, and the other as `Hesitant`.
   </div>
@@ -67,12 +67,13 @@
   <div class="reward">
   <div class="stage-li">
 
-  ###### ⓶ The Problem
+  ##### ⓶ The Problem
 
   Your situation gets complicated. Who or what in your life is affected?
 
   Pick the move below, or the other one you passed on.
-  <div class="title">Growth</div>
+
+  ###### Growth
 
   \< a new move goes here \>
   </div>
@@ -81,12 +82,12 @@
   <div class="reward">
   <div class="stage-li">
 
-  ###### ⓷ The Danger
+  ##### ⓷ The Danger
 
   The problem begins to affect your life in real ways. It follows you into
   the pocket, where you thought you were safe.
 
-  <div class="title">Realization</div>
+  ###### Realization
 
   Add two anchors from some other playbook into your options (one self, and one ego).  
   Choose a third anchor.
@@ -96,11 +97,11 @@
   <div class="reward">
   <div class="stage-li">
 
-  ###### ⓸ The Faint Hope
+  ##### ⓸ The Faint Hope
 
   A momentary reprieve. The problem abates or fades into the background for some time. What burden or danger are you free of?
 
-  <div class="title">Fulfillment</div>
+  ###### Fulfillment
 
   \< an optional epithet goes here \>  
   \< an optional epithet goes here \>
@@ -110,11 +111,11 @@
   <div class="reward">
   <div class="stage-li">
 
-  ###### ⓹ The Tragedy
+  ##### ⓹ The Tragedy
 
   What power is offered to a little mote of dust like yourself? None. Truly. You are the miserable focus of the universe.
 
-  <div class="title">Strength</div>
+  ###### Strength
 
   Pick a move available to any other playbook (self or ego), or one of yours that you previously passed up.
   </div>
@@ -123,11 +124,11 @@
   <div class="reward">
   <div class="stage-li">
 
-  ###### ⓺ The Resolution
+  ##### ⓺ The Resolution
 
   It's over.
 
-  <div class="title">Resignation</div>
+  ###### Resignation
 
   Pick one:
   - Persist. Continue playing this character, just as they are.

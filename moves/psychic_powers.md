@@ -55,11 +55,11 @@ When you **expel something from the pocket**- whether a figment, memory, idea, p
 When you **settle, soothe, or repair the pocket** in an effort to patch up its deteriorating stability, a unanimity reduces instability to the next lowest die and sets the current instability to 1. A majority reduces instability equal to the pips on the next lowest die (ex: if instability is currently at d8, reduce it by 6; if at d10, reduce it by 8).  On a minority, roll that die and reduce instability by the result.
 
 ---
-### Inherit their iniquity
+### Sup on their iniquity
 
-When you **take the iniquity of the pocket into yourself**, increase your Iniquity by 1. Anyone who votes in favor of this power also increases their Iniquity by 1. Regardless of the count of votes, all iniquity is removed from this pocket, shouldered instead by yourself and your fellow sin eaters. This power can only be used once per pocket.
+When you **consume the iniquity of the pocket**, increase your Iniquity by 1. Anyone who votes in favor of this power partakes in the meal and increases their Iniquity by 1. Regardless of the count of votes, you consume all iniquity in this pocket, devoured and bellied by yourself and your fellow sin eaters. This power can only be used once per pocket.
 
-Iniquity is the weight of wrongdoing on a soul. The tally of unpaid tolls, not the guilt of conscience itself. One can be removed without affecting the other.
+Iniquity is the weight of wrongdoing by a soul. The tally of unpaid tolls, not the guilt of conscience itself. The former can be removed without affecting the latter, and vice versa.
 
 ---
 ### Leave your troubles at the door

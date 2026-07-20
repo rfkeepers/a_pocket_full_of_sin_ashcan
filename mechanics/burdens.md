@@ -8,7 +8,7 @@ Burdens weigh heavily upon a person, without regard to whether that person is fl
 
 Many moves in the game come with a `Burden`: an alternate or extended set of rules for that move which only come in to play when that burden is marked.
 
-Whenever a character takes a new burden they allot it to any one of their moves with an unmarked burden spot. Each score of burdens is specific to the character, even for the moves that get shared by all characters (such as the obvious moves). That move remains burdened until the player finds a way to remove it.
+Whenever a character takes a new burden they allot it to any one of their moves with an unmarked burden spot. Each score of burdens is specific to the character, even for the moves that get shared by all characters (such as the forward moves). That move remains burdened until the player finds a way to remove it.
 
 ## Overloading Burdens
 

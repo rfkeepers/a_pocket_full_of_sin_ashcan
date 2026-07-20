@@ -4,12 +4,23 @@
 - Playing the game
   <!-- - [Player Guide](/playing/players.md) -->
   <!-- - [MC Guide](/playing/MC.md) -->
-  - [Integrity in the pocket](/playing/integrity.md)
+  <!-- - [Integrity in the pocket](/playing/integrity.md) -->
   - [Safety & Communication](/playing/safety.md)
+
+- The Seven Course Meal
+  - [About](/seven_course_meal/about.md)
+  - [Amuse-Bouche](/seven_course_meal/amuse_bouche.md)
+  - [Hors d’oeuvre](/seven_course_meal/hors_doeuvre.md)
+  - [Palate Cleanser](/seven_course_meal/palate_cleanser.md)
+  - [Soup](/seven_course_meal/soup.md)
+  - [Aperitif](/seven_course_meal/aperitif.md)
+  - [Main Course: Psychic Sin](/seven_course_meal/main_course.md)
+  - [Dessert](/seven_course_meal/dessert.md)
+
 
 - Moves
   - [About](/moves/about.md)
-  - [Obvious](/moves/obvious.md)
+  - [Forward](/moves/forward.md)
   - [Reactions](/moves/reactions.md)
   - [Instability](/moves/instability.md)
   - [Powers](/moves/psychic_powers.md)

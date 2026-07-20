@@ -1,22 +1,25 @@
 :root {
-    --bg-color: #EFEFEE;
+    --bg-color: #F0F0F0;
     --bg-blurb-color: #E9E5E4;
+
     --text-color: #403C39;
     --text-dim-color: #8A6F66;
-    --header-color: #813636;
-    --sub-header-color: #4d9ab6;
-    --alt-sub-header-color: #A4790B;
-
     --story-text-color: #706C49;
 
-    --highlight-color: #000000;
-    --alt-highlight-color: #4d9ab6;
+    --header-color: #997723;
+    --sub-header-color: #6C2F75;
+    --title-color: #BC5D2E;
 
-    --border-color: #6C2F75;
-    --rare-color: #997723;
+    --highlight-color: #000000;
+    --alt-highlight-color: #6C2F75;
+
+    --border-color: #BC5D2E;
+    --block-border-color: #813636;
 
     --sb-bg-color: #E9E5E4;
     --sb-text-color: #c9bbb0;
     --sb-header-color: #E2B031;
     --sb-search-match-color: #161e21;
+
+    --sb-icon-color: #E9E5E4;
 }

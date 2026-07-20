@@ -40,14 +40,14 @@
     --heading-h4-margin                 : ;
     --heading-h4-padding                : ;
 
-    --heading-h5-color                  : var(--alt-sub-header-color);
+    --heading-h5-color                  : var(--sub-header-color);
     --heading-h5-font-family            : ;
     --heading-h5-font-size              : var(--font-size-l);
     --heading-h5-font-weight            : ;
     --heading-h5-margin                 : ;
     --heading-h5-padding                : ;
 
-    --heading-h6-color                  : var(--alt-sub-header-color);
+    --heading-h6-color                  : var(--title-color);
     --heading-h6-font-family            : ;
     --heading-h6-font-size              : var(--font-size-l);
     --heading-h6-font-weight            : ;
@@ -57,7 +57,7 @@
     --link-color                        : ;
 
     --sidebar-background                          : var(--sb-bg-color);
-    --sidebar-border-color                        : var(--rare-color);
+    --sidebar-border-color                        : var(--block-border-color);
     --sidebar-border-width                        : 0;
     --sidebar-padding                             : 0 25px;
     --sidebar-transition-duration                 : var(--duration-fast);
@@ -83,7 +83,7 @@
     --sidebar-nav-link-font-weight--active        : 700;
 
     --blockquote-background             : var(--sb-bg-color);
-    --blockquote-border-color           : var(--rare-color);
+    --blockquote-border-color           : var(--block-border-color);
     --blockquote-border-style           : solid;
     --blockquote-border-width           : ;
     --blockquote-border-radius          : var(--border-radius-m);
@@ -95,9 +95,12 @@
     --sidebar-toggle-border-style                 : solid;
     --sidebar-toggle-border-width                 : 0;
     --sidebar-toggle-height                       : 36px;
-    --sidebar-toggle-icon-color                   : var(--base-color);
+    --sidebar-toggle-icon-color                   : var(--sb-icon-color);
 
     --search-result-heading-color: #FFFFFF;
+
+    --code-inline-background: var(--code-inline-bg);
+    --code-inline-color: var(--code-inline-text);
 }
 
 .github-corner{

@@ -45,7 +45,7 @@ You'll also see the following terms:
 
 Most often the players roll their 2d8 and the MC rolls the instability die. That's the normal case because the PCs are our protagonists and primary actors, so they'll lead most of the actions in play by engaging with and against the pocket and its figments.
 
-But this isn't always the case. Sometimes the NPCs use moves on their own (they can use all the same obvious moves that are available to the PCs). In those moments the positions flip. The MC rolls the 2d8 and one of the players (whomever makes the most sense) rolls for instability.
+But this isn't always the case. Sometimes the NPCs use moves on their own (they can use all the same moves that are available to the PCs). In those moments the positions flip. The MC rolls the 2d8 and one of the players (whomever makes the most sense) rolls for instability.
 
 Also, the PCs can use moves that affect each other directly! These times the MC stands aside and lets the two players roll. The player making the move gets the 2d8, and the other player rolls instability.
 

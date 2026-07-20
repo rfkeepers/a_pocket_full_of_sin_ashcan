@@ -1,23 +1,26 @@
 :root {
     --bg-color: #18161B;
     --bg-blurb-color: #232028;
+
     --text-color: #c9bbb0;
     --text-dim-color: #a98b80;
-    --header-color: #E2B031;
-    --sub-header-color: #4d9ab6;
-    --alt-sub-header-color: #E2B031;
-
     --story-text-color: #BBBBBB;
+
+    --header-color: #E2B031;
+    --sub-header-color: #BC5D2E;
+    --title-color: #E2B031;
+
     --highlight-color: #FFFFFF;
     --alt-highlight-color: #4d9ab6;
+
     --border-color: #6C2F74;
-    --rare-color: #997723;
+    --block-border-color: #997723;
 
     --sb-bg-color: #070a06;
     --sb-text-color: #c9bbb0;
     --sb-header-color: #E2B031;
     --sb-search-match-color: #161e21;
 
-    --code-inline-background: #17313B !important;
-    --code-inline-color: #D6CBC2 !important;
+    --code-inline-bg: #17313B;
+    --code-inline-text: #D6CBC2;
 }

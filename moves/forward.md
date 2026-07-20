@@ -1,8 +1,6 @@
-# Obvious Moves
+# Forward Moves
 
-Obvious moves are the basic ways to play out an action or a moment. They help you discover new information, get closer to- or further from- other characters, and generally achieve your goals. There's nothing special about how they happen: every PC can use them. NPCs can use them on PCs, too!
-
-When calling on one of the obvious moves, it's best if you call out the move by name.  Eg: "I want to 'Take Their Measure'".  Likewise, the MC may ask if you're trying to use one of the moves, "It sounds like you're trying to 'Come Right Out With It'?" Obvious or not, it always helps for everyone to understand what you're trying to do.
+Forward moves are your basic tools for taking action and changing the situation. They help you discover new information, get closer to- or further from- other characters, and generally achieve your goals.
 
 ---
 ### Come Right Out with It

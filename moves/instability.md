@@ -2,8 +2,6 @@
 
 Instability moves can tamper with the present truths of pocket reality. They never get rolled; instead, they require payment: every use increases the group's instability. The more obviously you contort reality to meet your goals, the more it costs. Gain enough instability and you'll destabilize the whole pocket, making the trip more difficult for everyone.
 
-Every PC can use these moves. So can any NPC! Even the Mistress of Chimeras can ask you to make one of these moves as a consequence. Psychic pockets are malleable spaces, and respond to all manner of whims, desires, and tamperings. Sometimes a character will do it without even realizing what they've done.
-
 ---
 ### Set the Stage
 

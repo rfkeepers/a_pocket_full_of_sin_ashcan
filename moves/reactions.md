@@ -1,5 +1,6 @@
 # Reaction moves
 
+Reaction moves reward attention and inward consideration with value equal to action and motion. They're designed for light touches: glimpses and nods, scornful looks and weakened knees. Not the kind of thing that dramatically redirects a scene, but nonetheless add an essential touch of the brush to the painting.
 
 ---
 ### Catch Their Eye
@@ -10,6 +11,23 @@ You are a mere catalyst in this instant. Their emotions quicken at the sight of 
 
 <div class="burden">
 
+In catching their eye you are likewise caught and must reveal something about yourself to them. They may ask you any one question from _Take Their Measure_.
+</div>
+
+---
+### Put a Spell on Me
+
+When someone **arrests your interest**, confess what you're feeling and ask, their player will answer honestly.
+- Awe. _Could I possibly earn your admiration?_
+- Comfort. _You don't need to say anything. Simply let me be here. That's enough._
+- Memory. _You remind me of someone_ (say who, and why)_. Which of my emotions will you tug at, without even realizing what you're doing to me?_
+- Desire. _Could I possibly make you mine?_
+- Curiosity. _If I let you lead, where would you take me? Don't tell me outright. Only a hint._
+- Fear. _Can I possibly get away from you?_
+
+<div class="burden">
+
+Once someone has arrested your interest, you may not act against them in any way contrary to those feelings they inspired in you.
 </div>
 
 ---
@@ -39,9 +57,9 @@ The player who answers may not say, "nothing". If they try then any other player
 ---
 ### Revel
 
-When you **realize a moment of unfettered delight, exultant rapture, or genuine happiness**, tell the table what cherished memory it reminds you of, then pick one:
+Once per session, the first time that you **realize a moment of unfettered delight, exultant rapture, or genuine happiness**, tell the table what cherished memory it reminds you of then pick one:
 - Clear a burden.
-- Change an anchor.
+- Change your anchors.
 
 <div class="burden">
 
@@ -53,13 +71,17 @@ If you opt to clear a burden, you must clear this one.
 ---
 ### Writhe
 
-When you **avert your eyes, whimper in dread, or gasp or curse aloud**, confess your reaction openly to the table then pick one:
+Once per session, the first time that you **avert your eyes, whimper in dread, or gasp or curse aloud**, confess your reaction openly to the table- naming what caused it, as necessary- then pick one:
 - Mark a burden.
 - Increase instability by 3.
 
 <div class="burden">
 
-bad memory becomes
+When you confess your reaction, also confess to one of the following:
+  - A part of me is curious and wants to know more.
+  - In spite of myself I also feel a little excitement.
+  - This makes me yearn for `X`.
+
 </div>
 
 ---
