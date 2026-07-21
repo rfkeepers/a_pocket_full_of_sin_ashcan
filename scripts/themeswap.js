@@ -69,13 +69,13 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log(`icon ${theme}`);
     switch (theme) {
       case 'system':
-        themeIcon.textContent = '♖';
+        themeIcon.textContent = '󰡛';
         break;
       case 'dark':
-        themeIcon.textContent = '☾';
+        themeIcon.textContent = '';
         break;
       case 'light':
-        themeIcon.textContent = '☼';
+        themeIcon.textContent = '󰖨';
         break;
     }
   }

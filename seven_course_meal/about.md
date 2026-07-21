@@ -8,11 +8,11 @@ On camera, the story interpolates scenes from a literal meal served in seven cou
 
 The meal phase separates into seven parts, always in the same order. The first five give the players a specific set of questions to ask and bonuses to choose. The sixth part moves play into the next phase and the players enter the Psychic Pocket for the remainder of the game. Afterward, the party returns to the meal and concludes the job.
 
-1. [Amuse-Bouche](/seven_course_meal/amuse_bouche.md) - Players get introduced to the location and major NPCs.
-2. [Hors d’oeuvre](/seven_course_meal/hors_doeuvre.md) - Knowledge gathering: players learn about the person whose mind they are about to enter from the employers, and set up the expectations of the job. What are they here to purge or clean from that person?
-3. [Palate Cleanser](/seven_course_meal/palate_cleanser.md) - Knowledge gathering: players go digging for clues and more honest or revealing information from friends, family, staff, and other citizens.
-4. [Soup](/seven_course_meal/soup.md) - Knowledge gathering: players have one last chance to pry their employers for details as they prepare the ritual.
-5. [Aperitif](/seven_course_meal/aperitif.md) - A necessary ritual in every dive to the pocket: a psychedelic concoction to alter the mind.
-6. [Main Course: Psychic Sin](/seven_course_meal/main_course.md) - The players enter the psychic pocket, and continue play there until that phase concludes.
-7. [Dessert](/seven_course_meal/dessert.md) - Report the results of their work to their employers.
+1. [Amuse-Bouche](/seven_course_meal/amuse_bouche.md) - An introduction to the major NPCs, location, and situation.
+2. [Hors d’oeuvre](/seven_course_meal/hors_doeuvre.md) - We learn the history of the person whose mind the players will soon enter.
+3. [Palate Cleanser](/seven_course_meal/palate_cleanser.md) - The characters go digging for clues and more honest and revealing information.
+4. [Soup](/seven_course_meal/soup.md) - One last chance to pry honest answers from the employers' tongues.
+5. [Aperitif](/seven_course_meal/aperitif.md) - Final preparations; the players choose a boon for their entry.
+6. [Main Course: Psychic Sin](/seven_course_meal/main_course.md) - All characters enter the psychic pocket.
+7. [Dessert](/seven_course_meal/dessert.md) - We report the results of the job to the employers.
 

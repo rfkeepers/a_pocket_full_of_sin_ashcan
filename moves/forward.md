@@ -32,10 +32,10 @@ On a miss, ask the MC or the other player what goes wrong. They might have you c
 
 Always tell the MC one of the following:
 
-- I hurt them, even though I tried to restrain myself.
-- I scare them, though I only wanted to make a statement.
-- I disrespect them, though I tried to be appropriate.
-- I make a show of myself, though I meant to be discrete.
+- _I hurt them, even though I tried to restrain myself._
+- _I scare them, though I only wanted to make a statement._
+- _I disrespect them, though I tried to be appropriate._
+- _I make a show of myself, though I meant to be discrete._
 </div>
 
 ---
@@ -43,11 +43,11 @@ Always tell the MC one of the following:
 
 **When you survey your surroundings and get the lay of the land,** roll. On any success, ask the MC questions and they'll answer truthfully. On a 2+, ask 2. On a 1, ask at least 1; you can ask a second question after, if you're willing to let the MC make a move.
 
-- What’s coming this way or got its eye on me?
-- What’s valuable here that we haven't yet found?
-- What's wrong with this place?
-- What here rouses my personal interest?
-- If I trusted my gut to take me a step closer to some truth, where would I go?
+- _What’s coming this way or got its eye on me?_
+- _What’s valuable here that we haven't yet found?_
+- _What's wrong with this place?_
+- _What here rouses my personal interest?_
+- _If I trusted my gut to take me a step closer to `X`, where would I go?_
 
 On a miss, ask the MC what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you've made the pocket suspicious of you without knowing.
 
@@ -55,9 +55,9 @@ On a miss, ask the MC what goes wrong. They might have you choose 1 anyway, but 
 
 Always tell the MC one of the following:
 
-- I stand out like a sore thumb and draw attention to myself.
-- I snoop about like a bad egg and make someone suspicious of my intentions.
-- I blunder about and break, spill, or scatter something.
+- _I stand out like a sore thumb and draw attention to myself._
+- _I snoop about like a bad egg and make someone suspicious of my intentions._
+- _I blunder about and break, spill, or scatter something._
 </div>
 
 ---
@@ -75,7 +75,7 @@ Whenever you get into a scuffle, whether or not you caused it, increase instabil
 ---
 ### Draw Someone Out
 
-**When you try to draw someone out,** roll.  On 2+, tell their player, "I do draw you out, by doing \<x\>. What’s the effect?" On 1, ask their player, "what could I do to draw you out?  What would be the effect?".  Whether you do it or not is up to you.  On a miss, ask them what went wrong? It may still draw them out, but prepare for the worst. Perhaps you revealed yourself to them.
+**When you try to draw someone out,** roll.  On 2+, tell their player, "I do draw you out, by doing `X`. What’s the effect?" On 1, ask their player, "what could I do to draw you out?  What would be the effect?".  Whether you do it or not is up to you.  On a miss, ask them what went wrong? It may still draw them out, but prepare for the worst. Perhaps you revealed yourself to them.
 
 <div class="burden">
 

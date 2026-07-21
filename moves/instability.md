@@ -25,7 +25,7 @@ Someone or something else arrives with them.  Ask or tell them MC who or what.
 ---
 ### That's Just the Ticket
 
-You can pull any item you need from the surrounding scenery, just say, **"an \<x\> has to be around here somewhere"**.  Increase instability by `1` if that sort of thing matches your surroundings.  Increase it by `3` if the item would be out of place or unrealistic.
+You can pull any item you need from the surrounding scenery, just say, **"an `X` has to be around here somewhere"**.  Increase instability by `1` if that sort of thing matches your surroundings.  Increase it by `3` if the item would be out of place or unrealistic.
 
 <div class="burden">
 

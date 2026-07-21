@@ -1,4 +1,6 @@
 :root {
+    --base-font-family: "Lilex Nerd Font", monospace;
+    --base-font-size: 14px;
     --base-line-height: 1.4;
 
     --base-background-color: var(--bg-color);
@@ -103,6 +105,20 @@
     --code-inline-color: var(--code-inline-text);
 }
 
+@font-face {
+  font-family: "Lilex Nerd Font";
+  src: url("../fonts/LilexNerdFont-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* @font-face { */
+/*   font-family: "Lilex Nerd Font"; */
+/*   src: url("../fonts/LilexNerdFont-Bold.woff2") format("woff2"); */
+/*   font-weight: 700; */
+/*   font-style: normal; */
+/* } */
+
 .github-corner{
   display: none !important;
 }
@@ -140,7 +156,7 @@
 }
 
 article:not(.sidebar-nav) ul li::marker {
-  content: "✧ ";
+  content: "󰫣 ";
 }
 
 dt {

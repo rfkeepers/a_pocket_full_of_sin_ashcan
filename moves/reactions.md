@@ -3,21 +3,9 @@
 Reaction moves reward attention and inward consideration with value equal to action and motion. They're designed for light touches: glimpses and nods, scornful looks and weakened knees. Not the kind of thing that dramatically redirects a scene, but nonetheless add an essential touch of the brush to the painting.
 
 ---
-### Catch Their Eye
-
-When you **catch someone’s eye** (your call), roll. On 2, pick 2, one feeling roused and one repressed entire. On 1, you pick 1 then they pick 1. On a miss, they pick both. They feel (or forget to feel) _aroused_, _wolfish_, _allayed_, _disquieted_, _charmed_, or _flustered_.
-
-You are a mere catalyst in this instant. Their emotions quicken at the sight of you, but are not necessarily felt towards you.
-
-<div class="burden">
-
-In catching their eye you are likewise caught and must reveal something about yourself to them. They may ask you any one question from _Take Their Measure_.
-</div>
-
----
 ### Put a Spell on Me
 
-When someone **arrests your interest**, confess what you're feeling and ask, their player will answer honestly.
+When someone **arrests your interest**, confess how they make you feel and ask, their player will answer honestly.
 - Awe. _Could I possibly earn your admiration?_
 - Comfort. _You don't need to say anything. Simply let me be here. That's enough._
 - Memory. _You remind me of someone_ (say who, and why)_. Which of my emotions will you tug at, without even realizing what you're doing to me?_
@@ -28,6 +16,18 @@ When someone **arrests your interest**, confess what you're feeling and ask, the
 <div class="burden">
 
 Once someone has arrested your interest, you may not act against them in any way contrary to those feelings they inspired in you.
+</div>
+
+---
+### Catch Their Eye
+
+When you **catch someone’s eye** (your call), roll. On 2, pick 2, one feeling quickens within them while the other smothers entirely. On 1, you pick 1 then they pick 1. On a miss, they pick both. You are a mere catalyst in this instant. Their emotions rouse at the sight of you, but not necessarily towards you.
+
+They feel (or neglect to feel) _aroused_, _wolfish_, _allayed_, _disquieted_, _charmed_, or _flustered_.
+
+<div class="burden">
+
+In catching their eye you are likewise caught and must reveal something about yourself to them. They may ask you any one question from _Take Their Measure_.
 </div>
 
 ---
@@ -47,9 +47,9 @@ On a miss, ask the MC or the other player what goes wrong. They might have you c
 
 Always ask one of the following questions:
 
-- What do you obviously not like about me?
-- What am I not going to like about you?
-- Why do I need to worry about having a run-in?
+- _What do you obviously not like about me?_
+- _What am I not going to like about you?_
+- _Why do I need to worry about having a run-in?_
 
 The player who answers may not say, "nothing". If they try then any other player may provide an answer in their stead, and it must be treated as truth.
 </div>
@@ -63,7 +63,7 @@ Once per session, the first time that you **realize a moment of unfettered delig
 
 <div class="burden">
 
-The plague of a cherished memory is the realization that you cherish it ever more for recalling something you no longer have. When you describe the memory, tell the table what loss the memory accompanies.
+The affliction of a cherished memory is the realization that you cherish it ever more as something you no longer possess. When you describe the memory, tell the table what you lost afterward. It is time to let go. Lay this remembrance to rest and never think of it again.
 
 If you opt to clear a burden, you must clear this one.
 </div>

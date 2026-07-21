@@ -14,7 +14,7 @@
   - [Palate Cleanser](/seven_course_meal/palate_cleanser.md)
   - [Soup](/seven_course_meal/soup.md)
   - [Aperitif](/seven_course_meal/aperitif.md)
-  - [Main Course: Psychic Sin](/seven_course_meal/main_course.md)
+  - [Main Course](/seven_course_meal/main_course.md)
   - [Dessert](/seven_course_meal/dessert.md)
 
 
