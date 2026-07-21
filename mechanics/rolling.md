@@ -6,7 +6,7 @@ This game uses a unique system of rolling called the `instability system`. Let's
 
 All rolls in this game, no matter the situation, are handled with **2d8 vs Instability**.  The character taking the action (usually, but not necessarily, the player) rolls the 2d8.  The instability die (see: [instability](/mechanics/instability.md)) gets rolled by whomever is opposing that character (usually, but not necessarily, this is the MC's job).
 
-Success gets determined by how many of the player's dice roll _above_ the instability die: `2+` dice for a clear success, `1` for a complicated success, or none to miss the roll.
+Success gets determined by how many of the player's dice roll _above_ the instability die: `2` dice for a `clear success`, `1` for a `complicated success`, or none to `miss` the roll.
 
 <div class="example">
 
@@ -34,11 +34,6 @@ You'll also see the following terms:
 <dl>
   <dt>Success</dt>
   <dd>Applies when you get either a Clear or Complicated Success. Aka: 1 or more dice rolled above instability.</dd>
-  <dt>Complicated success</dt>
-  <dd>Whatever your goal was, you achieve it. But the results aren't exactly what you might want: they're complicated, messy, or going to cost you extra.</dd>
-  <dt>Miss</dt>
-  <dd>Maybe you still did what you wanted, maybe not. A miss isn't necessarily a failure. It means the outcome isn't what you wanted, in one way or another.</dd>
-</dl>
 <br>
 
 ## Who rolls?

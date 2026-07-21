@@ -2,7 +2,7 @@
 
 ## Powered By The Apocalypse
 
-This game is a [PBtA](http://apocalypse-world.com/pbta/games/find) gig, and further gets most of its dna from [Under Hollow Hills](https://lumpley.games/under-hollow-hills-about-the-game/). Most details from that framework holds true : the conversation, the moves (or plays, if you're coming from UHH), and all the intertwining of the two.
+This game is a [PBtA](http://apocalypse-world.com/pbta/games/find) gig, and further gets much of its dna from [Under Hollow Hills](https://lumpley.games/under-hollow-hills-about-the-game/). Most details from that framework holds true : the conversation, the moves (or plays, if you're coming from UHH), and all the intertwining of the two.
 
 Those differences which you'll find throughout this game are often explained on the page, or alongside the mechanics or space, where they differ. This section below constitutes a brief for the general concepts and broad strokes that are peculiar to this game and its intended experience.
 

@@ -6,7 +6,7 @@ The seven course meal guides play through a structured set of scenes wherein the
 
 On camera, the story interpolates scenes from a literal meal served in seven courses (in this game: a standard of the sin eating ritual) with scenes of the players sniffing out secrets, hitting the street, and meeting with contacts. Not quite a montage, but nor is it time for lengthy, heavy conversation. The show is only beginning, and the MC still has such sights to show you.
 
-The meal phase separates into seven parts, always in the same order. The first five give the players a specific set of questions to ask and bonuses to choose. The sixth part moves play into the next phase and the players enter the Psychic Pocket for the remainder of the game. Afterward, the party returns to the meal and concludes the job.
+The meal phase separates into seven parts, always in the same order. The first five give the players a specific set of questions to ask and bonuses to choose. The sixth part moves play into the next phase and the players enter the Psychic Pocket for the remainder of the game. Afterward, the party returns to the meal and finishes the job.
 
 1. [Amuse-Bouche](/seven_course_meal/amuse_bouche.md) - An introduction to the major NPCs, location, and situation.
 2. [Hors d’oeuvre](/seven_course_meal/hors_doeuvre.md) - We learn the history of the person whose mind the players will soon enter.

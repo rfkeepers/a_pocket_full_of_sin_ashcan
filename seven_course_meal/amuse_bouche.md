@@ -11,4 +11,4 @@ Each player may ask one of the following. The same question may be asked multipl
 - _What topics do they ignore, avoid, or skirt around?_
 - _Whom do I catch peeping as we arrive?_
 - _Which of us upsets them first?_
-- _As we sit down to eat, who is there whom we did not expect?_
+- _As we sit down to eat, whom at the table did we not expect?_
