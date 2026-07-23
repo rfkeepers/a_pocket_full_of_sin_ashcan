@@ -50,6 +50,7 @@
   - Who am I?
   - Who are you?
   - I know that I am I, but are you, you?
+
   </div>
   <div class="reward">
   <div class="stage-li">

@@ -20,16 +20,16 @@
 <h2>Burdens</h2>
 <br>
 <dl class="selectable-dl">
-  <dt>Psyche</dt>
-  <dd>TBD</dd>
-  <dt>Heart</dt>
-  <dd>TBD</dd>
-  <dt>Hands</dt>
-  <dd>TBD</dd>
-  <dt>Tongue</dt>
-  <dd>TBD</dd>
-  <dt>Bones</dt>
-  <dd>TBD</dd>
+  <dt>Haunt/Psyche</dt>
+  <dd>TBD for each</dd>
+  <dt>Shade/Heart</dt>
+  <dd>TBD for each</dd>
+  <dt>Warp/Hands</dt>
+  <dd>TBD for each</dd>
+  <dt>Rot/Tongue</dt>
+  <dd>TBD for each</dd>
+  <dt>Fail/Bones</dt>
+  <dd>TBD for each</dd>
 </dl>
 <br>
 
