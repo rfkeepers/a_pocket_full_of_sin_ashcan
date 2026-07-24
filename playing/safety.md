@@ -11,9 +11,17 @@ The addition of safety tools is always encouraged. The following are recommended
 
 ## Communication
 
-The following provide players tools that help coordinate the conversation and manage the spotlight. These tools are always used by the players, not by the characters.
+The following tools are here to coordinate the conversation and manage the spotlight.
 
-- **Call for a line**: When you don't know what to do next but aren't ready to give up the spotlight, you may ask the table for suggestions, advice, insights, or any other guidance.
-- **Call for help**: When you don't know what to do next, or aren't able to get what you want on your own, you may tell the table what you're after and open up the spotlight for another player to step in to help.
-- **Circle back**: If you need time to think but don't want to hand off to anyone else, the spotlight should shift somewhere else in the story and come back to you soon after.
-- **Raise your hand**: When you're plainly dying to stand in the spotlight, but someone else already has it, raise your hand. The other players should acknowledge you in response, and give you the next opportunity to speak.
+<dl>
+<dt>Call for a line</dt>
+<dd>When you don't know what to do next but aren't ready to give up the spotlight you can ask the table for suggestions, advice, insights, or any other guidance. They should give it freely, helping you inhabit your moment as best as possible.</dd>
+<dt>Call for help</dt>
+<dd>When you don't know what to do next, or aren't able to get what you want on your own, tell the table what you're after and open up the spotlight for another player to step in and help. This is their opportunity to join you in making this moment thrive. To overcome, sure; but also, sometimes, to indulge in opportune drama.</dd>
+<dt>Circle back</dt>
+<dd>If you need time to think of an answer, and you don't want to let the question slip away from you, tell the table to give you a moment. The spotlight should shift somewhere else in the story and return to you soon after.</dd>
+<dt>Raise your hand</dt>
+<dd>When you're plainly dying to stand in the spotlight, but someone else already has it, raise your hand. The other players should acknowledge you in response, and give you the next opportunity to speak.</dd>
+</dl>
+
+---

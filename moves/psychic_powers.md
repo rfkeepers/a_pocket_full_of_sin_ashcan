@@ -28,16 +28,24 @@ The rest of the rules are simple:
 
 Since voting works differently than rolling, use the following as a guide to resolve the outcome.
 
-- *Unanimity*: The count of votes is equal or greater than the count of voters.  This usually represents the best possible outcome.
-- *Majority*: More than half of the votes are in your favor.  Normally treated as a weak or partial success.
-- *Split*: The votes are equally split. Treat this the same as a majority unless the power says otherwise.
-- *Minority*: Fewer than half of the votes are in your favor.  This usually represents the worst possible outcome.
-- *Absence*: No votes were cast in your favor. Treat this the same as a minority unless the power says otherwise.
+<dl>
+  <dt>Unanimity</dt>
+  <dd>The count of votes is equal or greater than the count of voters.  This usually represents the best possible outcome.</dd>
+  <dt>Majority</dt>
+  <dd>More than half of the votes are in your favor.  Normally treated as a weak or partial success.</dd>
+  <dt>Split</dt>
+  <dd>The votes are equally split. Treat this the same as a majority unless the power states otherwise.</dd>
+  <dt>Minority</dt>
+  <dd>Fewer than half of the votes are in your favor.  This usually represents the worst possible outcome.</dd>
+  <dt>Absence</dt>
+  <dd>No votes were cast in your favor. Treat this the same as a minority unless the power says otherwise.</dd>
+</dl>
 
 ### Can the MC vote?
 
 Figments, bound within the same warp and weft as all the rest of the pocket, can neither use nor affect pocket powers. Should the MC bring some other flesh and blood character into the pocket with you, however, well that character may do as they please, and invoke and vote on powers alike.
 
+---
 ## Powers
 
 ### Give them the notion

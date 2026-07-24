@@ -13,9 +13,9 @@ You may not set the stage as normal.  Instead, increase instability by `2` and a
 </div>
 
 ---
-### Call For Help
+### A Summons for Aid
 
-You can make a figment or person already within the pocket available in the scene, wherever you're at, just say, **"I could use a little help right now"**, then say who you need help from.  Increase instability by `1` if it makes sense that they could be there right now.  Increase it by `3` to get them there regardless of the circumstances.
+You can make a figment or person already within the pocket available in the scene, wherever you're at, just say, **"I'm in a spot, here"**, then say who you need help from (or open the offer to anyone).  Increase instability by `1` if it makes sense that they could be there right now.  Increase it by `3` to get them there regardless of the circumstances.
 
 <div class="burden">
 

@@ -5,14 +5,22 @@ Reaction moves reward attention and inward consideration with value equal to act
 ---
 ### Put a Spell on Me
 
-When someone **arrests your interest**, confess how they make you feel and ask, their player will answer honestly.
-- Awe. _Could I possibly earn your admiration?_
-- Comfort. _You don't need to say anything. Simply let me be here. That's enough._
-- Memory. _You remind me of someone_ (say who, and why)_. Which of my emotions will you tug at, without even realizing what you're doing to me?_
-- Desire. _Could I possibly make you mine?_
-- Curiosity. _If I let you lead, where would you take me? Don't tell me outright. Only a hint._
-- Fear. _Can I possibly get away from you?_
-
+When someone **arrests your interest**, confess how they make you feel and ask. Their player will answer honestly, but your characters may not realize the same.
+<dl>
+  <dt>Awe</dt>
+  <dd>Could I possibly earn your admiration?</dd>
+  <dt>Comfort</dt>
+  <dd>You don't need to say anything. Simply let me be here. That's enough.</dd>
+  <dt>Memory</dt>
+  <dd>You remind me of someone (say who, and why). Which of my emotions will you tug at, without even realizing what you're doing to me?</dd>
+  <dt>Desire</dt>
+  <dd>Could I possibly make you mine?</dd>
+  <dt>Curiosity</dt>
+  <dd>If I let you lead, where would you take me? Don't tell me outright. Only a hint.</dd>
+  <dt>Fear</dt>
+  <dd>Can I possibly get away from you?</dd>
+</dl>
+<br>
 <div class="burden">
 
 Once someone has arrested your interest, you may not act against them in any way contrary to those feelings they inspired in you.
@@ -35,11 +43,11 @@ In catching their eye you are likewise caught and must reveal something about yo
 
 **When you measure someone up,** even with just a glance, even at a distance, roll. On success, ask their player one of the following questions and they must answer honestly. On 2, ask one more.
 
-- What do you intend to do, and how far are you prepared to go?
-- Where are you open to me? Where are you vulnerable, and where are you guarded?
-- What do you hope I’ll do, and what would you do if I don't?
-- What do you expect to happen, and how do you feel about it?
-- What are you forgetting, ignoring, or keeping hidden (possibly from yourself)?
+- _What do you intend to do, and how far are you prepared to go?_
+- _Where are you open to me? Where are you vulnerable, and where are you guarded?_
+- _What do you hope I’ll do, and what would you do if I don't?_
+- _What do you expect to happen, and how do you feel about it?_
+- _What are you forgetting, ignoring, or keeping hidden (possibly from yourself)?_
 
 On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you revealed your attention to them.
 
@@ -73,14 +81,14 @@ If you opt to clear a burden, you must clear this one.
 
 Once per session, the first time that you **avert your eyes, whimper in dread, or gasp or curse aloud**, confess your reaction openly to the table- naming what caused it, as necessary- then pick one:
 - Mark a burden.
-- Increase instability by 3.
+- Increase instability by `3`.
 
 <div class="burden">
 
 When you confess your reaction, also confess to one of the following:
-  - A part of me is curious and wants to know more.
-  - In spite of myself I also feel a little excitement.
-  - This makes me yearn for `X`.
+  - _A part of me is curious and wants to know more._
+  - _In spite of myself I also feel a little excitement._
+  - _This makes me yearn for `X`._
 
 </div>
 

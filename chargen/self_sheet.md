@@ -32,11 +32,11 @@
 
 ####  Compose a template
 
-**When you create a character sheet template,** roll.  On 2+, the sheet is complete and ready for you to start working on individual playbooks. On 1, you could move ahead, but you'll spend a lot of time fixing up all the little things when you inevitably change your mind.  On a miss, there's still so much to be done.
+**When you create a character sheet template,** roll.  On 2, the sheet is complete and ready for you to start working on individual playbooks. On 1, you could move ahead, but you'll spend a lot of time fixing up all the little things when you inevitably change your mind.  On a miss, there's still so much to be done.
 
 ####  Think up a playbook
 
-**When you conjure up a playbook,** roll.  On 2+, you come up with something that both matches the theme and has interesting mechanics. On 1, it either matches the theme or has interesting mechanics, pick one.  On a miss, it's not working out.  Scrap it and start over again.
+**When you conjure up a playbook,** roll.  On 2, you come up with something that both matches the theme and has interesting mechanics. On 1, it either matches the theme or has interesting mechanics, pick one.  On a miss, it's not working out.  Scrap it and start over again.
 
 <br>
 <h2>Iniquity</h2>
