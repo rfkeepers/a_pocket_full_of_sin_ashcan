@@ -1,14 +1,14 @@
 # Amuse-Bouche
 
-The MC will always begin by explaining the following:
+The MC begins by revealing the following:
 
 <dl>
   <dt>The employer</dt>
   <dd>Who they are and, if it's not obvious, whom they represent.</dd>
-  <dt>Whom you're here to save</dt>
-  <dd>What condition they're in, and what your employer wants you to do for them.</dd>
-  <dt>Terms and conditions</dt>
-  <dd>Any rules and requirements they expect you to follow through this endeavor.</dd>
+  <dt>The location</dt>
+  <dd>Where this is all taking place.</dd>
+  <dt>The contract</dt>
+  <dd>What they expect you to do, and how much you'll get paid at the end.</dd>
 </dl>
 
 ---
