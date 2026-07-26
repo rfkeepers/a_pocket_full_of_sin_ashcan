@@ -71,17 +71,17 @@ Always tell the MC one of the following:
 </div>
 
 ---
-### Scuffle and Fracas
+### Quarrel and Fracas
 
-**When you get into a scuffle or fracas** or otherwise navigate your way through some chaos, answer the next question, figure out who else is caught in the scuffle, then roll. 
+**When you get into a quarrel or fracas** or some other overwhelming and chaotic altercation, answer the next question, figure out who else is caught in the fracas, then roll. 
 
 What do you want to accomplish by the time the hubbub dies down? (ex: snatch the queen's necklace, stand proud above them all, disappear without a trace, sneak a kiss and steal his heart). On 2 you do it, and what's more, nothing terrible happens. On 1, either nothing terrible happens or you accomplish your goal, say which. On a miss, prepare for the worst. Ask the MC what happens and where you are now.
 
-Anytime a scuffle begins, all characters in the scene get drawn into it. Before resolving any one roll everyone should state their goal, then everyone makes their roll at the same time.  If you'd rather stay out of it then that's what you're trying to accomplish.  When the dust settles, it settles for everyone all at once.
+Anytime an altercation begins, all characters in the scene get drawn into it. Before resolving any one roll everyone should state their goal, then everyone makes their roll at the same time.  If you'd rather stay out of it then that's what you're trying to accomplish.  When the dust settles, it settles for everyone all at once.
 
 <div class="burden">
 
-Whenever you get into a scuffle, whether or not you caused it, increase instability by `3`.
+Whenever you get into an altercation, whether or not you caused it, increase instability by `3`.
 </div>
 
 ---

@@ -24,7 +24,7 @@ Once, anytime in this pocket, you may gain <code>Grounded</code> on your next ro
   <dt>Italian liqueur</dt>
   <dd>Scintillating bitters roll from tongue to belly. You sizzle with the ignition of a firework. Wheel about in a somersault of dragon's breath. A pop and you're gone. A crack and here back again, still smouldering from where you streaked through the sky.
 
-  The first time you **Scuffle and Fracas**, don't roll. Treat the result as a `Clear success` instead.</dd>
+  The first time you **Quarrel and Fracas**, don't roll. Treat the result as a `Clear success` instead.</dd>
   <dt>Sweet vermouth</dt>
   <dd>Sinking into the warmth of spices as a confectioners delight wraps your mind; you notice naught as you slip across the veil. The liquor comforts against the trespass.
 
