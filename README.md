@@ -67,21 +67,9 @@ A complete rotation of play occurs over three distinct phases:
 
 ### The Seven Course Meal
 
-The seven course meal is a highly structured set of scenes wherein the MC and Players introduce the next job, meet their employers, investigate surface-level clues and initial details, and otherwise prepare for the journey into psychic pocket.  The ultimate goal is to go into the next phase with as much knowledge as possible.
+The [seven course meal](/seven_course_meal/about.md) is the ritual meal which kicks off each arc of the game. In a brief set of scenes the MC introduces players to their employers, the job, and the person they're here to save. The players chase clues, sniff out secrets, challenge their employers, and prepare for the journey into the psychic pocket.
 
-The employer, in each case, is the household (or other organization) that has called upon this group of sin eaters to perform their ritual services.  The work is always contract work, and this employer acts as their client for only a single loop.
-
-On camera, the story interpolates scenes from a literal meal served in seven courses (a part of the sin eater ritual) with scenes of the players as they get introduced to the situation and go about gathering information to frame the psychic pocket they're about to enter.
-
-This phase breaks into seven parts.  The first five play out in order.  The sixth part moves play into the next phase: psychic pocket.  The final part returns to the meal to wrap up the story.
-
-1. _Amuse-Bouche_ - Players get introduced to the location and major NPCs.
-2. _Hors d’oeuvre_ - Knowledge gathering: players learn about the person whose mind they are about to enter from the employers, and set up the expectations of the job. What are they here to purge or clean from that person?
-3. _Palate Cleanser_ - Knowledge gathering: players go digging for clues and more honest or revealing information from friends, family, staff, and other citizens.
-4. _Soup_ - Knowledge gathering: players have one last chance to pry their employers for details as they prepare the ritual.
-5. _Aperitif_ - A necessary ritual in every dive to the pocket: a psychedelic concoction to alter the mind.
-6. _Main Course_ - The players enter the psychic pocket, and continue play there until that phase concludes.
-7. _Dessert_ - Report the results of their work to their employers.
+Play in this phase is structured, not free-form, a series of questions which tease information through scattered granules. The first plates offers another chance to untangle to knots and peep through the keyholes. The next chase down the leads and throw accusations back at the employers. We're not solving a mystery here, we're building one.
 
 ### Psychic Pockets
 
@@ -91,7 +79,7 @@ A psychic pocket is a self-contained world. Not so much a real place as a halluc
 
 The general populace doesn't consort with psychic pockets. A person might grasp at slivers of their pockets through dreams or feverish pitches with barely a mote of comprehension. Science rankles over investigations into psychical forces. Charlatan hustlers push the paranormal into theatrical spotlights. All true tradition and heritage of psychic pockets survives hidden behind closed doors and out-of-the-way corners, now believed to be one more performative, falsified spiritualism. 
 
-In play, psychic pockets are the primary space for freeform gameplay. Play stays in the pocket until the PCs contract is fulfilled. Players first take their time to investigate the pocket. They'll discover the hidden truths about this owner's history, secrets, and subconscious. Eventually it all culminates in the opportunity to consume the uncontrolled monstrosity of sin of this psychical world-- that is, the PCs take that sin into themselves on behalf of the pocket, increasing their _Iniquity_ in the process.
+In play, psychic pockets are the primary space for free-form gameplay. Play stays in the pocket until the PCs contract is fulfilled. Players first take their time to investigate the pocket. They'll discover the hidden truths about this owner's history, secrets, and subconscious. Eventually it all culminates in the opportunity to consume the uncontrolled monstrosity of sin of this psychical world-- that is, the PCs take that sin into themselves on behalf of the pocket, increasing their _Iniquity_ in the process.
 
 ### Downtime
 
