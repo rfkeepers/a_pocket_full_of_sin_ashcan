@@ -67,7 +67,7 @@ A complete rotation of play occurs over three distinct phases:
 
 ### The Seven Course Meal
 
-The [seven course meal](/seven_course_meal/about.md) is the ritual that kicks off each new arc of the game. In a brief set of scenes the MC introduces players to their employers, the job, and the person they're here to save. The players chase clues, sniff out secrets, challenge their employers, and prepare for the journey into the psychic pocket.
+The [seven course meal](/text/seven_course_meal/about.md) is the ritual that kicks off each new arc of the game. In a brief set of scenes the MC introduces players to their employers, the job, and the person they're here to save. The players chase clues, sniff out secrets, challenge their employers, and prepare for the journey into the psychic pocket.
 
 Play in this phase is structured, not free-form, a series of questions which tease information through scattered granules. The first plates offers another chance to untangle to knots and peep through the keyholes. The next chase down the leads and throw accusations back at the employers. We're not solving a mystery here, we're building one.
 

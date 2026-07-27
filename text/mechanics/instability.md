@@ -8,7 +8,7 @@ Opposite that center are the things that fall out of order first. The passive de
 
 ## Tracking Instability
 
-Instability gets tracked with an "instability die".  This die both tracks your current instability (the count of sides on the die and current pips) and also the acts the part of the pocket, the antagonist to your rolls (see: [rolling](/mechanics/rolling.md)).
+Instability gets tracked with an "instability die".  This die both tracks your current instability (the count of sides on the die and current pips) and also the acts the part of the pocket, the antagonist to your rolls (see: [rolling](/text/mechanics/rolling.md)).
 
 When entering a pocket, instability always begins at `1 of d4` and counts upwards or downwards as mechanics demand. When the count outgrows the sides on the die (ex: `5 of d4`), then your instability upgrades to the next die, in the following order:
 
