@@ -2,44 +2,44 @@
 ---
 
 - Playing the game
-  <!-- - [Player Guide](/playing/players.md) -->
-  <!-- - [MC Guide](/playing/MC.md) -->
-  <!-- - [Integrity in the pocket](/playing/integrity.md) -->
-  - [Safety & Communication](/playing/safety.md)
+  <!-- - [Player Guide](/text/playing/players.md) -->
+  <!-- - [MC Guide](/text/playing/MC.md) -->
+  <!-- - [Integrity in the pocket](/text/playing/integrity.md) -->
+  - [Safety & Communication](/text/playing/safety.md)
 
 - The Seven Course Meal
-  - [About](/seven_course_meal/about.md)
-  - [Amuse-bouche](/seven_course_meal/amuse_bouche.md)
-  - [Hors d’oeuvre](/seven_course_meal/hors_doeuvre.md)
-  - [Soup](/seven_course_meal/soup.md)
-  - [Palate cleanser](/seven_course_meal/palate_cleanser.md)
-  - [Aperitif](/seven_course_meal/aperitif.md)
-  - [Main course](/seven_course_meal/main_course.md)
-  - [Dessert](/seven_course_meal/dessert.md)
+  - [About](/text/seven_course_meal/about.md)
+  - [Amuse-bouche](/text/seven_course_meal/amuse_bouche.md)
+  - [Hors d’oeuvre](/text/seven_course_meal/hors_doeuvre.md)
+  - [Soup](/text/seven_course_meal/soup.md)
+  - [Palate cleanser](/text/seven_course_meal/palate_cleanser.md)
+  - [Aperitif](/text/seven_course_meal/aperitif.md)
+  - [Main course](/text/seven_course_meal/main_course.md)
+  - [Dessert](/text/seven_course_meal/dessert.md)
 
 
 - Moves
-  - [About](/moves/about.md)
-  - [Forward](/moves/forward.md)
-  - [Reactions](/moves/reactions.md)
-  - [Instability](/moves/instability.md)
-  - [Powers](/moves/psychic_powers.md)
+  - [About](/text/moves/about.md)
+  - [Forward](/text/moves/forward.md)
+  - [Reactions](/text/moves/reactions.md)
+  - [Instability](/text/moves/instability.md)
+  - [Powers](/text/moves/psychic_powers.md)
 
 - Rules
-  - [Instability](/mechanics/instability.md)
-  - [Burdens](/mechanics/burdens.md)
-  - [Rolling](/mechanics/rolling.md)
+  - [Instability](/text/mechanics/instability.md)
+  - [Burdens](/text/mechanics/burdens.md)
+  - [Rolling](/text/mechanics/rolling.md)
 
 - Character Creation
-  - [Player characters](/chargen/basics.md)
-  <!-- - [Creating a Character](playbooks/creating-a-character.md) -->
-  - [Selves](/chargen/self_sheet.md)
-  - [Egos](/chargen/ego_sheet.md)
+  - [Player characters](/text/chargen/basics.md)
+  <!-- - [Creating a Character](/text/playbooks/creating-a-character.md) -->
+  - [Selves](/text/chargen/self_sheet.md)
+  - [Egos](/text/chargen/ego_sheet.md)
 
 <!-- - The Setting -->
 <!--   - America -->
-<!--     - [In 1900](/setting/america/1900.md) -->
-<!--     - [Playing History](/setting/america/history.md) -->
+<!--     - [In 1900](/text/setting/america/1900.md) -->
+<!--     - [Playing History](/text/setting/america/history.md) -->
 <!--   - Psychic Pockets -->
-<!--     - [Reality](/setting/pockets/Reality.md) -->
-<!--     - [NPCs](/setting/pockets/npcs.md) -->
+<!--     - [Reality](/text/setting/pockets/Reality.md) -->
+<!--     - [NPCs](/text/setting/pockets/npcs.md) -->

@@ -55,11 +55,11 @@ document.addEventListener('DOMContentLoaded', () => {
     currentTheme = theme;
     if (theme === 'system') {
       const isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      link.href = isDark ? 'style/dark.css' : 'style/light.css';
+      link.href = isDark ? 'web/style/dark.css' : 'web/style/light.css';
       body.setAttribute('color-theme', 'system');
       themeIcon.content = 'system';
     } else {
-      link.href = `style/${theme}.css`;
+      link.href = `web/style/${theme}.css`;
       body.setAttribute('color-theme', theme);
     }
     setThemeIcon(theme);
