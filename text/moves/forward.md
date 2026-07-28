@@ -3,40 +3,68 @@
 Forward moves are your basic tools for taking action and changing the situation. They help you discover new information, get closer to- or further from- other characters, and generally achieve your goals.
 
 ---
-### Draw Someone Out
+### Get the lay of the land
 
-**When you try to draw someone out,** roll.  On 2, tell their player, "I do draw you out, by doing `X`. What’s the effect?" On 1, ask their player, "what could I do to draw you out?  What would be the effect?".  Whether you do it or not is up to you.  On a miss, ask them what went wrong? It may still draw them out, but prepare for the worst. Perhaps you revealed yourself to them.
+**When you survey your surroundings and get the lay of the land,** roll. On any success, ask the MC questions and they'll answer truthfully. On 2, ask 2. On 1, ask at least 1; you can ask a second question after, if you're willing to let the MC act in response.
 
-<div class="burden">
+- _What’s coming this way or has its eye on me?_
+- _What’s valuable here that we haven't yet found?_
+- _What's wrong with this place?_
+- _What here rouses my personal interest?_
+- _If I trusted my gut to take me a step closer to `X`, where would I go?_
 
-Before you roll, tell their player: "I'm not allowed to get exactly what I want".  If you manage to draw them out, they have to choose: give you more than you were ready to handle, less than you'd hoped, or go about the whole thing cross-ways.
-</div>
-
----
-### Come Right Out with It
-
-**When you come right out and give someone what's on your mind,** roll.  On a success, you've got their attention. Come clean about what you want or what they should know. Ask them how they take it.  They must answer honestly, even if they don't realize they've let it slip. On 1, if they don't want to hear it they can cut you off, dance around the topic, or ride roughshod over what you're trying to show them.  On a miss, they might hear you out for a moment anyway, but be prepared for the worst. Ask their player what goes wrong.
-
-They can request a solemn promise from you at any point during the move. On a success, you could ask a promise of them, too. But only one of you gets to make the request: whomever is first. You don't have to agree to the promise, of course. But if you don't, tell them honestly what's stopping you.
+On a miss, ask the MC what goes wrong. They might have you choose 1 anyway, but prepare for the worst.
 
 <div class="burden">
 
-You cannot request promises from them.  Likewise, you must accept any promise they request of you.
+Always tell the MC one of the following:
+
+- _I stand out like a sore thumb and draw attention to myself._
+- _I snoop about like a bad egg and make someone suspicious of my intentions._
+- _I blunder about and break, spill, or scatter something._
 </div>
 
 ---
-### Barge In on Someone
+### Draw them out
+
+**When you try to draw someone out,** roll.  On 2 say, "I do draw you out, by doing `X`. What’s the effect?" On 1, ask their player, "what could I do to draw you out?  What would be the effect?".  Whether you do as they suggest is up to you. On a miss, ask them what went wrong? You may still draw them out, but prepare for the worst.
+
+<div class="burden">
+
+You cannot draw someone out without making yourself vulnerable to them. After you roll, tell them, **"now I'm open to you, do what you will"**. They'll tell you how they capitalize on the moment.
+</div>
+<br>
+<div class="burden">
+
+The next time someone draws you out they gain `Confidence`, no matter what they roll. Afterward, shift this burden to a different move.
+</div>
+
+---
+### Ask for their word
+
+**When you ask someone to make a solemn promise,** roll. They can give you their word regardless of what you roll. But if they waver: on 2 they'll promise you something else or placate you another way, on 1 they evade you with pitying, mocking, or caring gestures. On a miss, whether or not they agree, prepare for the worst. Perhaps first they'll make you beholden to them.
+
+Anytime you make a promise, write it on a bit of paper so you don't forget. Keep it with you as long as it seems reasonable.
+
+<div class="burden">
+
+On 2, if they won't give you their word, mark a Burden.
+On a miss, if they give you their word, mark a Burden.
+</div>
+
+---
+### Barge in
 
 **When you come barging in on someone's moment,** roll. On any success, you interrupt them, and they can’t do anything more without dealing with you. On 2, choose 2 of the following. On 1, choose 1.  These choices can affect either the character you intruded on or the gawkers and audience they've gathered.
 
 - They give you their undivided attention for more than a moment.
 - You deprive them of something they need right now.
-- You drive them floundering back, or scatter them.
-- You throw them off-balance, or unseat them from power.
+- You drive them floundering back or scatter them.
+- You throw them off-balance or unseat them from power.
 - You lay hold of them.
 - You startle them out of their wits and their courage fails them.
 
-On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you misread your opportunity and gave them, or their audience, the upper hand.
+On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but prepare for the worst. Perhaps you misread your opportunity and gave them, or their audience, the upper hand.
 
 <div class="burden">
 
@@ -49,29 +77,7 @@ Always tell the MC one of the following:
 </div>
 
 ---
-### Get the Lay of The Land
-
-**When you survey your surroundings and get the lay of the land,** roll. On any success, ask the MC questions and they'll answer truthfully. On 2, ask 2. On 1, ask at least 1; you can ask a second question after, if you're willing to let the MC make a move.
-
-- _What’s coming this way or got its eye on me?_
-- _What’s valuable here that we haven't yet found?_
-- _What's wrong with this place?_
-- _What here rouses my personal interest?_
-- _If I trusted my gut to take me a step closer to `X`, where would I go?_
-
-On a miss, ask the MC what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you've made the pocket suspicious of you without knowing.
-
-<div class="burden">
-
-Always tell the MC one of the following:
-
-- _I stand out like a sore thumb and draw attention to myself._
-- _I snoop about like a bad egg and make someone suspicious of my intentions._
-- _I blunder about and break, spill, or scatter something._
-</div>
-
----
-### Quarrel and Fracas
+### Quarrel and fracas
 
 **When you get into a quarrel or fracas** or some other overwhelming and chaotic altercation, answer the next question, figure out who else is caught in the fracas, then roll. 
 

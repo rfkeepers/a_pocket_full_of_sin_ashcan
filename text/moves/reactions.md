@@ -3,7 +3,31 @@
 Reaction moves reward attention and inward consideration with value equal to action and motion. They're designed for light touches: glimpses and nods, scornful looks and weakened knees. Not the kind of thing that dramatically redirects a scene, but nonetheless add an essential touch of the brush to the painting.
 
 ---
-### Put a Spell on Me
+### Take their measure
+
+**When you measure someone up,** even with just a glance, even at a distance, roll. On success, ask their player one of the following questions and they must answer honestly. On 2, ask one more.
+
+- _What do you intend to do, and how far are you prepared to go?_
+- _Where are you open to me? Where are you vulnerable, and where are you guarded?_
+- _What do you hope I’ll do, and what would you do if I don't?_
+- _What do you expect to happen, and how do you feel about it?_
+- _What are you forgetting, ignoring, or keeping hidden (possibly from yourself)?_
+
+On a miss, ask them what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you revealed your attention to them.
+
+<div class="burden">
+
+Always ask one of the following questions:
+
+- _What do you obviously not like about me?_
+- _What am I not going to like about you?_
+- _Why do I need to worry about having a run-in?_
+
+The player who answers may not say, "nothing". If they try then any other player may provide an answer in their stead, and it must be treated as truth.
+</div>
+
+---
+### Put a spell on me
 
 When someone **arrests your interest**, confess how they make you feel and ask. Their player will answer honestly, but your characters may not realize the same.
 <dl>
@@ -27,7 +51,7 @@ Once someone has arrested your interest, you may not act against them in any way
 </div>
 
 ---
-### Catch Their Eye
+### Catch their eye
 
 When you **catch someone’s eye** (your call), roll. On 2, pick 2, one feeling quickens within them while the other smothers entirely. On 1, you pick 1 then they pick 1. On a miss, they pick both. You are a mere catalyst in this instant. Their emotions rouse at the sight of you, but not necessarily towards you.
 
@@ -36,30 +60,6 @@ They feel (or neglect to feel) _aroused_, _wolfish_, _allayed_, _disquieted_, _c
 <div class="burden">
 
 In catching their eye you are likewise caught and must reveal something about yourself to them. They may ask you any one question from _Take Their Measure_.
-</div>
-
----
-### Take Their Measure
-
-**When you measure someone up,** even with just a glance, even at a distance, roll. On success, ask their player one of the following questions and they must answer honestly. On 2, ask one more.
-
-- _What do you intend to do, and how far are you prepared to go?_
-- _Where are you open to me? Where are you vulnerable, and where are you guarded?_
-- _What do you hope I’ll do, and what would you do if I don't?_
-- _What do you expect to happen, and how do you feel about it?_
-- _What are you forgetting, ignoring, or keeping hidden (possibly from yourself)?_
-
-On a miss, ask the MC or the other player what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you revealed your attention to them.
-
-<div class="burden">
-
-Always ask one of the following questions:
-
-- _What do you obviously not like about me?_
-- _What am I not going to like about you?_
-- _Why do I need to worry about having a run-in?_
-
-The player who answers may not say, "nothing". If they try then any other player may provide an answer in their stead, and it must be treated as truth.
 </div>
 
 ---
