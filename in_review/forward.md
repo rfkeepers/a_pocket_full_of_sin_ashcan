@@ -8,3 +8,10 @@
 
 From this point onward you cannot request promises from them.  Likewise, you must accept any promise they request of you.
 </div>
+
+---
+### Alternative to Draw them Out
+
+When you catch someone with honey.
+
+When you challenge or accuse someone.

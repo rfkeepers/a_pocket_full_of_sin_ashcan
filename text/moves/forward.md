@@ -5,7 +5,7 @@ Forward moves are your basic tools for taking action and changing the situation.
 ---
 ### Get the lay of the land
 
-**When you survey your surroundings and get the lay of the land,** roll. On any success, ask the MC questions and they'll answer truthfully. On 2, ask 2. On 1, ask at least 1; you can ask a second question after, if you're willing to let the MC act in response.
+**When you survey your surroundings**, roll. On any success, ask the MC questions and they'll answer truthfully. On 2, ask 2. On 1, ask at least 1; you can ask a second question after, if you're willing to let the MC act in response.
 
 - _What’s coming this way or has its eye on me?_
 - _What’s valuable here that we haven't yet found?_
@@ -79,7 +79,7 @@ Always tell the MC one of the following:
 ---
 ### Quarrel and fracas
 
-**When you get into a quarrel or fracas** or some other overwhelming and chaotic altercation, answer the next question, figure out who else is caught in the fracas, then roll. 
+**When you get into an overwhelming and chaotic altercation**, answer the next question, figure out who else is caught in the fracas, then roll. 
 
 What do you want to accomplish by the time the hubbub dies down? (ex: snatch the queen's necklace, stand proud above them all, disappear without a trace, sneak a kiss and steal his heart). On 2 you do it, and what's more, nothing terrible happens. On 1, either nothing terrible happens or you accomplish your goal, say which. On a miss, prepare for the worst. Ask the MC what happens and where you are now.
 
