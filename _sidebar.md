@@ -3,7 +3,7 @@
 
 - Playing the game
   <!-- - [Player Guide](/text/playing/players.md) -->
-  <!-- - [MC Guide](/text/playing/MC.md) -->
+  - [MC Guide](/text/playing/the_mistress_of_chimeras.md)
   <!-- - [Integrity in the pocket](/text/playing/integrity.md) -->
   - [Safety & Communication](/text/playing/safety.md)
 
