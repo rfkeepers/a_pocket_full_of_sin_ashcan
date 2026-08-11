@@ -27,11 +27,11 @@ Always tell the MC one of the following:
 ---
 ### Draw them out
 
-**When you try to draw someone out,** roll.  On 2 say, "I do draw you out, by doing `X`. What’s the effect?" On 1, ask their player, "what could I do to draw you out?  What would be the effect?".  Whether you do as they suggest is up to you. On a miss, ask them what went wrong? You may still draw them out, but prepare for the worst.
+**When you try to draw someone out,** roll.  On 2 say, _"I do draw you out, by doing `X`. What’s the effect?"_ On 1, ask their player, _"what could I do to draw you out?  What would be the effect?"_.  Whether you do as they suggest is up to you. On a miss, ask them what went wrong? You may still draw them out, but prepare for the worst.
 
 <div class="burden">
 
-You cannot draw someone out without making yourself vulnerable to them. After you roll, tell them, **"now I'm open to you, do what you will"**. They'll tell you how they capitalize on the moment.
+You make yourself vulnerable to them. After you roll, tell them, _"now I'm open to you, do what you will"_. They'll tell you how they capitalize on the moment.
 </div>
 <br>
 <div class="burden">
@@ -42,7 +42,9 @@ The next time someone draws you out they gain `Confidence`, no matter what they 
 ---
 ### Ask for their word
 
-**When you ask someone to make a solemn promise,** roll. They can give you their word regardless of what you roll. But if they waver: on 2 they'll promise you something else or placate you another way, on 1 they evade you with pitying, mocking, or caring gestures. On a miss, whether or not they agree, prepare for the worst. Perhaps first they'll make you beholden to them.
+> (nope, it just isn't right)  needs to be open up to them in some way.
+
+**When you ask someone to make a solemn promise,** first ask if they shilly-shally or falter; if they do, roll. On 2, they tell you honestly what holds them back. On 1 they may try to promise you something different or placate you without promises. On a miss they evade you with pitying, mocking, or caring gestures. Perhaps first they'll make you beholden to them.
 
 Anytime you make a promise, write it on a bit of paper so you don't forget. Keep it with you as long as it seems reasonable.
 

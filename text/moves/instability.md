@@ -13,9 +13,9 @@ You may not set the stage as normal.  Instead, increase instability by `2` and a
 </div>
 
 ---
-### A summons for aid
+### Enter stage right
 
-You can make a figment or person already within the pocket available in the scene, wherever you're at, just say, **"I'm in a spot, here"**, then say who you need help from (or open the offer to anyone).  Increase instability by `1` if it makes sense that they could be there right now.  Increase it by `3` to get them there regardless of the circumstances.
+You can make a figment or person already within the pocket appear in the scene, just say, **"I think someone is missing"**, then say who you want to appear.  Increase instability by `1` if it makes sense that they could be there right now.  Increase it by `3` to bring them there regardless of the circumstances.
 
 <div class="burden">
 
@@ -44,6 +44,8 @@ The pocket gives you nothing for free. Whisper to it a secret, yearning, or tamp
 
 ---
 ### Break a solemn promise
+
+Anytime you make a promise, write it on a bit of paper so you don't forget. Keep it with you as long as it seems reasonable.
 
 When you break a solemn promise- whether or not someone is around to see you do it- say, **"Forgive me, I cannot"**, and tear up the paper on which you've written your promise then increase instability by `5`.
 

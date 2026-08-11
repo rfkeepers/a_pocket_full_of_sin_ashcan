@@ -1,9 +1,9 @@
-# Mistress of Chimeras
+# The Mistress of Chimeras
 <p class="subtext">or Mistrum, Maitre d', Mister, or any other title you'd prefer.</p>
 
 The MC bears the mantle of three offices: **ritualist**, who conducts the rites and ceremonies of the game; **dreamer**, who conjures the form and seeming of the world around the players' characters; and **reveler**, the first to celebrate the actions of the players.
 
-## Your agenda
+## Your agendas
 
 ### 1. Get the players to introspect.
 
@@ -11,15 +11,19 @@ Take the characters into a world whose rationality and irrationality alike drive
 
 Every pocket is about someone else. But this game is ultimately about themselves.
 
-### 2. Give everything weight and substance.
+### 2. Characters are agents of change.
+
+The PCs are never merely voyeurs. They are magnets, attracting and repelling all the figments of the pocket in equal measure. They can take up whatever position they will- active or passive, commanding or demure- the world rearranges around their poles. And yet, always better still to have them drive change through action. Portray the characters as heralds of change. Make the consequences of their appearance perceptible and profound. Make the effects inescapable.
+
+### 3. Give everything weight and substance.
 
 The pocket may be surreal, dreamlike, even ephemeral, but it must never seem meaningless. Because it is impermanent, because every pocket is a world apart from our own, you should hit the characters twice as hard. Cut twice as deep and remind them of the pain on every motion. Kiss them with a fiery passion and an extra dose of poison on the tongue. Offer them companions so true to their needs that every waking moment hereafter is a reminder of the friend they've lost.
 
 Your goal isn't only to pain them, of course. Their joys and deliriums are just as important as their aches. Those, too, should weigh twice as heavy. Let them share in appreciation that no one else understands. Have them imbibe distillation of emotions they've never before experienced. Allow them to touch the things they've been searching for in life, yet never finding, even if for only a moment. All of it matters.
 
-### 3. Show the characters giving rise to change.
+### 4. Place all things in stark relief.
 
-The PCs are never merely voyeurs. They are magnets, attracting and repelling all the figments of the pocket in equal measure. They may take up whatever position they will- active or passive, commanding or demure- the world rearranges around their poles. And yet, always better still to have them drive change through action. Portray the characters as heralds of change. Make the consequences of their appearance perceptible and profound. Make the effects inescapable.
+
 
 ## What you can do
 
@@ -48,14 +52,15 @@ Since they're only for you their format looks a bit different from the other mov
 
 ## What you must do
 
+- Give the players space to ponder and caper.
 - Follow the characters wherever they go.
-- Give the characters good times and bad.
+- Give every character good times and bad.
 - Make the pocket ordinary, intoxicating, and harrowing. 
 - Say what honesty demands.
+- Say what the consequences demand.
 - Say what the rules demand.
 - Say what preparation and play demands.
 - Reveal all your information, even the secrets.
-- Give the players space to ponder and caper.
 
 ## When to act
 

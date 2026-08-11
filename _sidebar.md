@@ -2,9 +2,8 @@
 ---
 
 - Playing the game
-  <!-- - [Player Guide](/text/playing/players.md) -->
-  - [MC Guide](/text/playing/the_mistress_of_chimeras.md)
-  <!-- - [Integrity in the pocket](/text/playing/integrity.md) -->
+  - [The Players](/text/playing/the_players.md)
+  - [The MC](/text/playing/the_mistress_of_chimeras.md)
   - [Safety & Communication](/text/playing/safety.md)
 
 - The Seven Course Meal
