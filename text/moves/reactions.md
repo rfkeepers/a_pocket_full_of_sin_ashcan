@@ -2,6 +2,8 @@
 
 Reaction moves reward attention and inward consideration with value equal to action and motion. They're designed for light touches: glimpses and nods, scornful looks and weakened knees. Not the kind of thing that dramatically redirects a scene, but nonetheless add an essential touch of the brush to the painting.
 
+> Unlike other moves, the MC never rolls their NPCs' reactions. When they want to use one of these moves they take a `complicated success` instead of rolling.
+
 ---
 ### Take their measure
 
@@ -40,14 +42,15 @@ When someone **arrests your interest**, confess how they make you feel and ask. 
   <dt>Desire</dt>
   <dd>Could I possibly make you mine?</dd>
   <dt>Curiosity</dt>
-  <dd>If I let you lead, where would you take me? Don't tell me outright. Only a hint.</dd>
+  <dd>If I let you lead, where would you take me? Don't tell me outright. Merely a hint.</dd>
   <dt>Fear</dt>
   <dd>Can I possibly get away from you?</dd>
 </dl>
-<br>
+
+Once someone has arrested your interest, you may not act against them in any way contrary to those feelings.
 <div class="burden">
 
-Once someone has arrested your interest, you may not act against them in any way contrary to those feelings they inspired in you.
+The next time someone puts a spell on you, you become `Hesitant` in their presence. Afterward, shift this burden to a different move.
 </div>
 
 ---
@@ -55,11 +58,11 @@ Once someone has arrested your interest, you may not act against them in any way
 
 When you **catch someone’s eye** (your call), roll. On 2, pick 2, one feeling quickens within them while the other smothers entirely. On 1, you pick 1 then they pick 1. On a miss, they pick both. You are a mere catalyst in this instant. Their emotions rouse at the sight of you, but not necessarily towards you.
 
-They feel (or neglect to feel) _aroused_, _wolfish_, _allayed_, _disquieted_, _charmed_, or _flustered_.
+They feel (or repress feeling) _aroused_, _wolfish_, _allayed_, _disquieted_, _charmed_, or _flustered_.
 
 <div class="burden">
 
-In catching their eye you are likewise caught and must reveal something about yourself to them. They may ask you any one question from _Take Their Measure_.
+In catching their eye you are likewise caught and must reveal something about yourself to them. They ask you any one question from **Take Their Measure**.
 </div>
 
 ---

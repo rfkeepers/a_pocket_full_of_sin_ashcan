@@ -103,11 +103,19 @@
 }
 
 /* =============================================================== */
-/* selectable */
+/* dl selectable */
 /* =============================================================== */
 
-.selectable-dl dt::before {
+dl.selectable dt::before {
   content: " ";
+}
+
+dl.selectable dd {
+  margin-left: 18px;
+}
+
+dl.selectable dd strong {
+  font-style: normal;
 }
 
 /* =============================================================== */

@@ -21,10 +21,6 @@ The pocket may be surreal, dreamlike, even ephemeral, but it must never seem mea
 
 Your goal isn't only to pain them, of course. Their joys and deliriums are just as important as their aches. Those, too, should weigh twice as heavy. Let them share in appreciation that no one else understands. Have them imbibe distillation of emotions they've never before experienced. Allow them to touch the things they've been searching for in life, yet never finding, even if for only a moment. All of it matters.
 
-### 4. Place all things in stark relief.
-
-
-
 ## What you can do
 
 MCs have their own moves. These are for you and you alone: not the players, and not your NPCs. Whenever you take part in the conversation you should probably use one of your moves.

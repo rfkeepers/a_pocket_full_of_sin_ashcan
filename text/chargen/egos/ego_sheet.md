@@ -12,14 +12,22 @@
   <dt>Costume</dt>
   <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, ethnic traditional (mexican, native american, oriental, etc)</dd>
   <dt>Moves with</dt>
-  <dd>certainty, care, dignity, jitters, grace, fervor, ill portent, ease, agitation, languor</dd>
+  <dd>certainty, care, dignity, jitters, grace, fervor, ill portent, understanding, ease, agitation, languor</dd>
   <dt>Detail</dt>
   <dd>tbd for each ego</dd>
 </dl>
 <br>
+<h2>Anchors</h2>
+<ul class="anchor-list">
+  <li class="anchor-li">Anchor 1</li>
+  <li class="anchor-li">Anchor 2</li>
+  <li class="anchor-li">Anchor 3</li>
+  <li class="anchor-li">Anchor 4</li>
+  <li class="anchor-li">Anchor 5</li>
+</ul>
 <h2>Burdens</h2>
 <br>
-<dl class="selectable-dl">
+<dl class="selectable">
   <dt>Haunt/Psyche</dt>
   <dd>TBD for each</dd>
   <dt>Shade/Heart</dt>
@@ -37,14 +45,6 @@
 
 **When you would mark a sixth burden,** your burdens overwhelm you.
 
-<h2>Anchors</h2>
-<ul class="anchor-list">
-  <li class="anchor-li">Anchor 1</li>
-  <li class="anchor-li">Anchor 2</li>
-  <li class="anchor-li">Anchor 3</li>
-  <li class="anchor-li">Anchor 4</li>
-  <li class="anchor-li">Anchor 5</li>
-</ul>
 <h2>Moves</h2>
 <p class="subtext">Pick 1 to start.</p>
 

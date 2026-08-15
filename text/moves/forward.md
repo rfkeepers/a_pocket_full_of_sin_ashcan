@@ -40,21 +40,6 @@ The next time someone draws you out they gain `Confidence`, no matter what they 
 </div>
 
 ---
-### Ask for their word
-
-> (nope, it just isn't right)  needs to be open up to them in some way.
-
-**When you ask someone to make a solemn promise,** first ask if they shilly-shally or falter; if they do, roll. On 2, they tell you honestly what holds them back. On 1 they may try to promise you something different or placate you without promises. On a miss they evade you with pitying, mocking, or caring gestures. Perhaps first they'll make you beholden to them.
-
-Anytime you make a promise, write it on a bit of paper so you don't forget. Keep it with you as long as it seems reasonable.
-
-<div class="burden">
-
-On 2, if they won't give you their word, mark a Burden.
-On a miss, if they give you their word, mark a Burden.
-</div>
-
----
 ### Barge in
 
 **When you come barging in on someone's moment,** roll. On any success, you interrupt them, and they can’t do anything more without dealing with you. On 2, choose 2 of the following. On 1, choose 1.  These choices can affect either the character you intruded on or the gawkers and audience they've gathered.
@@ -90,6 +75,11 @@ Anytime an altercation begins, all characters in the scene get drawn into it. Be
 <div class="burden">
 
 Whenever you get into an altercation, whether or not you caused it, increase instability by `3`.
+</div>
+<br>
+<div class="burden">
+
+The next time someone drags you into an altercation, you both roll with `Confidence`. Afterward, you take `Adrift` and shift this burden to a different move.
 </div>
 
 ---

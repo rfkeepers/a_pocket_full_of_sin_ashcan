@@ -164,10 +164,13 @@ dt::after {
 }
 
 dd {
-  font-style: oblique;
   margin-left: 8px;
-  color: var(--text-dim-color);
   padding-bottom: 8px;
+}
+
+dd:not([class]) {
+  font-style: oblique;
+  color: var(--text-dim-color);
 }
 
 dd:last-child {

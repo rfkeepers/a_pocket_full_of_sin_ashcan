@@ -32,8 +32,8 @@
 - Character Creation
   - [Player characters](/text/chargen/basics.md)
   <!-- - [Creating a Character](/text/playbooks/creating-a-character.md) -->
-  - [Selves](/text/chargen/self_sheet.md)
-  - [Egos](/text/chargen/ego_sheet.md)
+  - [Selves](/text/chargen/selves/self_sheet.md)
+  - [Egos](/text/chargen/egos/ego_sheet.md)
 
 <!-- - The Setting -->
 <!--   - America -->

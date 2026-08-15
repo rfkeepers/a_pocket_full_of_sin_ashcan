@@ -40,6 +40,7 @@ Since voting works differently than rolling, use the following as a guide to res
   <dt>Absence</dt>
   <dd>No votes were cast in your favor. Treat this the same as a minority unless the power says otherwise.</dd>
 </dl>
+<br>
 
 ### Can the MC vote?
 
