@@ -4,7 +4,7 @@
   <div class="fillable"><b>Char Pronouns</b>:</div>
 </div>
 <br>
-<h2>Appearance</h2>
+<h2>Seemings</h2>
 <br>
 <dl>
   <dt>Presentation</dt>
@@ -21,7 +21,7 @@
 <ul class="anchor-list">
   <li class="anchor-li">Anchor 1</li>
   <li class="anchor-li">Anchor 2</li>
-  <li class="anchor-li">Skip the mediation, get to solving.</li>
+  <li class="anchor-li">Skip mediation, get to solving.</li>
   <li class="anchor-li">Go back to your old ways.</li>
   <li class="anchor-li">Brook no insult.</li>
 </ul>
@@ -49,7 +49,7 @@ When you would **Quarrel or Fracas**, don't roll. In fact, if you're the one sta
 
 ### Overburdened
 
-**When you would mark a sixth burden,** your burdens overwhelm you.
+**When you would mark a sixth burden,** don't. Your burdens overwhelm you.
 
 <h2>Moves</h2>
 <p class="subtext">Pick 1 to start.</p>

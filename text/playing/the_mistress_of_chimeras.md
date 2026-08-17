@@ -30,16 +30,16 @@ Since they're only for you their format looks a bit different from the other mov
 <dl>
   <dt>Ask a question</dt>
   <dd>Ask the player about themselves, about their character, the situation, the story, or anything else.</dd>
+  <dt>Indulge in new details</dt>
+  <dd>Describe who and what are around the characters. Return to a thing mentioned earlier and examine it more closely. Go somewhere that the PCs are not and say what's happening there.</dd>
   <dt>Turn their move back on them</dt>
   <dd>Whatever the player's goal, show how their move had a different (perhaps the opposite) outcome.</dd>
   <dt>Employ the rules</dt>
-  <dd>Give them a Burden, or clear one. Make them Confident, Hesitant, Grounded, or Adrift. Increase or decrease Instability.</dd>
+  <dd>Give them a Burden, or clear one. Make them Confident, Hesitant, Grounded, or Adrift. Increase or decrease Instability. Change one of their Seemings.</dd>
   <dt>Show the pocket change</dt>
   <dd>Introduce or remove someone or something from the scene. Distort the setting, the figments within it, or the characters' perception of either.</dd>
   <dt>Train the spotlight on someone</dt>
   <dd>Say who, clarify what's going on around them, and ask what they do. Making sure everyone gets to play is one of your obligations. Under Hollow Hills says, "it’s okay to let the same player make two plays in a row, but if they’re about to make a third, turn to someone else". It's a good rule here, too.</dd>
-  <dt>Indulge in new details</dt>
-  <dd>Describe who and what are around the characters. Return to a thing mentioned earlier and examine it more closely. Go somewhere that the PCs are not and say what's happening there.</dd>
   <dt>Foreshadow or manifest consequences</dt>
   <dd>Set events into motion, put a weight on the precipice of tumbling down, or dangle a sword from a thread. Always tell the players what you've done and what it portends, but avoid saying when. Anything you've foreshadowed can be called back into play as a future move, so long as the players have not resolved it already.</dd>
   <dt>Defer to the player(s)</dt>

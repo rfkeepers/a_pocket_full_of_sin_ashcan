@@ -36,7 +36,7 @@ You make yourself vulnerable to them. After you roll, tell them, _"now I'm open 
 <br>
 <div class="burden">
 
-The next time someone draws you out they gain `Confidence`, no matter what they roll. Afterward, shift this burden to a different move.
+The next time someone draws you out they gain `Confidence` on their next move, no matter what they roll. Afterward, shift this burden to a different move.
 </div>
 
 ---
