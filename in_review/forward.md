@@ -47,4 +47,5 @@ On 2, if they won't give you their word, mark a Burden.
 On a miss, if they give you their word, mark a Burden.
 </div>
 
-
+---
+### Make them an offer

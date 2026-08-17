@@ -40,6 +40,18 @@ The next time someone draws you out they gain `Confidence`, no matter what they 
 </div>
 
 ---
+### Lay bare your heart
+
+**When you make yourself open and vulnerable to another,** say what part of you is unguarded, tell them what you want from them, then roll. On 2, they give you what you need or spare your feelings. On 1 they offer you something different, take advantage of your vulnerability, or make you beholden to them. On a miss they hurt you with pitying, mocking, or caring gestures.
+
+<div class="burden">
+
+When you lay yourself bare to someone, pick one:
+- You can no longer ask them to make a solemn promise.
+- You cannot refuse if they ask you to make a solemn promise.
+</div>
+
+---
 ### Barge in
 
 **When you come barging in on someone's moment,** roll. On any success, you interrupt them, and they can’t do anything more without dealing with you. On 2, choose 2 of the following. On 1, choose 1.  These choices can affect either the character you intruded on or the gawkers and audience they've gathered.
