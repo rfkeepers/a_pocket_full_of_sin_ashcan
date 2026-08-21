@@ -18,7 +18,7 @@
   <dt>Hiding a sin like</dt>
   <dd>tbd for each self</dd>
 </dl>
-<br>
+
 <h2>Anchors</h2>
 <ul class="anchor-list">
   <li class="anchor-li">Anchor 1</li>
@@ -61,7 +61,7 @@
 
   ###### Selfhood
 
-  Choose another Anchor.  Mark one anchor as `Confident`, and the other as `Hesitant`.
+  Enable a second anchor. Mark `Confident` on one of your anchors. Whenever you hit that anchor the confidence effect moves to the next one you pick. Alternatively, you can switch which anchor gives you confidence without changing anchors.
   </div>
   </div>
   <br>
@@ -72,11 +72,9 @@
 
   Your situation gets complicated. Who or what in your life is affected?
 
-  Pick the move below, or the other one you passed on.
-
   ###### Growth
 
-  \< a new move goes here \>
+  Write two new anchors into your options: one from another self, and one from another ego.
   </div>
   </div>
   <br>
@@ -85,13 +83,11 @@
 
   ##### ⓷ The Danger
 
-  The problem begins to affect your life in real ways. It follows you into
-  the pocket, where you thought you were safe.
+  The problem begins to affect your life in real ways. It follows you into the pocket, where you thought you were safe.
 
   ###### Realization
 
-  Add two anchors from some other playbook into your options (one self, and one ego).  
-  Choose a third anchor.
+  Enable a third anchor. Mark `Hesitant` on one of your anchors. If you don't want to change anchors, you must move both your Confident and Hesitant marks.
   </div>
   </div>
   <br>
@@ -104,8 +100,7 @@
 
   ###### Fulfillment
 
-  \< an optional epithet goes here \>  
-  \< an optional epithet goes here \>
+  Write two new anchors into your options: one from another self, and one from another ego.
   </div>
   </div>
   <br>
@@ -118,7 +113,7 @@
 
   ###### Strength
 
-  Pick a move available to any other playbook (self or ego), or one of yours that you previously passed up.
+  ????
   </div>
   </div>
   <br>
@@ -133,8 +128,8 @@
 
   Pick one:
   - Persist. Continue playing this character, just as they are.
-  - Change. Select a new Self and set your iniquity to 0.
-  - Retire. Hand your sheet to the MC and begin another one.
+  - Change. Select a new Self and start over with that iniquity track.
+  - Retire. Hand your sheet to the MC and pick up another one.
 
   </div>
   </div>

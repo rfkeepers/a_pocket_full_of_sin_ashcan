@@ -13,7 +13,7 @@ You may not set the stage as normal.  Instead, increase instability by `2` and a
 </div>
 
 ---
-### Enter stage right
+### Summon
 
 You can make a figment or person already within the pocket appear in the scene, just say, **"I think someone is missing"**, then say who you want to appear.  Increase instability by `1` if it makes sense that they could be there right now.  Increase it by `3` to bring them there regardless of the circumstances.
 

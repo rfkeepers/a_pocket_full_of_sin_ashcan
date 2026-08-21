@@ -1,10 +1,12 @@
-<h1>Your Ego</h1>
+# Your Ego
+
 <div class="fullwidth">
   <div class="fillable"><b>Char Name</b>:</div>
   <div class="fillable"><b>Char Pronouns</b>:</div>
 </div>
 <br>
-<h2>Seemings</h2>
+
+## Seemings
 <br>
 <dl>
   <dt>Presentation</dt>
@@ -17,7 +19,9 @@
   <dd>tbd for each ego</dd>
 </dl>
 <br>
-<h2>Anchors</h2>
+
+## Anchors
+
 <ul class="anchor-list">
   <li class="anchor-li">Anchor 1</li>
   <li class="anchor-li">Anchor 2</li>
@@ -25,7 +29,19 @@
   <li class="anchor-li">Anchor 4</li>
   <li class="anchor-li">Anchor 5</li>
 </ul>
-<h2>Burdens</h2>
+
+## Moves
+<p class="subtext">Pick 1 to start.</p>
+
+####  Compose a template
+
+**When you create a character sheet template,** roll.  On 2, the sheet is complete and ready for you to start working on individual playbooks. On 1, you could move ahead, but you'll spend a lot of time fixing up all the little things when you inevitably change your mind.  On a miss, there's still so much to be done.
+
+####  Think up a playbook
+
+**When you conjure up a playbook,** roll.  On 2, you come up with something that both matches the theme and has interesting mechanics. On 1, it either matches the theme or has interesting mechanics, pick one.  On a miss, it's not working out.  Scrap it and start over again.
+
+## Burdens
 <br>
 <dl class="selectable">
   <dt>Haunt/Psyche</dt>
@@ -44,16 +60,5 @@
 ### Overburdened
 
 **When you would mark a sixth burden,** don't. Your burdens overwhelm you.
-
-<h2>Moves</h2>
-<p class="subtext">Pick 1 to start.</p>
-
-####  Compose a template
-
-**When you create a character sheet template,** roll.  On 2, the sheet is complete and ready for you to start working on individual playbooks. On 1, you could move ahead, but you'll spend a lot of time fixing up all the little things when you inevitably change your mind.  On a miss, there's still so much to be done.
-
-####  Think up a playbook
-
-**When you conjure up a playbook,** roll.  On 2, you come up with something that both matches the theme and has interesting mechanics. On 1, it either matches the theme or has interesting mechanics, pick one.  On a miss, it's not working out.  Scrap it and start over again.
 
 ---
