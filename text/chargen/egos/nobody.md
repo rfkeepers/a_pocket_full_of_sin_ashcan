@@ -41,16 +41,22 @@ When you **linger behind and let everyone else walk off** while they assume you'
 - _I poke around to see what there is to find, what's here?_
 - <i>Someone else finds me, it's</i> <span class="blank"></span>.
 - <i>They left</i> <span class="blank"></span> <i>behind, right out in the open. How foolish.</i>
-- _I have a moment to relax and, am `Grounded`_.
+- _I have a moment to relax, and am `Grounded`_.
 
 #### These walls hear all your whispered secrets
 
-When you stay still and unnoticed and **observe everything around you**, roll. On 2, pick two. On 1, pick one. On a miss, the MC picks one for you, something terribly important. But you won't be able to do anything about it. You've slipped into and behind the scenery and become a part of the backdrop itself; no effort of yours, no matter how emphatic, can lead you into the foreground. Remain trapped in that space until another character finds you and **Draws You Out**.
+When you stay still and unnoticed and **observe everything around you**, roll. On 2, pick two. On 1, pick one.
+
+On a miss, the MC picks one for you, something terribly important. But you won't be able to do anything about it. You've slipped into and behind the scenery and become a part of the backdrop itself; no matter how emphatic, no effort of yours can lead you into the foreground again. Remain trapped in that space until another character finds you and **Draws You Out**.
 
 - _I overhear something interesting; who is talking, what do they say?_
-- _I see entirely through someone: their secret heart and nature. Who?_
+- _I see entirely through someone: learning their secret heart and nature. Who?_
 - <i>I know exactly what</i> <span class="blank"></span> <i>needs to do now.</i>
 - _I witness something important happen; what? And what does it portend?_
+
+#### Give them an inch
+
+When you **drop your defenses**, someone or something takes notice and moves in on you; roll. On a hit, you get to say who or what you've drawn in. On 2, you're aware and ready to meet them when they appear. On a miss, tell the MC what you hoped would happen then prepare for the worst.
 
 ## Burdens
 <br>
@@ -74,13 +80,6 @@ When you stay still and unnoticed and **observe everything around you**, roll. O
 
 Erase three burdens immediately.
 
-You become an apparition until you leave this pocket- as visible and corporeal as the silver morning mist. During this time you will be perceived by all as a ghost or phantasm. You may turn invisible at whim and can pass through any solid object. In fact, under normal circumstances you cannot touch anything at all. Anytime you wish to physically interact with the world, first increase instability by `2`.
+You become an apparition until you leave this pocket- as visible and corporeal as the silver morning mist. Everyone perceives you as a ghost or phantasm. You may turn invisible at whim and can pass through any solid object. In fact, under normal circumstances you cannot touch anything at all. Anytime you wish to physically interact with the world, first increase instability by `2`.
 
-## Truths
-<p class="subtext">A writing exercise.</p>
-
-- So long as there's a crowd, corner, or setpiece to hide behind, you can disappear in the blink of an eye. If someone important is watching, they get a string on you.
-- You leave no impression on the mind. No matter what you do, or how forcefully you do it, when you leave their sight their brain has likewise emptied of your memory.
-- You're a gimmick, but you can affect things in ways that those in the spotlight cannot.
-- So long as there's a crowd, corner, or setpiece to hide behind you can disappear in the blink of an eye.
 ---
