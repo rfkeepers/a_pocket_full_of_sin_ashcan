@@ -5,7 +5,7 @@ Forward moves are your basic tools for taking action and changing the situation.
 ---
 ### Get the lay of the land
 
-**When you survey your surroundings**, roll. On any success, ask the MC questions and they'll answer truthfully. On 2, ask 2. On 1, ask at least 1; you can ask a second question after, if you're willing to let the MC act in response.
+When you **survey your surroundings**, roll. On any success, ask the MC questions and they'll answer truthfully. On 2, ask 2. On 1, ask at least 1; you can ask a second question after, if you're willing to let the MC act in response.
 
 - _What’s coming this way or has its eye on me?_
 - _What’s valuable here that we haven't yet found?_
@@ -27,7 +27,7 @@ Always tell the MC one of the following:
 ---
 ### Draw them out
 
-**When you try to draw someone out,** roll.  On 2 say, _"I do draw you out, by doing `X`. What’s the effect?"_ On 1, ask their player, _"what could I do to draw you out?  What would be the effect?"_.  Whether you do as they suggest is up to you. On a miss, ask them what went wrong? You may still draw them out, but prepare for the worst.
+When you **try to draw someone out,** roll.  On 2 say, _"I do draw you out, by doing `X`. What’s the effect?"_ On 1, ask their player, _"what could I do to draw you out?  What would be the effect?"_.  Whether you do as they suggest is up to you. On a miss, ask them what went wrong? You may still draw them out, but prepare for the worst.
 
 <div class="burden">
 
@@ -42,7 +42,7 @@ The next time someone draws you out they gain `Confidence` on their next move, n
 ---
 ### Lay bare your heart
 
-**When you make yourself open and vulnerable to another,** say what part of you is unguarded, tell them what you want from them, then roll. On 2, they give you what you need or spare your feelings. On 1 they offer you something different, take advantage of your vulnerability, or make you beholden to them. On a miss they hurt you with pitying, mocking, or caring gestures.
+When you **make yourself open and vulnerable to another,** say what part of you is unguarded, tell them what you want from them, then roll. On 2, they give you what you need or spare your feelings. On 1 they offer you something different, take advantage of your vulnerability, or make you beholden to them. On a miss they hurt you with pitying, mocking, or caring gestures.
 
 <div class="burden">
 
@@ -54,7 +54,7 @@ When you lay yourself bare to someone, pick one:
 ---
 ### Barge in
 
-**When you come barging in on someone's moment,** roll. On any success, you interrupt them, and they can’t do anything more without dealing with you. On 2, choose 2 of the following. On 1, choose 1.  These choices can affect either the character you intruded on or the gawkers and audience they've gathered.
+When you **come barging in on someone's moment,** roll. On any success, you interrupt them, and they can’t do anything more without dealing with you. On 2, choose 2 of the following. On 1, choose 1.  These choices can affect either the character you intruded on or the gawkers and audience they've gathered.
 
 - They give you their undivided attention for more than a moment.
 - You deprive them of something they need right now.
@@ -78,7 +78,7 @@ Always tell the MC one of the following:
 ---
 ### Quarrel and fracas
 
-**When you get into an overwhelming and chaotic altercation**, answer the next question, figure out who else is caught in the fracas, then roll. 
+When you **get into an overwhelming and chaotic altercation**, answer the next question, figure out who else is caught in the fracas, then roll. 
 
 What do you want to accomplish by the time the hubbub dies down? (ex: snatch the queen's necklace, stand proud above them all, disappear without a trace, sneak a kiss and steal his heart). On 2 you do it, and what's more, nothing terrible happens. On 1, either nothing terrible happens or you accomplish your goal, say which. On a miss, prepare for the worst. Ask the MC what happens and where you are now.
 

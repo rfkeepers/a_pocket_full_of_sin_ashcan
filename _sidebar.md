@@ -6,6 +6,12 @@
   - [The MC](/text/playing/the_mistress_of_chimeras.md)
   - [Safety & Communication](/text/playing/safety.md)
 
+- Character Creation
+  - [Player characters](/text/chargen/basics.md)
+  <!-- - [Creating a Character](/text/playbooks/creating-a-character.md) -->
+  - [Selves](/text/chargen/selves/self_sheet.md)
+  - [Egos](/text/chargen/egos/ego_sheet.md)
+
 - The Seven Course Meal
   - [About](/text/seven_course_meal/about.md)
   - [Amuse-bouche](/text/seven_course_meal/amuse_bouche.md)
@@ -15,7 +21,6 @@
   - [Aperitif](/text/seven_course_meal/aperitif.md)
   - [Main course](/text/seven_course_meal/main_course.md)
   - [Dessert](/text/seven_course_meal/dessert.md)
-
 
 - Moves
   - [About](/text/moves/about.md)
@@ -29,11 +34,11 @@
   - [Burdens](/text/mechanics/burdens.md)
   - [Rolling](/text/mechanics/rolling.md)
 
-- Character Creation
-  - [Player characters](/text/chargen/basics.md)
-  <!-- - [Creating a Character](/text/playbooks/creating-a-character.md) -->
-  - [Selves](/text/chargen/selves/self_sheet.md)
-  - [Egos](/text/chargen/egos/ego_sheet.md)
+- The Setting
+  - [America, 1900](/text/setting/america.md)
+  - [Psychic Pockets](/text/setting/pockets.md)
+  - [Characters](/text/setting/characters.md)
+  - [Afflictions](/text/setting/afflictions.md)
 
 <!-- - The Setting -->
 <!--   - America -->

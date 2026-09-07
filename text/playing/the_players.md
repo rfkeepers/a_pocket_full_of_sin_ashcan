@@ -25,7 +25,7 @@ Your sojourn to each pocket is precarious, precious, and brief. You have no time
 
 There are no locks for which you must first find a key. No necessary clues to discover and no elaborate plans to detail and execute. Not that you cannot- or should not- rummage for the secrets, crowbar the locks, or trace a cascade of events. Those, too, are ways to apply yourself. But they are not prerequisite. When all is said and done your options are only and ever: what are you changing, how are you changing it?
 
-So set things in motion. Burn places down. Build them up. Leave permanent fixtures and stitches in your wake.
+So set things in motion. Burn buildings down. Build mountains up. Leave permanent fixtures and stitches in your wake.
 
 ### 3. Seek new experience
 
@@ -34,6 +34,4 @@ This is an occasion for you to encounter strange and rarefied experiences. Yes, 
 Fall in love. Make attachments. Get in fights. Be cruel, or gentle, or accepting of another's inclination to do same to you. Give yourself a chance to open up. Someone may open themselves to you; give yourself the opportunity to listen. What then? Tribulation and baptism and merriment and more and more and more.
 
 Talk this over with your fellow players. Tell them what you'd like to try. Ask about their own lack and wants. Turn your pursuits to those highlights.
-
-## Your authorial agendas
 

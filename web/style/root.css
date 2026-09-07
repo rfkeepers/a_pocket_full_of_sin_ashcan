@@ -40,7 +40,7 @@
     --heading-h4-font-size              : var(--font-size-l);
     --heading-h4-font-weight            : ;
     --heading-h4-margin                 : ;
-    --heading-h4-padding                : ;
+    --heading-h4-padding                : 4px 0 0 0;
 
     --heading-h5-color                  : var(--sub-header-color);
     --heading-h5-font-family            : ;

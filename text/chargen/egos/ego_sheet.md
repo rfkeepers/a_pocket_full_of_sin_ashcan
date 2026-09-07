@@ -1,8 +1,8 @@
 # Your Ego
 
 <div class="fullwidth">
-  <div class="fillable"><b>Char Name</b>:</div>
-  <div class="fillable"><b>Char Pronouns</b>:</div>
+  <div class="fillable"><b>Name</b>:</div>
+  <div class="fillable"><b>Pronouns</b>:</div>
 </div>
 <br>
 
