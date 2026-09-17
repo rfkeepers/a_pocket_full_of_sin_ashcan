@@ -1,7 +1,7 @@
 :root {
     --base-font-family: "Lilex Nerd Font", monospace;
     --base-font-size: 14px;
-    --base-line-height: 1.4;
+    --base-line-height: 1.05;
 
     --base-background-color: var(--bg-color);
     --base-color           : var(--text-color);
@@ -153,6 +153,10 @@
 
 article:not(.sidebar-nav) ul li::marker {
   content: "󰫣 ";
+}
+
+article:not(.sidebar-nav) ul li:not(:last-child) {
+  padding-bottom: 6px;
 }
 
 dt {

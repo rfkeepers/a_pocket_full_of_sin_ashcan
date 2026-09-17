@@ -1,4 +1,4 @@
-# Your Ego
+# I think of myself as an Ego
 
 <div class="fullwidth">
   <div class="fillable"><b>Name</b>:</div>

@@ -1,4 +1,4 @@
-# A Monster
+# I think of myself as a Monster
 
 <div class="fullwidth">
   <div class="fillable"><b>Name</b>:</div>
@@ -31,7 +31,6 @@
 </ul>
 
 ## Moves
-<p class="subtext">Pick 1 to start.</p>
 
 #### Bear your trespasses with shame and humility
 
@@ -41,7 +40,7 @@
 
 ####  Takes one to know their opposite
  
-When you **see the good in someone**, pause first and decide, along with their player, what goodness you see in them. Do something to remind them about that part of themselves, and roll. On 2, they clear a Burden. On 1, you help them feel `Confident`. On a miss they must either turn and hide or do something to prove how wrong you are about them.
+When you **see the good in someone**, pause first and decide, along with their player, what that goodness is that you see in them. Do something to remind them about that part of themselves, then roll. On 2, they clear a Burden. On 1, you help them become `Grounded`. On a miss they either turn and hide, or prove to you how wrong you are about them.
 
 ####  Kindness never scars the heart
 
@@ -49,13 +48,13 @@ When you **allow someone to take their feelings out on you**, roll. On any hit _
 - They forget themselves and let down their guard. Do you lose yourself and retaliate, or do you comfort them?
 - They exhaust themselves of some emotion. They'll tell you which one.
 - An affliction reveals itself. Dare you risk the opportunity and seize the horrid thing?
-- You **draw them out**, they'll tell you the effect.
+- You **draw them out**, they'll tell you the effect. Ask them for a promise, and they must agree to it.
 
 On 1, they may also elect for one of these. On a miss they only pick one from below, and though you believed you could entertain them this one favor, they strike at an aching nerve within you. You must lash out in response- at them, someone else, or yourself.
 - They hurt you viciously. Mark a Burden.
 - They leave you alone in your misery afterward, and you cannot follow where they go.
 - Their violence reveals a perverse love. Does your enjoyment make you feel aroused, delirious, forgiven, or ashamed?
-- They **draw you out**, tell them the effect.
+- They **draw you out**, tell them the effect. They can ask you for a promise, and you must agree to it.
 
 ####  My hands still know this damned work
 
@@ -64,25 +63,17 @@ When you would **Quarrel or Fracas**, don't roll, just take 2. In fact, if you'r
 ####  Eat the flesh, drink the blood
 
 When you **get a taste of someone's body**, roll. On any hit, pick one. On 2, pick another, but only the first part of it.
-- It imparts strength and sustenance, feeling `Confident`; they look at you with fear now, as one might look at a prowling beast.
-- You learn something secret about them, even if they wouldn't know it themselves; mark a Burden.
-- You transmit something to them: urges, memories, afflictions, or something else; likewise, they transmit something to you, ask them what.
-- You leave a mark on their body, what is it, and how messy? They bear that mark shamefully, which makes you `Hesitant`.
+- It imparts strength and sustenance, and you're `Grounded`; _they look at you with fear now, like how one looks at a prowling wolf._
+- You learn something secret about them, even if they wouldn't know it themselves; _mark a Burden._
+- You transmit something to them: urges, memories, afflictions, promises, or something else; _likewise, they transmit something to you, ask them what._
+- You leave a mark on their body, what is it, and how messy? _They bear that mark shamefully, and you're `Adrift`._
 
 ####  Caged in these bones sleeps an old demon
 
-You may peel back the guise of a human body and reveal the horrid thing beneath your skin. Just say, **"you must suffer me to go my own dark way"**. Increase instability by `1` to change some small part of you: a hand, your face, your voice and breath, etc. Increase it by `3` to transform your entire being. The change will last but a moment, and is visible to everyone. Increase instability additionally by `1` to maintain this change for a time.
-
 Add _Terrified_ to your options when you **catch someone's eye**.
 
-### Overburdened: Bloodlust
+You may peel back the guise of a human body and reveal the creature beneath. Just say, **"you must suffer me to go my own dark way"**. Increase instability by `4` to change some small part of you: a hand, your face, your voice and breath, etc. Increase it by `7` to transform your entire being. The change is brief, but is visible to everyone. Increase instability by an additional `5` to maintain the transformation for a longer time.
 
-**When you would mark a sixth burden,** don't. Your burdens overwhelm you.
-
-> redo
-
-Think of the last person who harmed you. You must kill them. If you don't, by the end of the pocket, this need becomes an affliction.
+Reduce these costs by `1` for each marked Burden (minimum 0).
 
 ---
-
-I'm a gun. I get pointed at something and used to kill. I do not get to decide on my actions.

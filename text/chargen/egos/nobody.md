@@ -1,4 +1,4 @@
-# Nobody
+# I think of myself as a Nobody
 
 <div class="fullwidth">
   <div class="fillable"><b>Name</b>:</div>
@@ -64,7 +64,7 @@ When you **drop your defenses**, someone or something takes notice and moves in 
 <dl class="selectable">
   <dt>Tears</dt>
   <dd>
-  If they peer into your eyes, they see: vacancy, an endless ocean, hollow nothing, mist, silver, opaline orbs.
+  Anyone who peers into your eyes sees: vacancy, an endless ocean, hollow nothing, mist, silver, opaline orbs.
 
   You cannot <strong>Catch Their Eye</strong>. Nor can anyone Catch Your Eye unless permitted.
   </dd>
