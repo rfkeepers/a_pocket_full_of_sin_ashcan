@@ -155,6 +155,14 @@ article:not(.sidebar-nav) ul li::marker {
   content: "󰫣 ";
 }
 
+.sidebar-nav ul li p {
+  padding-bottom: 6px;
+}
+
+.sidebar-nav ul li ul li:not(:last-child) {
+  padding-bottom: 6px;
+}
+
 article:not(.sidebar-nav) ul li:not(:last-child) {
   padding-bottom: 6px;
 }

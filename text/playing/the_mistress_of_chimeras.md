@@ -11,7 +11,7 @@ Take the characters into a world whose rationality and irrationality alike drive
 
 Every pocket is about someone else. But this game is ultimately about themselves.
 
-### 2. Characters are agents of change.
+### 2. Ensure players are agents of change.
 
 The PCs are never merely voyeurs. They are magnets, attracting and repelling all the figments of the pocket in equal measure. They can take up whatever position they will- active or passive, commanding or demure- the world rearranges around their poles. And yet, always better still to have them drive change through action. Portray the characters as heralds of change. Make the consequences of their appearance perceptible and profound. Make the effects inescapable.
 
@@ -64,9 +64,9 @@ Take part in the conversation when:
 
 <dl>
   <dt>It's your turn</dt>
-  <dd>When another player does something, and they aren't triggering a move, and one of your NPCs (or some other part of the world) can react to it, make a move in turn (one of your own, or an NPC or World move).</dd>
+  <dd>When a player does something, they aren't triggering a move, and one of your NPCs (or some other part of the world) can react to it. Make a move in turn (one of your own, or an NPC or World move).</dd>
   <dt>The text says you must</dt>
-  <dd>Anytime a move or other rule says to turn to the MC, follow along and do what the text says. Sometimes this happens without calling you out by name, like when a move tells a player to "prepare for the worst". If it's not obvious who decides what the worst is, then it's you.</dd>
+  <dd>Anytime the game says to "turn to the MC"", follow along and do what the text says. Sometimes this happens without calling you out by name, like when a move tells a player to "prepare for the worst". If it's not obvious who decides what the worst is, then it's you.</dd>
   <dt>No one seems to know what to do, or what happens next</dt>
   <dd>If the conversation lulls or everyone at the table looks to you for guidance, first ensure the situation, stakes, and character positions are clear to everyone. Follow by making one of your moves, put the spotlight on someone, then ask "what do you do?"</dd>
   <dt>You need to direct the spotlight</dt>
