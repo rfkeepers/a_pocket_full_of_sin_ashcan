@@ -30,9 +30,9 @@
   - [Powers](/text/moves/psychic_powers.md)
 
 - Rules
-  - [Instability](/text/mechanics/instability.md)
-  - [Burdens](/text/mechanics/burdens.md)
-  - [Rolling](/text/mechanics/rolling.md)
+  - [Instability](/text/playing/instability.md)
+  - [Burdens](/text/playing/burdens.md)
+  - [Rolling](/text/playing/rolling.md)
 
 - The Setting
   - [America, 1900](/text/setting/america.md)

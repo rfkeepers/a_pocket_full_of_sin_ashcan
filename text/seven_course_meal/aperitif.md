@@ -30,7 +30,7 @@ Once, anytime in this pocket, you may gain <code>Grounded</code> on your next ro
 
   Hold `1d4` on your person. You may roll it at any time in this pocket- even interrupting another move- to reduce Instability by the result.</dd>
   <dt>Tonic wine</dt>
-  <dd>Caught in a sudden spring breeze you fly buoyant on the honeyed sunlight. You are a pirouette of petals, a gyration of pollens, and the air which suspends them aloft in fluttering collective mass. So softly, you appear in pocket like a whisper amongst the graces of butterflies.
+  <dd>Caught in a sudden spring breeze you fly buoyant on the honeyed sunlight. You are a pirouette of petals, a gyration of pollens, and the air itself suspending them aloft in fluttering collective mass. So softly, you appear in pocket like a whisper amongst the graces of butterflies.
 
   Once, anytime in this pocket, someone may **Summon Your Aid** without increasing Instability, no matter the circumstances.</dd>
   <dt>Oaked mead</dt>

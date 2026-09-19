@@ -18,7 +18,7 @@ Controlling the character means you're in charge of everything they say and do a
 
 ## Non-Player Characters (NPCs)
 
-Any character who isn't a PC must be an NPC.  Most of the time the MC controls all of these characters. However, "non-player" doesn't mean the players never control one. Certain parts of the game (like [downtime](/text/mechanics/downtime.md)) are great opportunities for players to pick up an NPC for a spell. Whomever steps in takes full control of that character until they put them down again.
+Any character who isn't a PC must be an NPC.  Most of the time the MC controls all of these characters. However, "non-player" doesn't mean the players never control one. Certain parts of the game (like [downtime](/text/playing/downtime.md)) are great opportunities for players to pick up an NPC for a spell. Whomever steps in takes full control of that character until they put them down again.
 
 ## Pocket Denizens
 
