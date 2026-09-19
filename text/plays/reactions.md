@@ -1,8 +1,8 @@
-# Reaction moves
+# Reaction plays
 
-Reaction moves reward attention and inward consideration with value equal to action and motion. They're designed for light touches: glimpses and nods, scornful looks and weakened knees. Not the kind of thing that dramatically redirects a scene, but nonetheless add an essential touch of the brush to the painting.
+Reaction plays reward attention and inward consideration with value equal to action and motion. They're designed for light touches: glimpses and nods, scornful looks and weakened knees. Not the kind of thing that dramatically redirects a scene, but nonetheless add an essential touch of the brush to the painting.
 
-> Unlike other moves, the MC never rolls their NPCs' reactions. When they want to use one of these moves they take a `complicated success` instead of rolling.
+> Unlike other plays, the MC never rolls their NPCs' reactions. When they want to use one of these plays they take a `complicated success` instead of rolling.
 
 ---
 ### Take their measure
@@ -31,7 +31,7 @@ The player who answers may not say, "nothing". If they try then any other player
 ---
 ### Put a spell on me
 
-When someone **arrests your interest**, confess how they make you feel and ask. Their player will answer honestly, but your characters may not realize the same.
+When someone **arrests your interest**, confess how they make you feel- whether or not you realize it or admit to that feeling.
 <dl>
   <dt>Awe</dt>
   <dd>Could I possibly earn your admiration?</dd>
@@ -47,10 +47,10 @@ When someone **arrests your interest**, confess how they make you feel and ask. 
   <dd>Can I possibly get away from you?</dd>
 </dl>
 
-Once someone has arrested your interest, you may not act against them in any way contrary to those feelings.
+Once someone has arrested your interest, you're bound to them. Write that binding and lock it right away.
 <div class="burden">
 
-The next time someone puts a spell on you, you become `Hesitant` in their presence. Afterward, shift this burden to a different move.
+The next time someone puts a spell on you, your next play is `Hesitant` if it's directed at them, and `Confident` if not. Change this burden to a different play.
 </div>
 
 ---
@@ -66,7 +66,7 @@ In catching their eye you are likewise caught and must reveal something about yo
 </div>
 
 ---
-### Overburden Yourself
+### Your burdens overwhelm you
 
 > unfinished.
 
@@ -81,7 +81,7 @@ Once per session, the first time that you **realize a moment of unfettered delig
 
 <div class="burden">
 
-The affliction of a cherished memory is the realization that you cherish it ever more as something you no longer possess. When you describe the memory, tell the table what you lost afterward. It is time to let go. Lay this remembrance to rest and never think of it again.
+The affliction of a cherished memory lies in the realization that you cherish it ever more as something you no longer possess. When you describe the memory, tell the table what you lost afterward. It is time to let go. Lay this remembrance to rest and never think of it again.
 
 If you opt to clear a burden, you must clear this one.
 </div>

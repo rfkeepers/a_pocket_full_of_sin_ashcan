@@ -22,12 +22,12 @@
   - [Main course](/text/seven_course_meal/main_course.md)
   - [Dessert](/text/seven_course_meal/dessert.md)
 
-- Moves
-  - [About](/text/moves/about.md)
-  - [Forward](/text/moves/forward.md)
-  - [Reactions](/text/moves/reactions.md)
-  - [Instability](/text/moves/instability.md)
-  - [Powers](/text/moves/psychic_powers.md)
+- Plays
+  - [About](/text/plays/about.md)
+  - [Forward](/text/plays/forward.md)
+  - [Reactions](/text/plays/reactions.md)
+  - [Instability](/text/plays/instability.md)
+  - [Powers](/text/plays/psychic_powers.md)
 
 - Rules
   - [Instability](/text/playing/instability.md)

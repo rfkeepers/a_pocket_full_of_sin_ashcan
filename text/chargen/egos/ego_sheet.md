@@ -13,7 +13,7 @@
   <dd>manly, feminine, a bit of both, not much of either, as I see fit, elsewise</dd>
   <dt>Costume</dt>
   <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, ethnic traditional (mexican, native american, oriental, etc)</dd>
-  <dt>Moves with</dt>
+  <dt>Plays with</dt>
   <dd>certainty, care, dignity, jitters, grace, fervor, ill portent, understanding, ease, agitation, languor</dd>
   <dt>Detail</dt>
   <dd>tbd for each ego</dd>
@@ -30,12 +30,12 @@
   <li class="anchor-li">Anchor 5</li>
 </ul>
 
-## Moves
+## Plays
 <p class="subtext">Pick 1 to start.</p>
 
 ####  Compose a template
 
-**When you create a character sheet template,** roll.  On 2, the sheet is complete and ready for you to start working on individual playbooks. On 1, you could move ahead, but you'll spend a lot of time fixing up all the little things when you inevitably change your mind.  On a miss, there's still so much to be done.
+**When you create a character sheet template,** roll.  On 2, the sheet is complete and ready for you to start working on individual playbooks. On 1, you could play ahead, but you'll spend a lot of time fixing up all the little things when you inevitably change your mind.  On a miss, there's still so much to be done.
 
 ####  Think up a playbook
 

@@ -27,12 +27,12 @@
   <li class="anchor-li">Anchor 4</li>
   <li class="anchor-li">Anchor 5</li>
 </ul>
-<h2>Moves</h2>
+<h2>Plays</h2>
 <p class="subtext">Pick 1 to start.</p>
 
 ####  Compose a template
 
-**When you create a character sheet template,** roll.  On 2, the sheet is complete and ready for you to start working on individual playbooks. On 1, you could move ahead, but you'll spend a lot of time fixing up all the little things when you inevitably change your mind.  On a miss, there's still so much to be done.
+**When you create a character sheet template,** roll.  On 2, the sheet is complete and ready for you to start working on individual playbooks. On 1, you could play ahead, but you'll spend a lot of time fixing up all the little things when you inevitably change your mind.  On a miss, there's still so much to be done.
 
 ####  Think up a playbook
 
@@ -40,7 +40,7 @@
 
 <br>
 <h2>Iniquity</h2>
-<p class="subtext">Begin at Ⓞ . Move to the next stage each time you feast on your iniquity.</p>
+<p class="subtext">Begin at Ⓞ . Play to the next stage each time you feast on your iniquity.</p>
 <div class="list-stages">
   <div class="stage-li">
 
@@ -61,7 +61,7 @@
 
   ###### Selfhood
 
-  Enable a second anchor. Mark `Confident` on one of your anchors. Whenever you hit that anchor the confidence effect moves to the next one you pick. Alternatively, you can switch which anchor gives you confidence without changing anchors.
+  Enable a second anchor. Mark `Confident` on one of your anchors. Whenever you hit that anchor the confidence effect plays to the next one you pick. Alternatively, you can switch which anchor gives you confidence without changing anchors.
   </div>
   </div>
   <br>
@@ -87,7 +87,7 @@
 
   ###### Realization
 
-  Enable a third anchor. Mark `Hesitant` on one of your anchors. If you don't want to change anchors, you must move both your Confident and Hesitant marks.
+  Enable a third anchor. Mark `Hesitant` on one of your anchors. If you don't want to change anchors, you must play both your Confident and Hesitant marks.
   </div>
   </div>
   <br>

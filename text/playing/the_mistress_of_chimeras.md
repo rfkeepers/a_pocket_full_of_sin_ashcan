@@ -23,27 +23,27 @@ Your goal isn't only to pain them, of course. Their joys and deliriums are just 
 
 ## What you can do
 
-MCs have their own moves. These are for you and you alone: not the players, and not your NPCs. Whenever you take part in the conversation you should probably use one of your moves.
+MCs have their own plays. These are for you and you alone: not the players, and not your NPCs. Whenever you take part in the conversation you should probably use one of your plays.
 
-Since they're only for you their format looks a bit different from the other moves in the game. There are no triggers, no costs or rolls, and no specified consequences. You just do what it says and, if necessary, ask one of the players what they do in response. You only need to follow two rules: your move makes sense within the fiction, and the players have an opportunity to react and respond.
+Since they're only for you their format looks a bit different from the other plays in the game. There are no triggers, no costs or rolls, and no specified consequences. You just do what it says and, if necessary, ask one of the players what they do in response. You only need to follow two rules: your play makes sense within the fiction, and the players have an opportunity to react and respond.
 
 <dl>
   <dt>Ask a question</dt>
   <dd>Ask the player about themselves, about their character, the situation, the story, or anything else.</dd>
   <dt>Indulge in new details</dt>
   <dd>Describe who and what are around the characters. Return to a thing mentioned earlier and examine it more closely. Go somewhere that the PCs are not and say what's happening there.</dd>
-  <dt>Turn their move back on them</dt>
-  <dd>Whatever the player's goal, show how their move had a different (perhaps the opposite) outcome.</dd>
+  <dt>Turn their play back on them</dt>
+  <dd>Whatever the player's goal, show how their play had a different (perhaps the opposite) outcome.</dd>
   <dt>Employ the rules</dt>
   <dd>Give them a Burden, or clear one. Make them Confident, Hesitant, Grounded, or Adrift. Increase or decrease Instability. Change one of their Seemings.</dd>
   <dt>Show the pocket change</dt>
-  <dd>Introduce or remove someone or something from the scene. Distort the setting, the figments within it, or the characters' perception of either.</dd>
+  <dd>Introduce or replay someone or something from the scene. Distort the setting, the figments within it, or the characters' perception of either.</dd>
   <dt>Train the spotlight on someone</dt>
   <dd>Say who, clarify what's going on around them, and ask what they do. Making sure everyone gets to play is one of your obligations. Under Hollow Hills says, "it’s okay to let the same player make two plays in a row, but if they’re about to make a third, turn to someone else". It's a good rule here, too.</dd>
   <dt>Foreshadow or manifest consequences</dt>
-  <dd>Set events into motion, put a weight on the precipice of tumbling down, or dangle a sword from a thread. Always tell the players what you've done and what it portends, but avoid saying when. Anything you've foreshadowed can be called back into play as a future move, so long as the players have not resolved it already.</dd>
+  <dd>Set events into motion, put a weight on the precipice of tumbling down, or dangle a sword from a thread. Always tell the players what you've done and what it portends, but avoid saying when. Anything you've foreshadowed can be called back into play as a future play, so long as the players have not resolved it already.</dd>
   <dt>Defer to the player(s)</dt>
-  <dd>You can defer any of your moves to the players. Don't let them choose. Tell them what they have to do: "describe X", "tell us how the pocket warps", "say what chain of events your actions have started."</dd>
+  <dd>You can defer any of your plays to the players. Don't let them choose. Tell them what they have to do: "describe X", "tell us how the pocket warps", "say what chain of events your actions have started."</dd>
 </dl>
 
 ## What you must do
@@ -64,15 +64,15 @@ Take part in the conversation when:
 
 <dl>
   <dt>It's your turn</dt>
-  <dd>When a player does something, they aren't triggering a move, and one of your NPCs (or some other part of the world) can react to it. Make a move in turn (one of your own, or an NPC or World move).</dd>
+  <dd>When a player does something, they aren't triggering a play, and one of your NPCs (or some other part of the world) can react to it. Make a play in turn (one of your own, or an NPC or World play).</dd>
   <dt>The text says you must</dt>
-  <dd>Anytime the game says to "turn to the MC"", follow along and do what the text says. Sometimes this happens without calling you out by name, like when a move tells a player to "prepare for the worst". If it's not obvious who decides what the worst is, then it's you.</dd>
+  <dd>Anytime the game says to "turn to the MC"", follow along and do what the text says. Sometimes this happens without calling you out by name, like when a play tells a player to "prepare for the worst". If it's not obvious who decides what the worst is, then it's you.</dd>
   <dt>No one seems to know what to do, or what happens next</dt>
-  <dd>If the conversation lulls or everyone at the table looks to you for guidance, first ensure the situation, stakes, and character positions are clear to everyone. Follow by making one of your moves, put the spotlight on someone, then ask "what do you do?"</dd>
+  <dd>If the conversation lulls or everyone at the table looks to you for guidance, first ensure the situation, stakes, and character positions are clear to everyone. Follow by making one of your plays, put the spotlight on someone, then ask "what do you do?"</dd>
   <dt>You need to direct the spotlight</dt>
   <dd>Maybe the player in the spotlight has had their turn, the conversation has veered off course, or you need to gain hold of everyone's attention to drive a moment home. This shouldn't happen regularly.</dd>
   <dt>Another player skipped a rule</dt>
-  <dd>When a player hits the trigger for a move or otherwise skips over a rule without recognizing their mistake, it's your duty as ritualist to pause play and ensure they return to that moment to handle it.</dd>
+  <dd>When a player hits the trigger for a play or otherwise skips over a rule without recognizing their mistake, it's your duty as ritualist to pause play and ensure they return to that moment to handle it.</dd>
 </dl>
 
 Otherwise, remain patient and still. Give the players time to roam about in the spotlight and cavort with one another.

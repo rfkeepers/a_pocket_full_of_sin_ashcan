@@ -87,7 +87,7 @@ A round of opportunities for all players to recover, recuperate, and to pursue s
 
 Players use this time on some of following:
 - (If they gained _Inquity_) How has the/their world changed in consequence?  _Inquity_ also provides an advancement.
-- (If they have _Burdens_ to recover) How do they rest, recover, or engage with community to remove their burdens?
+- (If they have _Burdens_ to recover) How do they rest, recover, or engage with community to replay their burdens?
 - (If they want to progress a personal story) The player sets up a scene with them and other PCs and NPCs (npcs are played by both the MC and other players).  This scene has no strictly mechanical benefit, it is purely an opportunity to pursue personal agendas.
 
 ---

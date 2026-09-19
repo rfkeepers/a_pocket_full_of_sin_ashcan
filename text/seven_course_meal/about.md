@@ -41,6 +41,6 @@ The meal is a structured phase separated into seven parts, each represented by o
 
 Think of this phase like a cinematic cross-cut. We begin with the characters sitting at the dinner table, some to partake in a ritual that transports them into the pocket, others attend out of propriety, concern, or pitiable malice. With each new plate the scene leaps to the recent past: uneasy handshakes, uncertain glances, a peek through the keyhole of a locked door, a shakeup in an alley, all to wheedle clues out of the employers and their suspicious associates.
 
-This is not a time for making moves or checking success. Paint these moments however you want. Step into character and have a scene or talk about it as playwrights plotting a rehearsal. The fundamentals are concrete: the players ask questions, learn answers, swallow their mouthful and await the next plate.
+This is not a time for making plays or checking success. Paint these moments however you want. Step into character and have a scene or talk about it as playwrights plotting a rehearsal. The fundamentals are concrete: the players ask questions, learn answers, swallow their mouthful and await the next plate.
 
 ---

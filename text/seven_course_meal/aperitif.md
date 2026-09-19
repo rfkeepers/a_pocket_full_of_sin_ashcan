@@ -28,7 +28,7 @@ Once, anytime in this pocket, you may gain <code>Grounded</code> on your next ro
   <dt>Sweet vermouth</dt>
   <dd>Sinking into the warmth of spices as a confectioners delight wraps your mind; you notice naught as you slip across the veil. The liquor comforts against the trespass.
 
-  Hold `1d4` on your person. You may roll it at any time in this pocket- even interrupting another move- to reduce Instability by the result.</dd>
+  Hold `1d4` on your person. You may roll it at any time in this pocket- even interrupting another play- to reduce Instability by the result.</dd>
   <dt>Tonic wine</dt>
   <dd>Caught in a sudden spring breeze you fly buoyant on the honeyed sunlight. You are a pirouette of petals, a gyration of pollens, and the air itself suspending them aloft in fluttering collective mass. So softly, you appear in pocket like a whisper amongst the graces of butterflies.
 

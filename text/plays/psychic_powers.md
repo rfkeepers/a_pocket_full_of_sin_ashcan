@@ -6,13 +6,13 @@ Stepping into a pocket at all is bound set a cascade of effects into motion. Env
 
 Yet you can do so much more than that.
 
-Every character gets the opportunity to push against pocket reality; to shape and reshape the very truth of the space. They can add or remove from what's here and what isn't, to make the logical illogical, to pull and twist the at shape of things.  You, player, get to do this any time you're in, but you each only get to do it once to each pocket.
+Every character gets the opportunity to push against pocket reality; to shape and reshape the very truth of the space. They can add or replay from what's here and what isn't, to make the logical illogical, to pull and twist the at shape of things.  You, player, get to do this any time you're in, but you each only get to do it once to each pocket.
 
 ## Invoking a psychic power
 
-Psychic powers work differently from other moves. It's a vote, not a roll. Only your fellow players (and sometimes the MC) get a say in the matter; their votes determine the potency of the effect.
+Psychic powers work differently from other plays. It's a vote, not a roll. Only your fellow players (and sometimes the MC) get a say in the matter; their votes determine the potency of the effect.
 
-To use a power, first tell the table what power you're using, then call for a show of hands, resolve the outcome, then continue with play.  No other moves should be in this time; if other characters want to aid or interfere, that's why they have a vote.
+To use a power, first tell the table what power you're using, then call for a show of hands, resolve the outcome, then continue with play.  No other plays should be in this time; if other characters want to aid or interfere, that's why they have a vote.
 
 Voting on pocket powers is a metaphysical trick. Your own character doesn't have to be participating, present, or even aware of the power for you to cast your vote. It's not even "your character" making the vote. It's you.
 
@@ -56,7 +56,7 @@ When you **introduce something new to the pocket**- whether a figment, memory, i
 ---
 ### Run someone off
 
-When you **expel something from the pocket**- whether a figment, memory, idea, pain, joy, or anything else- a majority means it's gone, removed from the pocket entirely. If you have unanimity, name something else it takes with it or say how the pocket fills the gap in its absence. If a minority, it's gone, but it leaves something behind in its wake; ask or tell the table what.
+When you **expel something from the pocket**- whether a figment, memory, idea, pain, joy, or anything else- a majority means it's gone, replayd from the pocket entirely. If you have unanimity, name something else it takes with it or say how the pocket fills the gap in its absence. If a minority, it's gone, but it leaves something behind in its wake; ask or tell the table what.
 
 ---
 ### Set things to rights
@@ -68,12 +68,12 @@ When you **settle, soothe, or repair the pocket** in an effort to patch up its d
 
 When you **consume the iniquity of the pocket**, increase your Iniquity by 1. Anyone who votes in favor of this power partakes in the meal and increases their Iniquity by 1. Regardless of the count of votes, you consume all iniquity in this pocket, devoured and bellied by yourself and your fellow sin eaters. This power can only be used once per pocket.
 
-Iniquity is the weight of wrongdoing by a soul. The tally of unpaid tolls, not the guilt of conscience itself. The former can be removed without affecting the latter, and vice versa.
+Iniquity is the weight of wrongdoing by a soul. The tally of unpaid tolls, not the guilt of conscience itself. The former can be replayd without affecting the latter, and vice versa.
 
 ---
 ### Leave your troubles at the door
 
-When you **relieve yourself of your burdens within the pocket**, on unanimity you can remove two from your sheet.  On a majority, one. No matter the outcome, you can remove yet one more by transferring it to another player's character.
+When you **relieve yourself of your burdens within the pocket**, on unanimity you can replay two from your sheet.  On a majority, one. No matter the outcome, you can replay yet one more by transferring it to another player's character.
 
 ---
 ### Work a little magic

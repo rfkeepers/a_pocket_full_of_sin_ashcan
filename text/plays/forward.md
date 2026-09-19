@@ -1,6 +1,6 @@
-# Forward Moves
+# Forward Plays
 
-Forward moves are your basic tools for taking action and changing the situation. They help you discover new information, get closer to- or further from- other characters, and generally achieve your goals.
+Forward plays are your basic tools for taking action and changing the situation. They help you discover new information, get closer to- or further from- other characters, and generally achieve your goals.
 
 ---
 ### Get the lay of the land
@@ -31,24 +31,26 @@ When you **try to draw someone out,** roll.  On 2 say, _"I do draw you out, by d
 
 <div class="burden">
 
-You make yourself vulnerable to them. After you roll, tell them, _"now I'm open to you, do what you will"_. They'll tell you how they capitalize on the moment.
+You make yourself vulnerable to them. After you roll, tell them, _"now I'm open to you, do what you will"_. They'll tell you how they capitalize on the moment. Perhaps they'll Bind you to them.
 </div>
 <br>
 <div class="burden">
 
-The next time someone draws you out they gain `Confidence` on their next move, no matter what they roll. Afterward, shift this burden to a different move.
+The next time someone draws you out they gain `Confidence`. Afterward, change this burden to a different play.
 </div>
 
 ---
 ### Lay bare your heart
 
-When you **make yourself open and vulnerable to another,** say what part of you is unguarded, tell them what you want from them, then roll. On 2, they give you what you need or spare your feelings. On 1 they offer you something different, take advantage of your vulnerability, or make you beholden to them. On a miss they hurt you with pitying, mocking, or caring gestures.
+When you **make yourself open and vulnerable to someone,** say what part of you is unguarded, tell them what you want from them, then roll. On 2, they give you what you need or spare your feelings. On 1 they offer you something different, take advantage of your vulnerability, or Bind you to them. On a miss they hurt you with pitying, mocking, or caring gestures.
 
 <div class="burden">
 
 When you lay yourself bare to someone, pick one:
-- You can no longer ask them to make a solemn promise.
-- You cannot refuse if they ask you to make a solemn promise.
+- Lock all of your Bindings with them.
+- Break one of your Bindings with someone else.
+- You can never again ask them to make a solemn Promise.
+- You can never again refuse if they ask you to make a solemn Promise.
 </div>
 
 ---
@@ -67,7 +69,7 @@ On a miss, ask the MC or the other player what goes wrong. They might have you c
 
 <div class="burden">
 
-Always tell the MC one of the following:
+Also pick one of the following. If appropriate, break one of your Bindings to them in the doing.
 
 - _I hurt them, even though I tried to restrain myself._
 - _I scare them, though I only wanted to make a statement._
@@ -91,7 +93,7 @@ Whenever you get into an altercation, whether or not you caused it, increase ins
 <br>
 <div class="burden">
 
-The next time someone drags you into an altercation, you both roll with `Confidence`. Afterward, you take `Adrift` and shift this burden to a different move.
+The next time someone drags you into an altercation, you both roll with `Confidence`. Afterward, you take `Hesitant`, then change this burden to a different play.
 </div>
 
 ---

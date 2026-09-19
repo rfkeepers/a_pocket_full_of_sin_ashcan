@@ -1,6 +1,6 @@
-# Instability Moves
+# Instability Plays
 
-Instability moves can tamper with the present truths of pocket reality. They never get rolled; instead, they require payment: every use increases the group's instability. The more obviously you contort reality to meet your goals, the more it costs. Gain enough instability and you'll destabilize the whole pocket, making the trip more difficult for everyone.
+Instability plays can tamper with the present truths of pocket reality. They never get rolled; instead, they require payment: every use increases the group's instability. The more obviously you contort reality to meet your goals, the more it costs. Gain enough instability and you'll destabilize the whole pocket, making the trip more difficult for everyone.
 
 ---
 ### Set the stage
@@ -13,7 +13,7 @@ You may not set the stage as normal.  Instead, increase instability by `2` and a
 </div>
 
 ---
-### Summon
+### Summons
 
 You can make a figment or person already within the pocket appear in the scene, just say, **"I think someone is missing"**, then say who you want to appear.  Increase instability by `1` if it makes sense that they could be there right now.  Increase it by `3` to bring them there regardless of the circumstances.
 

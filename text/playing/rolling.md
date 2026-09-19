@@ -20,7 +20,7 @@ If the player rolls `7, 8`, that's "2 above": a clear success.  A roll of `4, 8`
 
 ## What do the outcomes mean?
 
-Ultimately, each move gets the final say on how to handle its outcomes. Moves can go as hard or as soft with the consequences as they want, so one might add a complication to a clear success while another might not punish a miss at all. But in general they all follow a similar pattern:
+Ultimately, each play gets the final say on how to handle its outcomes. Plays can go as hard or as soft with the consequences as they want, so one might add a complication to a clear success while another might not punish a miss at all. But in general they all follow a similar pattern:
 
 <dl>
   <dt>Clear success</dt>
@@ -42,15 +42,15 @@ You'll also see the following terms:
 
 Most often the players roll their 2d8 and the MC rolls the instability die. That's the normal case because the PCs are our protagonists and primary actors, so they'll lead most of the actions in play by engaging with and against the pocket and its figments.
 
-But this isn't always the case. Sometimes the NPCs use moves on their own (they can use all the same moves that are available to the PCs). In those moments the positions flip. The MC rolls the 2d8 and one of the players (whomever makes the most sense) rolls for instability.
+But this isn't always the case. Sometimes the NPCs use plays on their own (they can use all the same plays that are available to the PCs). In those moments the positions flip. The MC rolls the 2d8 and one of the players (whomever makes the most sense) rolls for instability.
 
-Also, the PCs can use moves that affect each other directly! These times the MC stands aside and lets the two players roll. The player making the move gets the 2d8, and the other player rolls instability.
+Also, the PCs can use plays that affect each other directly! These times the MC stands aside and lets the two players roll. The player making the play gets the 2d8, and the other player rolls instability.
 
 These are all, technically, _opposed_ rolls. One character versus instability. Importantly, the opposition does not come from the characters themselves. The instability die always represents the universe, cosmic fate, the whims of unreality, and all such other existential modality. Whomever rolls the die is acting on behalf of the pocket, not for a character.
 
 ## Rolling as a group
 
-Some moves may ask multiple characters to roll against instability at the same time. In those cases the instability die only gets rolled once, and all the other characters roll their 2d8 against that outcome.
+Some plays may ask multiple characters to roll against instability at the same time. In those cases the instability die only gets rolled once, and all the other characters roll their 2d8 against that outcome.
 
 ## Confidence
 

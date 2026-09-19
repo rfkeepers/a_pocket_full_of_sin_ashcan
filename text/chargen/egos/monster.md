@@ -13,7 +13,7 @@
   <dd>manly, feminine, a bit of both, not much of either, as I see fit, elsewise</dd>
   <dt>Costume</dt>
   <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, ethnic traditional (mexican, native american, oriental, etc)</dd>
-  <dt>Moves with</dt>
+  <dt>Plays with</dt>
   <dd>certainty, care, dignity, anguish, grace, fervor, ill portent, ease, finality</dd>
   <dt>Tell</dt>
   <dd>horns, fangs, talons, cloven hooves, pallor, forked tongue, stained breath, scent of gunpowder, <span class="blank"></span></dd>
@@ -30,11 +30,11 @@
   <li class="anchor-li">Go back to your sinful old ways.</li>
 </ul>
 
-## Moves
+## Plays
 
 #### Bear your trespasses with shame and humility
 
-**When you mark a burden,** you gain the listed move. When you clear that burden, you lose the move. 
+**When you mark a burden,** you gain the listed play. When you clear that burden, you lose the play. 
 
 ## Burdens
 

@@ -13,7 +13,7 @@
   <dd>manly, feminine, a bit of both, not much of either, as I see fit, elsewise</dd>
   <dt>Costume</dt>
   <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, ethnic traditional (mexican, native american, oriental, etc)</dd>
-  <dt>Moves with</dt>
+  <dt>Plays with</dt>
   <dd>certainty, care, dignity, jitters, fervor, ease, agitation, languor</dd>
   <dt>No one ever sees/hears your</dt>
   <dd>face, smile, laughter, name, whispered sweet nothings, pain, tears, singing, sighs, cries</dd>
@@ -31,7 +31,7 @@
 </ul>
 
 
-## Moves
+## Plays
 
 #### I'll be right behind you!
 
@@ -57,7 +57,7 @@ You're trapped creeping around this space until another character finds you and 
 
 #### Give them an inch
 
-When you **drop your defenses**, someone or something takes notice and moves in on you; roll. On a hit, you get to say who or what you've drawn in. On 2, you're aware and ready to meet them when they appear. On a miss, tell the MC what you hoped would happen, then prepare for the worst.
+When you **drop your defenses**, someone or something takes notice and plays in on you; roll. On a hit, you get to say who or what you've drawn in. On 2, you're aware and ready to meet them when they appear. On a miss, tell the MC what you hoped would happen, then prepare for the worst.
 
 ## Burdens
 <br>

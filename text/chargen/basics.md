@@ -11,9 +11,9 @@ Examples:
 
 The "Self" playbooks represent the characters in reality: what they do, what situation they're in, and what they've committed themselves to.  
 
-In selecting a Self, the player initially establishes: 1/ what personal storyline they want to explore during downtime, 2/ their starting stats, and 3/ their character's take on intimacy and iniquity.  Selves very rarely start with pocket-phase moves.
+In selecting a Self, the player initially establishes: 1/ what personal storyline they want to explore during downtime, 2/ their starting stats, and 3/ their character's take on intimacy and iniquity.  Selves very rarely start with pocket-phase plays.
 
-As play continues, the self will evolve in two ways: 1/ adding or amending moves for all phases of play, 2/ forcing the world to change in significant ways (a tangential of taking _Iniquity_).
+As play continues, the self will evolve in two ways: 1/ adding or amending plays for all phases of play, 2/ forcing the world to change in significant ways (a tangential of taking _Iniquity_).
 
 Self concepts:
 
@@ -50,7 +50,7 @@ Self concepts:
 
 The "Ego" playbooks represent the way the characters imagine themselves.  It is the persona they embody in dreams, the voice in their imagined conversations, and their reflection of their own behavior.  When characters enter psychic pockets they inhabit their ego, not their actual self.
 
-In selecting an Ego, the player initially establishes: 1/ what kind of behavioral archetype they want to inhabit in play, 2/ their starting moves, 3/ how their character responds to Burdens.
+In selecting an Ego, the player initially establishes: 1/ what kind of behavioral archetype they want to inhabit in play, 2/ their starting plays, 3/ how their character responds to Burdens.
 
 Ego playbooks:
 

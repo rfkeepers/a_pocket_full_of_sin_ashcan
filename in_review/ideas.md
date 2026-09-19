@@ -10,13 +10,13 @@ am I doing this?  If I'm not, how can I?
 
 
 
-Praise the Hawkmoth King is really good. It's the best PBtA game I've seen in recent years; it makes the system feel harsh and tactical, visceral and full of viscera, and it does this not by adding a grid map or hit dice but by leaning hard into the social aspect of the system — aka what it does best. Every move ultimately does something to yourself or the people around you, tangling you all into a tight and fucked up net. It's honed PBtA to an incredibly sharp edge that I'm desperate to cut myself on.
+Praise the Hawkmoth King is really good. It's the best PBtA game I've seen in recent years; it makes the system feel harsh and tactical, visceral and full of viscera, and it does this not by adding a grid map or hit dice but by leaning hard into the social aspect of the system — aka what it does best. Every play ultimately does something to yourself or the people around you, tangling you all into a tight and fucked up net. It's honed PBtA to an incredibly sharp edge that I'm desperate to cut myself on.
 
 ## 
 
 boundies should scrawl one out after maxing at five. eventually this kills the character.
 
-The nobody should disappear a little more on every burden. each disappear revokes one of their forward moves. their overburden turns them into an appartition and they may not act physically.
+The nobody should disappear a little more on every burden. each disappear revokes one of their forward plays. their overburden turns them into an appartition and they may not act physically.
 
 
 #### Not to be trifled with

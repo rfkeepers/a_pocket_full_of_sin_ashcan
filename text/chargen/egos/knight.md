@@ -13,7 +13,7 @@
   <dd>manly, feminine, a bit of both, not much of either, as I see fit, elsewise</dd>
   <dt>Costume</dt>
   <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, ethnic traditional (mexican, native american, oriental, etc)</dd>
-  <dt>Moves with</dt>
+  <dt>Plays with</dt>
   <dd>certainty, care, dignity, fervor, ill portent, understanding, ease, agitation</dd>
   <dt>Your armor</dt>
   <dd>suit of platemail, colorful brigandine, breastplate and morion, stitched linen, purely ornamental, faith, virtue</dd>
@@ -30,7 +30,7 @@
   <li class="anchor-li">Prove to a ward how foolish they are.</li>
 </ul>
 
-## Moves
+## Plays
 
 #### Implements of Valor
 
