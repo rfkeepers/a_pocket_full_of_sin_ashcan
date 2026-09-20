@@ -62,27 +62,27 @@ When you **drop your defenses**, someone or something takes notice and plays in 
 ## Burdens
 <br>
 <dl class="selectable">
-  <dt>Tears</dt>
+  <dt>Head</dt>
   <dd>
-  Anyone who peers into your eyes sees: vacancy, an endless ocean, hollow nothing, mist, silver, opaline orbs.
+  Anyone who peers into your eyes sees: vacancy, an endless ocean, hollow nothing, mist, silver, opaline orbs, roiling clouds.
 
   You cannot <strong>Catch Their Eye</strong>. Nor can anyone Catch Your Eye unless permitted.
   </dd>
   <dt>Heart</dt>
   <dd>
-  Your expressions seem: unmoored, shadowed, asleep, transparent, numbed, buried, diaphanous.
+  Your expressions seem: adrift, shadowed, asleep, transparent, numbed, buried, diaphanous, entangled.
 
   You cannot <strong>Lay Bare Your Heart</strong>. Nor can anyone Lay Bare Their Heart to you unless permitted.
   </dd>
   <dt>Hands</dt>
   <dd>
-  The touch of your skin feels: icy, weightless, fragile, empty, leaden, papery, feverish.
+  The touch of your skin feels: icy, weightless, fragile, empty, leaden, papery, feverish, wanting.
 
   You cannot <strong>Barge In</strong> on anyone. Likewies, none can Barge In on you directly, though they may consider you part of the audience.
   </dd>
   <dt>Tongue</dt>
   <dd>
-  Your voice sounds: wispy, ashen, formless, sedate, distant, airy, dreamlike, lost.
+  Your voice sounds: wispy, ashen, formless, sedate, distant, airy, dreamlike, lost, sonorous.
 
   You cannot <strong>Draw Them Out</strong>. Nor can anyone Draw You Out unless permitted.
   </dd>
@@ -95,7 +95,7 @@ When you **drop your defenses**, someone or something takes notice and plays in 
 </dl>
 <br>
 
-### Overburdened: Apparition
+### Your burdens overwhelm you: Disappear, apparition
 
 **When you would mark a `sixth` burden,** don't. Your burdens overwhelm you. Erase three burdens immediately.
 

@@ -32,7 +32,7 @@
 
 ## Plays
 
-#### Implements of Valor
+#### Implements of valor
 
 You enter every pocket equipped with your Sword and Shield.
 
@@ -40,7 +40,7 @@ Your shield can block any problem that comes your way (attacks, dangers, accusat
 
 Your sword can cut down any obstacle that stands in your way (foes, fiends, walls, illusions, lies, fear, etc), just say, **"No `X` may stand in my way!"**, and increase instability by `3`.
 
-#### Snarfs
+#### What is a knight with no dragon to slay?
 
 **When you conjure up a playbook,** roll.  On 2, you come up with something that both matches the theme and has interesting mechanics. On 1, it either matches the theme or has interesting mechanics, pick one.  On a miss, it's not working out.  Scrap it and start over again.
 
@@ -80,6 +80,11 @@ The first time you gain each burden, fill out the blank with a virtue. While tha
   No harm or insult may ever befall <span class="blank"></span><span class="blank"></span>.
   </dd>
 </dl>
+
+### Your burdens overwhelm you: 
+
+**When you would mark a sixth burden,** don't. Your burdens overwhelm you.
+
 <br>
 
 ---

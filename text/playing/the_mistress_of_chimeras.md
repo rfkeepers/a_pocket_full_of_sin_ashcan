@@ -35,21 +35,21 @@ Since they're only for you their format looks a bit different from the other pla
   <dt>Turn their play back on them</dt>
   <dd>Whatever the player's goal, show how their play had a different (perhaps the opposite) outcome.</dd>
   <dt>Employ the rules</dt>
-  <dd>Give them a Burden, or clear one. Make them Confident, Hesitant, Grounded, or Adrift. Increase or decrease Instability. Change one of their Seemings.</dd>
+  <dd>Give them a Burden or clear one. Increase or decrease Instability. Bind them to someone. Change one of their Seemings.</dd>
   <dt>Show the pocket change</dt>
-  <dd>Introduce or replay someone or something from the scene. Distort the setting, the figments within it, or the characters' perception of either.</dd>
+  <dd>Introduce someone or something to the scene. Distort the setting, the figments within it, or the characters' perception of either. Unleash the pocket's and players' afflictions.</dd>
   <dt>Train the spotlight on someone</dt>
   <dd>Say who, clarify what's going on around them, and ask what they do. Making sure everyone gets to play is one of your obligations. Under Hollow Hills says, "it’s okay to let the same player make two plays in a row, but if they’re about to make a third, turn to someone else". It's a good rule here, too.</dd>
   <dt>Foreshadow or manifest consequences</dt>
   <dd>Set events into motion, put a weight on the precipice of tumbling down, or dangle a sword from a thread. Always tell the players what you've done and what it portends, but avoid saying when. Anything you've foreshadowed can be called back into play as a future play, so long as the players have not resolved it already.</dd>
-  <dt>Defer to the player(s)</dt>
-  <dd>You can defer any of your plays to the players. Don't let them choose. Tell them what they have to do: "describe X", "tell us how the pocket warps", "say what chain of events your actions have started."</dd>
+  <dt>Let the player(s) decide</dt>
+  <dd>You can defer any of your plays to the players. Don't let them choose the play, that's still on you, but you can make them describe the result: "describe X", "tell us how the pocket space warps in response", "say what chain of events your actions have started", "which of your afflictions claws its way out from your heart, and what havoc does it wreak?"</dd>
 </dl>
 
 ## What you must do
 
 - Give the players space to ponder and caper.
-- Follow the characters wherever they go.
+- Follow the PCs wherever they go.
 - Give every character good times and bad.
 - Make the pocket ordinary, intoxicating, and harrowing. 
 - Say what honesty demands.

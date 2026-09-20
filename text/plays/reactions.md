@@ -66,13 +66,6 @@ In catching their eye you are likewise caught and must reveal something about yo
 </div>
 
 ---
-### Your burdens overwhelm you
-
-> unfinished.
-
-When you **would mark your sixth burden** don't. Immediately erase three burdens instead.
-
----
 ### Revel
 
 Once per session, the first time that you **realize a moment of unfettered delight, exultant rapture, or genuine happiness**, tell the table what cherished memory it reminds you of then pick one:

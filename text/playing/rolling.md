@@ -72,8 +72,8 @@ Side note: confidence only affects the 2d8 dice. Instability is never confident,
 
 Confidence (and hesitance) is never handed out arbitrarily. It only comes about when a player meets one of three certain conditions:
 - a rule or play says so.
-- the player hits an anchor with the condition.
 - a player leverages a binding.
+- an anchor is marked with that effect.
 
 ---
 

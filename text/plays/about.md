@@ -2,7 +2,7 @@
 
 ## Powered By The Apocalypse
 
-This game is a [PBtA](http://apocalypse-world.com/pbta/games/find) gig, and further attributes much of its legacy to [Under Hollow Hills](https://lumpley.games/under-hollow-hills-about-the-game/). Most details from that framework hold true even here: the conversation, the plays (or moves, if you're coming from AW), and all the intertwining of the two.
+This game is a [PBtA](http://apocalypse-world.com/pbta/games/find) gig, and attributes much of its legacy to [Under Hollow Hills](https://lumpley.games/under-hollow-hills-about-the-game/). Most details from that framework hold true even here: the conversation, the plays (or moves, if you're coming from AW), and all the intertwining of the two.
 
 ## Making plays
 

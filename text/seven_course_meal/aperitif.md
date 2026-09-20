@@ -12,7 +12,7 @@ Besides, what is a nice dinner without a drink ahead of the main course?
   <dt>Alpine herbal</dt>
   <dd>Through stagnant air first comes the brace of herbs. Next a gasp of anise and shock of bitter juniper. Third the plunge, you are not here, you are entombed in snow, confined in soil. Open your eyes. Your feet hold firm to the ground.
 
-Once, anytime in this pocket, you may gain <code>Grounded</code> on your next roll.</dd>
+Once, anytime in this pocket, you may gain <code>Confident</code> on your next roll.</dd>
   <dt>Louched spirit of anise</dt>
   <dd>The pungent liquid cools your humors with courage and gumption. If you feel yourself falling into the pocket, that's because you leapt, with a grin, into the portal. Now you're in free-fall, now you're not. No matter of which, it's all the same, you feel as though you could levitate on a wish, or hold the earth back from spinning with a notion.
 

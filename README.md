@@ -27,11 +27,9 @@ Note: see the "Aside" section below about the differences between the historical
 
 ### Tone
 
-Psychological thriller, mind bending spaces and non-euclidean exploration, the capacity- but not requirement- for horror. Themes of emotional suppression, living outside of societal norms, being valued for your work but not as a person, and being seen as a necessary evil, are all built into the weave of the game.
+Psychological thriller, mind bending spaces and non-euclidean exploration, the capacity for- but not requirement to create- horror. At your table's discretion, and with all appropriate [safety](/text/playing/safety.md), sessions may include sensitive content such as physical or mental trauma, physical abuse, substance abuse, death, bodily and existential horror, and more. You are permitted and encouraged to unearth all the secrets that a person can bury within themselves.
 
-At your table's discretion, and with all appropriate safety, sessions may include sensitive content such as physical or mental trauma, physical abuse, substance abuse, death, bodily and existential horror, and more. You are permitted and encouraged to unearth all the secrets that a person can bury within themselves.
-
-Sessions should also include fancy, delight, delirium, joy, beauty, stillness, insight, and reprieve. This game is your opportunity to revel in _all_ the wonders that a psyche could offer. We are creatures much greater and more interesting than our plights, and you are encouraged to wrap yourself in those aspects, too.
+Sessions should also include fancy, delight, delirium, joy, beauty, stillness, insight, and reprieve. This game is your opportunity to revel in _all_ the wonders that a psyche could offer. We are creatures much greater and more interesting than our plights, and you are encouraged to wrap yourself in those comforts and elations, too.
 
 ### Players Should Expect
 
@@ -51,7 +49,7 @@ This transfer of sin was reportedly a literal process. The eater, for their trou
 
 Why make this game about Sin Eaters? Two reasons.  First because there's a rich, metaphorical duplicity to the story of a person who's willing to save other people from their past failings, only to reduce their own existence to something of a reviled creature. Second because the idea that this all could play out in some mental otherworld-- an actual encounter with the lifetime of sin, not just a performative ritual of one-- is too good a combination to pass up.
 
-This game is not intended as a historically accurate representation of the practice of sin eating. I'm taking a lot of liberty to extrapolate from a real religious practice and spin that extraction into a game where people to sit down at a table and roll dice. I believe in the value of games, as I believe in the way they allow us to explore and empathize with ourselves and others. At the same time, I want to respect the traditions and culture of all who previously and currently view these religious practices as legitimate and essential aspects of their lives.  It's not an easy balance.
+This game is not intended as a historically accurate representation of the practice of sin eating. I take a lot of liberty to extrapolate from real religious practice and spin that into a game where we sit down at a table and roll dice. I believe in the value of games, as I believe in the way they allow us to explore and empathize with ourselves and others. At the same time, I want to respect the traditions and culture of all who previously and currently view these religious practices as legitimate and essential aspects of their lives.  It's not an easy balance.
 
 I have no intention to weasel out of culpability for misinterpreting or mischaracterizing real religious practices or values in any place in this text.  At the same time, to make this game, I'm going to intentionally reinterpret and recharacterize at least one historical religious practice, and perhaps more than that unintentionally. Rather than commit to being correct, appropriate, or inoffensive, I'd like to commit to an openness for future learning, correction, and representation. I aim to do the best I can from the start.  Failing that, I'm happy learn and do better.
 

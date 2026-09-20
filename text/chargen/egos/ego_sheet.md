@@ -57,7 +57,7 @@
 </dl>
 <br>
 
-### Overburdened
+### Your burdens overwhelm you: 
 
 **When you would mark a sixth burden,** don't. Your burdens overwhelm you.
 
