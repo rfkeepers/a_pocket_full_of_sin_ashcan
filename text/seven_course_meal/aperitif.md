@@ -14,23 +14,23 @@ Besides, what is a nice dinner without a drink ahead of the main course?
 
 Once, anytime in this pocket, you may gain <code>Confident</code> on your next roll.</dd>
   <dt>Louched spirit of anise</dt>
-  <dd>The pungent liquid cools your humors with courage and gumption. If you feel yourself falling into the pocket, that's because you leapt, with a grin, into the portal. Now you're in free-fall, now you're not. No matter of which, it's all the same, you feel as though you could levitate on a wish, or hold the earth back from spinning with a notion.
+  <dd>The pungent liquid cools your humors with courage and gumption. Feel yourself falling into the pocket- a wild, exhilarating plummet. That's because you leapt, with a grin, across the divide. Now you're doing soumersaults, now you're an arrow to a target. No matter of which, it's all the same, you could pierce heaven or hold the earth back from spinning along its axis, should you only wish.
 
   Once, anytime in this pocket, you may gain <code>Confident</code> on your next roll.</dd>
   <dt>Absinthe</dt>
-  <dd>Earthy dreams unmoor you. Fingers numb and legs aquiver, topsy turvy comes the pocket in a menagerie of wilding airs. Look at the air, listen to the buzzing of the sun. Here you are in it.
+  <dd>Earthy dreams unmoor you. Adrift, fingers numb and legs aquiver, topsy turvy comes the pocket in a menagerie of wilding tides. Look at the air, listen to the buzzing of the sun. All madness. Yet like a riddle solved the convulsions are all answers to some tilted question.
 
-  You are <code>Adrift</code> until your next roll. Once, anytime in the pocket, you can reduce an Instability cost by up to <code>2</code>.</dd>
+  Take <code>Hesitant</code> on your first play. Once, anytime in the pocket, you can reduce an Instability cost by up to <code>2</code>.</dd>
   <dt>Italian liqueur</dt>
   <dd>Scintillating bitters roll from tongue to belly. You sizzle with the ignition of a firework. Wheel about in a somersault of dragon's breath. A pop and you're gone. A crack and here back again, still smouldering from where you streaked through the sky.
 
   The first time you **Quarrel and Fracas**, don't roll. Treat the result as a `Clear success` instead.</dd>
   <dt>Sweet vermouth</dt>
-  <dd>Sinking into the warmth of spices as a confectioners delight wraps your mind; you notice naught as you slip across the veil. The liquor comforts against the trespass.
+  <dd>Sinking into the warmth of spices as a confectioners delight wraps your mind; you notice naught as you slip across the veil. The liquor comforts against the trespass: a sheepskin wrap to ward off the cold, a crackling fire to stay the dark.
 
-  Hold `1d4` on your person. You may roll it at any time in this pocket- even interrupting another play- to reduce Instability by the result.</dd>
+  Set aside a `d4` on your person. You may roll it once at any time in this pocket- even interrupting another play- to reduce Instability by the result.</dd>
   <dt>Tonic wine</dt>
-  <dd>Caught in a sudden spring breeze you fly buoyant on the honeyed sunlight. You are a pirouette of petals, a gyration of pollens, and the air itself suspending them aloft in fluttering collective mass. So softly, you appear in pocket like a whisper amongst the graces of butterflies.
+  <dd>Caught in a sudden spring breeze you fly buoyant on the honeyed sunlight. You are a pirouette of petals, a gyration of pollens, and the air itself suspending them aloft in fluttering collective mass. So softly, you alight in pocket like a whisper amongst the graces of butterflies.
 
   Once, anytime in this pocket, someone may **Summon Your Aid** without increasing Instability, no matter the circumstances.</dd>
   <dt>Oaked mead</dt>
