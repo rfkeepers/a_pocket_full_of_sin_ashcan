@@ -32,7 +32,7 @@ Since voting works differently than rolling, use the following as a guide to res
   <dt>Unanimity</dt>
   <dd>The count of votes is equal or greater than the count of voters.  This usually represents the best possible outcome.</dd>
   <dt>Majority</dt>
-  <dd>More than half of the votes are in your favor.  Normally treated as a weak or partial success.</dd>
+  <dd>More than half of the votes are in your favor. The outcome will likely be good, but not necessarily the best possible.</dd>
   <dt>Split</dt>
   <dd>The votes are equally split. Treat this the same as a majority unless the power states otherwise.</dd>
   <dt>Minority</dt>

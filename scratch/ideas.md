@@ -25,3 +25,11 @@ When you **give someone a reason not to stick around you**, roll. On 2, they bac
 
 
 
+## heroes tragedy
+
+1. Anticipation Stage: The Hero gets focused on "some unusual gratification... object of desire or course of action." At this point, he is "incomplete or unfulfilled."
+2. Dream Stage: Like in many other stories, the Tragic Hero gets "committed to his course of action." There's no turning back now. However, at first "things go almost improbably well for the hero." Even if he's doing bad things, nobody seems to be catching on, or even if they catch on they seem unable or unwilling to stop him - he's "getting away with it."
+3. Frustration Stage: Things start to go wrong... perhaps very slowly, "almost imperceptibly," but the Hero is starting to experience difficulties and annoyances. He may decide, at this point, to do "further dark acts which lock him into his course of action even more irrevocably."
+4. Nightmare Stage: Booker describes this stage better than we can: "...things are now slipping seriously out of the hero's control. He has a mounting sense of threat and despair. Forces of opposition and fate are closing in on him."
+5. Destruction or Death Wish Stage: He's about to go down, hard. This is caused by either "some final act of violence" or because of the various enemies he's made - the "forces he has aroused against him."
+

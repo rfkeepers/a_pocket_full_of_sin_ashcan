@@ -2,12 +2,12 @@
 
 Reaction plays reward attention and inward consideration with value equal to action and motion. They're designed for light touches: glimpses and nods, scornful looks and weakened knees. Not the kind of thing that dramatically redirects a scene, but nonetheless add an essential touch of the brush to the painting.
 
-> Unlike other plays, the MC never rolls their NPCs' reactions. When they want to use one of these plays they take a `complicated success` instead of rolling.
+> Unlike other plays, the MC never rolls their NPCs' reactions. When they want to use one of these plays they take `1` instead of rolling.
 
 ---
 ### Take their measure
 
-**When you measure someone up,** even with just a glance, even at a distance, roll. On success, ask their player one of the following questions and they must answer honestly. On 2, ask one more.
+**When you measure someone up,** even with just a glance, even at a distance, roll. On a hit, ask their player one of the following questions and they must answer honestly. On 2, ask one more.
 
 - _What do you intend to do, and how far are you prepared to go?_
 - _Where are you open to me? Where are you vulnerable, and where are you guarded?_

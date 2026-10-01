@@ -62,7 +62,7 @@ When you would **Quarrel or Fracas**, don't roll, just take 2. In fact, if you'r
 
 ####  Eat the flesh, drink the blood
 
-When you **get a taste of someone's body**, roll. On any success, pick one. On 2, pick another, but only the first part of it.
+When you **get a taste of someone's body**, roll. On any hit, pick one. On 2, pick another, but only the first part of it.
 - Take `Confident`, their body imparts strength and sustenance; _they look at you with fear now, like how one looks at a prowling wolf._
 - Learn something secret about them, even if they wouldn't know it themselves; _mark a Burden._
 - Transmit something to them: urges, memories, afflictions, promises, or something else; _they transmit something to you, ask them what._
@@ -77,12 +77,18 @@ You may peel back the guise of a human body and reveal the creature beneath. Jus
 
 Reduce these costs by `1` for each marked Burden (minimum 0).
 
-### Your burdens overwhelm you: Give in to your ways
+### Your burdens overwhelm you: A hapless servant to your own nature
 
-**When you would mark a `sixth` burden,** don't. Your burdens overwhelm you.
+**When you would mark a `sixth` burden,** don't. Your burdens overwhelm you with hideous transformation: your flesh contorts and distends, bones creak and rattle, and your mind trembles with new instincts. Tell everyone what you look like. Ask them all what they now fear about you.
 
-whomever the promise was aboutomise to yourself. Pick someone and say what monstrous thing you need to do to them: kill them, consume their body, take something precious from them, reduce them to a tearful mess, or elsewise. Tear up the promise when you do it and erase three burdens.
+Your wants are overtaken with abominable urges: 
+- To kill.
+- To consume a body entire.
+- To wrench something precious from another's arms.
+- To reduce someone to a tearful mess.
 
-You cannot **break this solemn promise**. If it isn't fulfilled when you leave the pocket, tear it up anyway, then erase two burdens and give yourself an Affliction in the image of whomever the promise was about.
+Each time you slake one of your urges, erase one of your burdens. Only after you've erased three will you return to your normal self again.
+
+While in this monstrous state you may not take on additional burdens. You may not use any Psychic Power, either. Should you leave the pocket before you relieve yourself of these urges, you'll return to your true self as normal, but the thing you became is now loose inside of you somewhere; give yourself a new affliction in its likeness.
 
 ---

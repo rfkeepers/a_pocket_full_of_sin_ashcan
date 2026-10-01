@@ -24,7 +24,7 @@ Once, anytime in this pocket, you may gain <code>Confident</code> on your next r
   <dt>Italian liqueur</dt>
   <dd>Scintillating bitters roll from tongue to belly. You sizzle with the ignition of a firework. Wheel about in a somersault of dragon's breath. A pop and you're gone. A crack and here back again, still smouldering from where you streaked through the sky.
 
-  The first time you **Quarrel and Fracas**, don't roll. Treat the result as a `Clear success` instead.</dd>
+  The first time you **Quarrel and Fracas**, don't roll. Treat the result as a `2` instead.</dd>
   <dt>Sweet vermouth</dt>
   <dd>Sinking into the warmth of spices as a confectioners delight wraps your mind; you notice naught as you slip across the veil. The liquor comforts against the trespass: a sheepskin wrap to ward off the cold, a crackling fire to stay the dark.
 
@@ -36,7 +36,7 @@ Once, anytime in this pocket, you may gain <code>Confident</code> on your next r
   <dt>Oaked mead</dt>
   <dd>You are the forest and the ferns and the moss. A thousand thousand bees and beetles splinter and spread your fibers. Dismantled, incorporating all the world throughout the network of your myriad flecks, a union with the Pocket forms: you are in the weave, and the weave is in you.
 
-  Once, anytime in this pocket, you may trade one of your two votes toward a Power to turn a `Miss` into a `Clear success`, or the opposite.</dd>
+  Once, anytime in this pocket, you may trade one of your two votes toward a Power to turn a `Miss` into a `2`, or the opposite.</dd>
 </dl>
 
 ---

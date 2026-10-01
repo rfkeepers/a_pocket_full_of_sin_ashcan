@@ -1,6 +1,6 @@
 # Rolling
 
-This game uses a special system of rolling called the `instability system`. All the unique parts aside, instability mimics the _feel_ and _effect_ of rolling that you get in other pbta. Two dice, bell curve, three-band outcomes (miss, complicated success, clear success). If you're familiar with pbta then all this should make sense in the same way.
+This game uses a special system of rolling called the `instability system`. All the unique parts aside, instability mimics the _feel_ and _effect_ of rolling that you get in other pbta. Two dice, bell curve, three-band outcomes. If you're familiar with pbta then all this should make sense in the same way.
 
 [Instability](/text/playing/instability.md) is also it's own mechanic. The text doesn't talk about the instability _system_ at all. Any other time that you see the term, it'll be talking about the mechanic.
 
@@ -8,35 +8,17 @@ This game uses a special system of rolling called the `instability system`. All 
 
 All rolls in this game, no matter the situation, are handled with **2d8 vs Instability**.  The character taking the action (usually, but not necessarily, the player) rolls the 2d8.  The instability die gets rolled by whomever is opposing that character (usually, but not necessarily, this is the MC's job).
 
-Success gets determined by whether one or both of the d8s roll _above_ the instability die: `2` dice for a `clear success`, `1` for a `complicated success`, or none to `miss` the roll.
+The outcome gets determined by how many of the d8s roll _above_ the instability die: `2` dice for the best possible outcome, `0` for the worst. `0` is also called a `miss`. And, in opposite, rolling either `1` or `2` constitutes a `hit`.
 
 <div class="example">
 
 The MC rolls instability and gets `5`.
 
-If the player rolls `7, 8`, that's "2 above": a clear success.  A roll of `4, 8` is "1 above": a complicated success.  A roll of `1, 5` is "0 above" (instability wins all ties): a miss.
+If the player rolls `7, 8`, that's "2".  A roll of `4, 8` is "1". A roll of `1, 5` is "0" (instability wins all ties): a miss.
 </div>
 <br>
 
-## What do the outcomes mean?
-
-Ultimately, each play gets the final say on how to handle its outcomes. Plays can go as hard or as soft with the consequences as they want, so one might add a complication to a clear success while another might not punish a miss at all. But in general they all follow a similar pattern:
-
-<dl>
-  <dt>Clear success</dt>
-  <dd>The outcome is as good as it can possibly get, and probably lands with no strings attached.</dd>
-  <dt>Complicated success</dt>
-  <dd>Whatever your goal was, you achieve it. But the results aren't exactly what you might want: they're complicated, messy, or going to cost you extra.</dd>
-  <dt>Miss</dt>
-  <dd>Maybe you still did what you wanted, maybe not. A miss isn't necessarily a failure. It means the outcome isn't what you wanted, in one way or another.</dd>
-</dl>
-
-You'll also see the following terms:
-
-<dl>
-  <dt>Success</dt>
-  <dd>Applies when you get either a Clear or Complicated Success. Aka: 1 or more dice rolled above instability.</dd>
-<br>
+The text for each Play gets the final say on how to handle the different outcomes. Plays can go as hard or as soft with the consequences as they want. One might add complications on a `2` while another doles out no punishments for a `0`. Mostly they'll all follow a similar pattern: 2 is great, 1 is mediocre or complicated, 0 is bad. Bad doesn't mean failure! It means you don't get the _outcome_ you wanted. Outcomes are far more important than the actions themselves.
 
 ## Who rolls?
 

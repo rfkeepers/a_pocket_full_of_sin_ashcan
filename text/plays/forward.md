@@ -5,7 +5,7 @@ Forward plays are your basic tools for taking action and changing the situation.
 ---
 ### Get the lay of the land
 
-When you **survey your surroundings**, roll. On any success, ask the MC questions and they'll answer truthfully. On 2, ask 2. On 1, ask at least 1; you can ask a second question after, if you're willing to let the MC act in response.
+When you **survey your surroundings**, roll. On any hit, ask the MC questions and they'll answer truthfully. On 2, ask 2. On 1, ask at least 1; you can ask a second question after, if you're willing to let the MC act in response.
 
 - _What’s coming this way or has its eye on me?_
 - _What’s valuable here that we haven't yet found?_
@@ -56,7 +56,7 @@ When you lay yourself bare to someone, pick one:
 ---
 ### Barge in
 
-When you **come barging in on someone's moment,** roll. On any success, you interrupt them, and they can’t do anything more without dealing with you. On 2, choose 2 of the following. On 1, choose 1.  These choices can affect either the character you intruded on or the gawkers and audience they've gathered.
+When you **come barging in on someone's moment,** roll. On any hit, you interrupt them, and they can’t do anything more without dealing with you. On 2, choose 2 of the following. On 1, choose 1.  These choices can affect either the character you intruded on or the gawkers and audience they've gathered.
 
 - They give you their undivided attention for more than a moment.
 - You deprive them of something they need right now.

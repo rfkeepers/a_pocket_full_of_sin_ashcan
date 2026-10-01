@@ -35,7 +35,7 @@ Since they're only for you their format looks a bit different from the other pla
   <dt>Turn their play back on them</dt>
   <dd>Whatever the player's goal, show how their play had a different (perhaps the opposite) outcome.</dd>
   <dt>Employ the rules</dt>
-  <dd>Give them a Burden or clear one. Increase or decrease Instability. Bind them to someone. Change one of their Seemings.</dd>
+  <dd>Give them a Burden or clear one. Increase or decrease Instability. Bind them to someone. Change one of their Seemings. Invoke an Affliction.</dd>
   <dt>Show the pocket change</dt>
   <dd>Introduce someone or something to the scene. Distort the setting, the figments within it, or the characters' perception of either. Unleash the pocket's and players' afflictions.</dd>
   <dt>Train the spotlight on someone</dt>
