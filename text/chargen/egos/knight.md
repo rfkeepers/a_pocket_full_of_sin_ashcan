@@ -32,17 +32,56 @@
 
 ## Plays
 
-#### Implements of valor
+####  Armaments of valor
 
 You enter every pocket equipped with your Sword and Shield.
 
 Your shield can block any problem that comes your way (attacks, dangers, accusations, seductions, etc), just say, **"No `X` may ever harm me!"**, and increase instability by `2`.
 
-Your sword can cut down any obstacle that stands in your way (foes, fiends, walls, illusions, lies, fear, etc), just say, **"No `X` may stand in my way!"**, and increase instability by `3`.
+Your sword can cut down any obstacle that stands in your way (foes, fiends, walls, illusions, lies, fear, etc), just say, **"No `X` can bar my way!"**, and increase instability by `3`.
 
-#### Take on a ward
+#### Banner and Herald
 
-**When you conjure up a playbook,** roll.  On 2, you come up with something that both matches the theme and has interesting mechanics. On 1, it either matches the theme or has interesting mechanics, pick one.  On a miss, it's not working out.  Scrap it and start over again.
+When you trumpet and shout your arrival, 2 pick 3, 1 pick 1, miss the mc picks one or two. This only holds while you adhere to the rituals and constraints of the local customs. Ask the mc what you must observe to maintain your station.
+
+??? Should this add a binding to wherever you announce?
+
+- You are treated courteously and given safe haven.
+- You are revered and celebrated.
+- You are respected and expected to morally guide.
+- You are honored and expected to lead.
+- You are feared and avoided.
+- You are acknowledged, and must be attended to by someone of your choosing.
+- You issue a challenge, and must be met on equal footing.
+- You are met with disbelief, and challenged to prove your legend.
+- These effect extend to all those with you.
+
+#### Honor
+
+> STOLEN
+> When you address someone courteously, roll. On any hit, they must
+answer you courteously in return, no matter their intentions or animosity
+toward you. On a 10+ hit, furthermore, they must address everyone else
+courteously as well, while you are present. On a miss, while they must
+nevertheless answer you with courtesy, they may, if they choose, answer you
+with a cutting and sarcastic false courtesy that you may consider an insult
+or that may even wound you.
+
+> STOLEN
+> When you make your presence known to those with
+power, say what your legend is here and roll. On a
+10+, pick 2. On a 7-9, pick 1.
+» You are feared, no-one here will act against you
+» You are respected, the authorities seek your
+council
+» You are loved, you will not want for shelter or
+food
+» You are trusted, people share their grievances
+and problems
+On a miss, the Fates choose: your legend has
+changed, someone demands your service or you’re
+seen as a threat and the powerful take steps to
+remove you.
 
 ## Burdens
 
@@ -85,9 +124,9 @@ The first time you gain each burden, fill out the blank with a virtue. While tha
 
 **When you would mark a sixth burden,** don't. Your burdens overwhelm you. Immediately erase 3 of them.
 
-_Chivalry in times of peace is fine and good for all. Yet what value brings a bravely knight who finds no lord at trouble, no maiden's plaintive call? All the more, a mighty quest would fit the best, a dragon fearsome full! Bring out the beast! I have mine sword, and oaths to which I'm swore. Bring on the beast! I'll have my dues, then my title proven withal!_
+_Chivalry in times of peace is fine and good for all. Yet what value brings a bravely knight who finds no lord at trouble, no maiden's plaintive call? All the more, a mighty quest would fit the best, a dragon fearsome full! Bring out the beast! I have mine sword, and oaths to which I'm swore. Bring on the beast! I'll have my dues, and title proven withal!_
 
-Some affliction or other monstrosity within the pocket grows to a tremendous size. From this moment on it rampages through the pocket, reducing buildings to rubble, instilling terror with its very nearness, making unreasonable demands for sacrifice, covetously protecting places of great value, and such other ill deeds.
+Some affliction or monstrosity within the pocket grows to tremendous size. From this moment on it will rampage through the pocket: reducing buildings to rubble, instilling terror with its very nearness, making unreasonable demands for sacrifice, covetously protecting places of great value, and such other ill deeds.
 
 Should you fail to slay it before you leave the pocket, it will assuredly destroy that person's mind. But should someone else slay it in your stead then your claim to a position of honorable knighthood will be challenged, and you'll take a new affliction for your weakness.
 

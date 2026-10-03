@@ -2,7 +2,7 @@
 
 As characters become harmed, wronged, distressed, or work through the warping unreality of pocket space they inevitably accumulate Burdens. 
 
-Burdens weigh heavily upon a person, without regard to whether that person is flesh or figment. They bewilder perception and snarl emotions. Psychic energy response to that sort of experience. Try what you like to hide it: lie, boast, hide, cover it with powder and rouge, no protest will change the facts, that your heart has been writhing through your chest like a cornered snake, that your tongue flutters like a sparrow, that your legs might lash out from underneath you at any moment. It's not a passing fancy; you're truly in a stew.
+Burdens weigh heavily upon a person, without regard to whether that person is a visitor or a figment. They bewilder perception and snarl emotions. Psychic energy response to that sort of experience. Try what you like to hide it: lie, boast, hide, cover it with powder and rouge, no protest will change the facts, that your heart has been writhing through your chest like a cornered snake, that your tongue flutters like a sparrow, that your legs might lash out from underneath you at any moment. It's not a passing fancy; you're truly in a stew.
 
 ## Playing Burdens
 

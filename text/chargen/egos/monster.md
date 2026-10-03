@@ -69,11 +69,11 @@ When you **get a taste of someone's body**, roll. On any hit, pick one. On 2, pi
 - Leave a mark on their body, what is it, and how messy? _They bear that mark shamefully, take `Hesitant`._
 - Bind them to you; _they choose a binding of yours and lock it, then they choose one of their own bindings and break it._
 
-####  Caged in these bones sleeps an old demon
+####   Caged in these bones sleeps an old demon
 
 Add _Terrified_ to your options when you **catch someone's eye**.
 
-You may peel back the guise of a human body and reveal the creature beneath. Just say, **"you must suffer me to go my own dark way"**. Increase instability by `4` to change some small part of you: a hand, your face, your voice and breath, etc. Increase it by `7` to transform your entire being. The change is brief but visible to everyone. Increase instability by an additional `5` to maintain the transformation for some time.
+You can peel back the guise of a human body and reveal the creature beneath. Just say, **"you must suffer me to go my own dark way"**. Increase instability by `4` to change some small part of you: a hand, your face, your voice and breath, etc. Increase it by `7` to transform your entire being. The change is brief but visible to everyone. Increase instability by an additional `5` to maintain the transformation for some time.
 
 Reduce these costs by `1` for each marked Burden (minimum 0).
 
