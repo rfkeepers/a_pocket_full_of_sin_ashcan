@@ -1,11 +1,15 @@
-# Reaction plays
+#  Reaction plays
 
 Reaction plays reward attention and inward consideration with value equal to action and motion. They're designed for light touches: glimpses and nods, scornful looks and weakened knees. Not the kind of thing that dramatically redirects a scene, but nonetheless add an essential touch of the brush to the painting.
 
 > Unlike other plays, the MC never rolls their NPCs' reactions. When they want to use one of these plays they take `1` instead of rolling.
 
+## Identifying reaction plays
+
+All reaction plays are marked with a  in the name, and all rules affecting reaction plays apply to them equally.
+
 ---
-### Take their measure
+###  Take their measure
 
 **When you measure someone up,** even with just a glance, even at a distance, roll. On a hit, ask their player one of the following questions and they must answer honestly. On 2, ask one more.
 
@@ -29,7 +33,7 @@ The player who answers may not say, "nothing". If they try then any other player
 </div>
 
 ---
-### Put a spell on me
+###  Put a spell on me
 
 When someone **arrests your interest**, confess how they make you feel- whether or not you realize it or admit to that feeling.
 <dl>
@@ -54,7 +58,7 @@ The next time someone puts a spell on you, your next play is `Hesitant` if it's 
 </div>
 
 ---
-### Catch their eye
+###  Catch their eye
 
 When you **catch someone’s eye** (your call), roll. On 2, pick 2, one feeling quickens within them while the other smothers entirely. On 1, you pick 1 then they pick 1. On a miss, they pick both. You are a mere catalyst in this instant. Their emotions rouse at the sight of you, but not necessarily towards you.
 
@@ -66,7 +70,7 @@ In catching their eye you are likewise caught and must reveal something about yo
 </div>
 
 ---
-### Revel
+###  Revel
 
 Once per session, the first time that you **realize a moment of unfettered delight, exultant rapture, or genuine happiness**, tell the table what cherished memory it reminds you of then pick one:
 - Clear a burden.
@@ -80,7 +84,7 @@ If you opt to clear a burden, you must clear this one.
 </div>
 
 ---
-### Writhe
+###  Writhe
 
 Once per session, the first time that you **avert your eyes, whimper in dread, or gasp or curse aloud**, confess your reaction openly to the table- naming what caused it, as necessary- then pick one:
 - Mark a burden.

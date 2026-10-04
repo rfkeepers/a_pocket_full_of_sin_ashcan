@@ -71,7 +71,7 @@ When you **get a taste of someone's body**, roll. On any hit, pick one. On 2, pi
 
 ####   Caged in these bones sleeps an old demon
 
-Add _Terrified_ to your options when you **catch someone's eye**.
+Add _Terrified_ to your options when you ** catch someone's eye**.
 
 You can peel back the guise of a human body and reveal the creature beneath. Just say, **"you must suffer me to go my own dark way"**. Increase instability by `4` to change some small part of you: a hand, your face, your voice and breath, etc. Increase it by `7` to transform your entire being. The change is brief but visible to everyone. Increase instability by an additional `5` to maintain the transformation for some time.
 

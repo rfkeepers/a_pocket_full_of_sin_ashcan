@@ -23,16 +23,16 @@
 ## Anchors
 
 <ul class="anchor-list">
-  <li class="anchor-li">Place yourself in harm's way.</li>
   <li class="anchor-li">Protect someone weaker than yourself.</li>
   <li class="anchor-li">Intervene where honor or valor demands.</li>
+  <li class="anchor-li">Engage in a dangerous sport or challenge for glory.</li>
   <li class="anchor-li">Adhere to- and demand of others- an excess of decorum.</li>
   <li class="anchor-li">Prove to a ward how foolish they are.</li>
 </ul>
 
 ## Plays
 
-####  Armaments of valor
+####  Valorous armaments
 
 You enter every pocket equipped with your Sword and Shield.
 
@@ -40,52 +40,30 @@ Your shield can block any problem that comes your way (attacks, dangers, accusat
 
 Your sword can cut down any obstacle that stands in your way (foes, fiends, walls, illusions, lies, fear, etc), just say, **"No `X` can bar my way!"**, and increase instability by `3`.
 
-#### Banner and Herald
+#### Herald your arrival
 
-When you trumpet and shout your arrival, 2 pick 3, 1 pick 1, miss the mc picks one or two. This only holds while you adhere to the rituals and constraints of the local customs. Ask the mc what you must observe to maintain your station.
+When you **proclaim your arrival with fanfare and pageantry**, all the figments and afflictions in this place will hail your status and station. Now roll. On 2, pick three. On 1 pick one, then the MC will also pick one. On a miss the MC picks one or two for you and, in addition, may say how that station is troubled or problematic. In all cases, ask or tell the MC what customs must be observed while you're here. Should you break any of them then your status will become irrecoverably tarnished.
 
-??? Should this add a binding to wherever you announce?
+- O' courteous traveler, we have safe haven for thee.
+- O' hero, let us celebrate your appearance.
+- O' regent, lead us in time time of need.
+- O' shepherd, disabuse us of this veil.
+- O' envoy, our attendant will address your needs.
+- O' conqueror, please hear our plea, and spare us.
+- O' champion, we hear your challenge, and accept.
+- O' fool, no one here knows your name.
+- Any other choice, and the need to abide local customs, extends to all those with you.
 
-- You are treated courteously and given safe haven.
-- You are revered and celebrated.
-- You are respected and expected to morally guide.
-- You are honored and expected to lead.
-- You are feared and avoided.
-- You are acknowledged, and must be attended to by someone of your choosing.
-- You issue a challenge, and must be met on equal footing.
-- You are met with disbelief, and challenged to prove your legend.
-- These effect extend to all those with you.
+####  Fear nothing, for your white knight arrives!
 
-#### Honor
+When any other visitor ** Writhes in your presence**, bind yourself to them (write this binding in a special place, separate from the rest). This person is now your ward; it must be either that they are weaker than you and in need of protection, or they're a fool and in need of lessons about the world.
 
-> STOLEN
-> When you address someone courteously, roll. On any hit, they must
-answer you courteously in return, no matter their intentions or animosity
-toward you. On a 10+ hit, furthermore, they must address everyone else
-courteously as well, while you are present. On a miss, while they must
-nevertheless answer you with courtesy, they may, if they choose, answer you
-with a cutting and sarcastic false courtesy that you may consider an insult
-or that may even wound you.
+Later, as you all exit this pocket, ask all those with this binding whether you served your wards rightly, and they will answer you with honesty full and true. If all agree that you upheld the duties of your binding, erase a burden. If the majority disagree, take a burden. Remove all these bindings after that. If you never took a ward in the first place, it must be that you weren't there for anyone in their time of need; or worse, that they don't need you at all: take a new affliction.
 
-> STOLEN
-> When you make your presence known to those with
-power, say what your legend is here and roll. On a
-10+, pick 2. On a 7-9, pick 1.
-» You are feared, no-one here will act against you
-» You are respected, the authorities seek your
-council
-» You are loved, you will not want for shelter or
-food
-» You are trusted, people share their grievances
-and problems
-On a miss, the Fates choose: your legend has
-changed, someone demands your service or you’re
-seen as a threat and the powerful take steps to
-remove you.
 
 ## Burdens
 
-The first time you gain each burden, fill out the blank with a virtue. While that burden remains marked you are not allowed to act in any way that compromises your virtue. When you become **Overburdened** you may erase one of your virtues; leave it empty for now and write something new next you mark it.
+The first time you gain each burden, fill out the blank with a virtue. While that burden remains marked you are not allowed to act in any way that compromises your virtue. When **your burdens overwhelm you**, erase one of your stated virtues; leave it empty for now and write something new next you mark it.
 
 <dl class="selectable">
   <dt>Psyche</dt>
