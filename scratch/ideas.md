@@ -16,7 +16,7 @@ Praise the Hawkmoth King is really good. It's the best PBtA game I've seen in re
 
 boundies should scrawl one out after maxing at five. eventually this kills the character.
 
-The nobody should disappear a little more on every burden. each disappear revokes one of their forward plays. their overburden turns them into an appartition and they may not act physically.
+The nobody should disappear a little more on every burden. each disappear revokes one of their basic plays. their overburden turns them into an appartition and they may not act physically.
 
 
 #### Not to be trifled with

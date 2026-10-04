@@ -22,13 +22,30 @@
 
 ## Anchors
 
-<ul class="anchor-list">
-  <li class="anchor-li">Protect someone weaker than yourself.</li>
-  <li class="anchor-li">Intervene where honor or valor demands.</li>
-  <li class="anchor-li">Engage in a dangerous sport or challenge for glory.</li>
-  <li class="anchor-li">Adhere to- and demand of others- an excess of decorum.</li>
-  <li class="anchor-li">Prove to a ward how foolish they are.</li>
-</ul>
+<div class="anchor-box">
+  <div class="left">
+    <ul class="anchor-list">
+      <li class="anchor-li">Protect someone weaker than yourself.</li>
+      <li class="anchor-li">Intervene where honor or valor demands.</li>
+      <li class="anchor-li">Engage in a dangerous sport or challenge for glory.</li>
+      <li class="anchor-li">Adhere to- and demand of others- an excess of decorum.</li>
+      <li class="anchor-li">Prove to a ward how foolish they are.</li>
+    </ul>
+  </div>
+  <div class="right">
+    <div class="anchor-diagram">
+      <div class="label"> Adrift </div>
+      <div class="anchor-diagram">
+        <span class="box"></span>
+        <span class="line"></span>
+        <span class="center"></span>
+        <span class="line"></span>
+        <span class="box"></span>
+      </div>
+      <div class="label">Anchored</div>
+    </div>
+  </div>
+</div>
 
 ## Plays
 
@@ -42,7 +59,7 @@ Your sword can cut down any obstacle that stands in your way (foes, fiends, wall
 
 #### Herald your arrival
 
-When you **proclaim your arrival with fanfare and pageantry**, all the figments and afflictions in this place will hail your status and station. Now roll. On 2, pick three. On 1 pick one, then the MC will also pick one. On a miss the MC picks one or two for you and, in addition, may say how that station is troubled or problematic. In all cases, ask or tell the MC what customs must be observed while you're here. Should you break any of them then your status will become irrecoverably tarnished.
+When you **proclaim your arrival with fanfare and pageantry**, roll; all the figments and afflictions in this place will hail your status and station. On 2, pick three. On 1 pick one, then the MC will also pick one. On a miss the MC picks one or two for you and, in addition, may say how that station is troubled or problematic. In all cases, ask or tell the MC what customs must be observed while you're here. Should you break any of them then your status will become irrecoverably tarnished.
 
 - O' courteous traveler, we have safe haven for thee.
 - O' hero, let us celebrate your appearance.

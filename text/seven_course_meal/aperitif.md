@@ -21,7 +21,7 @@ Besides, what is a nice dinner without a drink ahead of the main course?
   <dt>Absinthe</dt>
   <dd>Earthy dreams unmoor you. Adrift, fingers numb and legs aquiver, topsy turvy comes the pocket in a menagerie of wilding tides. Look at the air, listen to the buzzing of the sun. All madness. Yet like a riddle solved the convulsions are all answers to some tilted question.
 
-  Take <code>Hesitant</code> on your first play. You can reduce the cost of one &nbsp; play by up to <code>2</code>.
+  Start the pocket feeling <code>Adrift</code>. You can reduce the cost of one  Instability play by up to <code>2</code>.
   </dd>
   <dt>Italian liqueur</dt>
   <dd>Scintillating bitters roll from tongue to belly. You sizzle with the ignition of a firework. Wheel about in a somersault of dragon's breath. A pop and you're gone. A crack and here back again, still smouldering from where you streaked through the sky.

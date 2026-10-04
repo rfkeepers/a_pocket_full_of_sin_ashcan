@@ -111,7 +111,7 @@
 /* =============================================================== */
 
 .anchor-list {
-  padding-left: 0 !important;
+  padding-left: 12px !important;
 }
 
 .anchor-li::marker {
@@ -119,7 +119,58 @@
 }
 
 .anchor-li::before {
-  content: "  - ";
+  content: "󰄱 ";
+}
+
+.anchor-box {
+  display: grid;
+  grid-template-columns: minmax(0, calc(80% - 8px)) 20%;
+  column-gap: 8px;
+  width: 100%;
+  align-items: start;
+}
+
+.anchor-box .left {
+  min-width: 0;
+  margin-top: 4px;
+}
+
+.anchor-box .right {
+  min-width: 0;
+  margin-top: 8px;
+}
+
+.anchor-diagram {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.anchor-diagram .label {
+  line-height: 1.2;
+  padding: 4px 0;
+}
+
+.anchor-diagram .box {
+  width: 14px;
+  height: 14px;
+  flex: 0 0 14px;
+  border: 2px solid var(--border-color);
+}
+
+.anchor-diagram .center {
+  width: 20px;
+  height: 20px;
+  flex: 0 0 20px;
+  border-radius: 24px;
+  border: 1px solid var(--text-color);
+}
+
+.anchor-diagram .line {
+  width: 2px;
+  height: 24px;
+  flex: 0 0 16px;
+  border: 1px solid var(--border-color);
 }
 
 /* =============================================================== */

@@ -1,13 +1,13 @@
-# &nbsp; Instability Plays
+#  Instability Plays
 
 Instability plays can tamper with the present truths of pocket reality. They never get rolled; instead, they require payment: every use increases the group's instability. The more obviously you contort reality to meet your goals, the more it costs. Gain enough instability and you'll destabilize the whole pocket, making the trip more difficult for everyone.
 
 ## Identifying instability plays
 
-All instability plays are marked with a &nbsp; in the name, and all rules affecting instability plays apply to them equally. A play that changes instability yet does not have this symbol is not an instability play.
+All instability plays are marked with a  in the name, and all rules affecting instability plays apply to them equally. A play that changes instability yet does not have this symbol is not an instability play.
 
 ---
-### &nbsp; Set the stage
+###  Set the stage
 
 You can reframe any situation to better suit the mood you need, just say, **"this isn't the feeling we want right now"**.  Increase instability by `1` to introduce a small, ambient effect of some kind: the sound of music, a gentle warmth or coolness, sudden laughter from a nearby figment.  Increase it by `3` to completely alter some part of the scene, like a significant change in weather or time of day, appearance or dispersal of a crowd, or a sudden flood of water or outbreak of fire.
 
@@ -17,7 +17,7 @@ You may not set the stage as normal.  Instead, increase instability by `2` and a
 </div>
 
 ---
-### &nbsp; Summons
+###  Summons
 
 You can make a figment or person already within the pocket appear in the scene, just say, **"I think someone is missing"**, then say who you want to appear.  Increase instability by `1` if it makes sense that they could be there right now.  Increase it by `3` to bring them there regardless of the circumstances.
 
@@ -27,7 +27,7 @@ Someone or something else arrives with them.  Ask or tell them MC who or what.
 </div>
 
 ---
-### &nbsp; That's just the ticket
+###  That's just the ticket
 
 You can pull any item you need from the surrounding scenery, just say, **"an `X` has to be around here somewhere"**.  Increase instability by `1` if that sort of thing matches your surroundings.  Increase it by `3` if the item would be out of place or unrealistic.
 
@@ -37,7 +37,7 @@ This item comes out of you, pulled into this pocket from somewhere deep inside y
 </div>
 
 ---
-### &nbsp; Disinter a secret
+###  Disinter a secret
 
 You can compel the pocket to reveal its secrets, yearnings, or tamperings, just say, **"I can feel something here, barely beyond my reach"**, then tell the MC what kind of thing you're looking for. If there's nothing special to reveal, or it should be plain to see, they'll tell you about it outright.  Otherwise increase instability by `1` and the MC will give you a breadcrumb to follow. Increase it by `3` and they'll lay the secret out plainly for all to see.
 
@@ -47,7 +47,7 @@ The pocket gives you nothing for free. Whisper to it a secret, yearning, or tamp
 </div>
 
 ---
-### &nbsp; Break a solemn promise
+###  Break a solemn promise
 
 Anytime you make a promise, write it on a bit of paper so you don't forget. Keep it with you as long as it seems reasonable.
 

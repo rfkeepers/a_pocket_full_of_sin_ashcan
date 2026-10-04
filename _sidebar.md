@@ -24,16 +24,16 @@
 
 - Plays
   - [About](/text/plays/about.md)
-  - [Forward](/text/plays/forward.md)
-  - [Reactions](/text/plays/reactions.md)
-  - [Instability](/text/plays/instability.md)
-  - [Powers](/text/plays/psychic_powers.md)
+  - [Basic](/text/plays/basic.md)
+  - [ Reactions](/text/plays/reactions.md)
+  - [ Instability](/text/plays/instability.md)
+  - [󰩏 Powers](/text/plays/psychic_powers.md)
 
 - Rules
   - [Rolling](/text/playing/rolling.md)
   - [Instability](/text/playing/instability.md)
   - [Burdens](/text/playing/burdens.md)
-  - [Bindings & Promises](/text/playing/bindings.md)
+  - [Anchors & Bindings](/text/playing/anchors_bindings.md)
 
 - The Setting
   - [America, 1900](/text/setting/america.md)

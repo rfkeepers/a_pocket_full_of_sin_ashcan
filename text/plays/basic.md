@@ -1,6 +1,6 @@
-# Forward Plays
+# Basic Plays
 
-Forward plays are your basic tools for taking action and changing the situation. They help you discover new information, get closer to- or further from- other characters, and generally achieve your goals.
+Basic plays are your basic tools for taking action and changing the situation. They help you discover new information, get closer to- or further from- other characters, and generally achieve your goals.
 
 ---
 ### Get the lay of the land
@@ -42,7 +42,7 @@ The next time someone draws you out they gain `Confidence`. Afterward, change th
 ---
 ### Lay bare your heart
 
-When you **make yourself open and vulnerable to someone,** say what part of you is unguarded, tell them what you want from them, then roll. On 2, they give you what you need or spare your feelings. On 1 they offer you something different, take advantage of your vulnerability, or Bind you to them. On a miss they hurt you with pitying, mocking, or caring gestures.
+When you **make yourself open and vulnerable to someone,** say what part of you is unguarded and tell them what you want, then roll. On 2, they give you what you need or spare your feelings. On 1 they offer you something different, take advantage of your vulnerability, or Bind you to them. On a miss they hurt you with pitying, mocking, or caring gestures.
 
 <div class="burden">
 

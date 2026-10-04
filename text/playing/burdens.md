@@ -8,7 +8,7 @@ Burdens weigh heavily upon a person, without regard to whether that person is a 
 
 Many plays in the game come with a `Burden`: an alternate or extended set of rules for that play which only come in to play when that burden is marked.
 
-Whenever a character takes a new burden they allot it to any one of their plays with an unmarked burden spot. Each score of burdens is specific to the character, even for the plays that get shared by all characters (such as the forward plays). That play remains burdened until the player finds a way to replay it.
+Whenever a character takes a new burden they allot it to any one of their plays with an unmarked burden spot. Each score of burdens is specific to the character, even for the plays that get shared by all characters (such as the basic plays). That play remains burdened until the player finds a way to replay it.
 
 ## Overloading Burdens
 
