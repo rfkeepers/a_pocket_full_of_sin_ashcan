@@ -80,7 +80,7 @@ Later, as you all exit this pocket, ask all those with this binding whether you 
 
 ## Burdens
 
-The first time you gain each burden, fill out the blank with a virtue. While that burden remains marked you are not allowed to act in any way that compromises your virtue. When **your burdens overwhelm you**, erase one of your stated virtues; leave it empty for now and write something new next you mark it.
+The first time you gain each burden, fill out the blank with a virtue of your choosing. Leave it filled in, even if you unmark the burden. You may not take any action that could compromise the virtue of an active burden. When **your burdens overwhelm you**, erase one of your stated virtues; leave it empty for now and write something new next you mark it.
 
 <dl class="selectable">
   <dt>Psyche</dt>

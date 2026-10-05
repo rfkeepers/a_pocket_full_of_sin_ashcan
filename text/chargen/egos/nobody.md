@@ -81,13 +81,13 @@ When you **drop your defenses**, someone or something takes notice and plays in 
 <dl class="selectable">
   <dt>Head</dt>
   <dd>
-  Anyone who peers into your eyes sees: vacancy, an endless ocean, hollow nothing, mist, silver, opaline orbs, roiling clouds.
+  Whomever peers into your eyes sees: vacancy, an endless ocean, hollow nothing, mist, silver, opaline orbs, roiling clouds.
 
   You cannot <strong>Catch Their Eye</strong>. Nor can anyone Catch Your Eye unless permitted.
   </dd>
   <dt>Heart</dt>
   <dd>
-  Your expressions seem: adrift, shadowed, asleep, transparent, numbed, buried, diaphanous, entangled.
+  Your movements and expressions look: adrift, shadowed, asleep, transparent, numbed, buried, diaphanous, entangled.
 
   You cannot <strong>Lay Bare Your Heart</strong>. Nor can anyone Lay Bare Their Heart to you unless permitted.
   </dd>
@@ -95,7 +95,7 @@ When you **drop your defenses**, someone or something takes notice and plays in 
   <dd>
   The touch of your skin feels: icy, weightless, fragile, empty, leaden, papery, feverish, wanting.
 
-  You cannot <strong>Barge In</strong> on anyone. Likewies, none can Barge In on you directly, though they may consider you part of the audience.
+  You cannot <strong>Barge In</strong> on anyone. Likewise, none can Barge In on you directly, though they may consider you part of the audience.
   </dd>
   <dt>Tongue</dt>
   <dd>
@@ -105,7 +105,7 @@ When you **drop your defenses**, someone or something takes notice and plays in 
   </dd>
   <dt>Bones</dt>
   <dd>
-  If held, your body would feel: gossamer, insubstantial, incomplete, tremulous, bruised, caged, crystalline.
+  Whomever holds you feels a body that is: gossamer, insubstantial, incomplete, tremulous, bruised, caged, crystalline.
 
   You cannot start a <strong>Quarrel or Fracas</strong>. Likewise, when you would get drawn into an altercation, you may instead sit still and quiet while the ordeal passes you over.
   </dd>
