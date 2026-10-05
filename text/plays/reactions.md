@@ -100,3 +100,13 @@ When you confess your reaction, also confess to one of the following:
 </div>
 
 ---
+###  Fulfill an anchor
+
+When you **clearly and consciously act in line with one of your active anchors,** you've fulfilled that want. First, take one step towards `Grounded`. Second, deactivate this anchor and activate a different one. Finally, move your `Confidence` and `Hesitance` (if unlocked) each to a different anchor.
+
+---
+###  Disharmonize
+
+When you **commit to a personal schism** and act against your nature or bindings, if you are `Grounded` you can step to `Adrift` to either reroll all the dice in a play, or ignore the constraints of a locked binding. Otherwise, you can take one step towards `Adrift` to ignore an unlocked binding, disregard your `Hesitance`, or use a burdened play without invoking the burden.
+
+---

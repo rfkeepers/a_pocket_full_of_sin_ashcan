@@ -122,6 +122,14 @@
   content: "󰄱 ";
 }
 
+.anchor-active::marker {
+  content: "" !important;
+}
+
+.anchor-active::before {
+  content: "󰄵 ";
+}
+
 .anchor-box {
   display: grid;
   grid-template-columns: minmax(0, calc(80% - 8px)) 20%;
