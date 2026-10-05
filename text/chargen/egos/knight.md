@@ -63,7 +63,7 @@ When you **proclaim your arrival with fanfare and pageantry**, roll; all the fig
 
 - O' courteous traveler, we have safe haven for thee.
 - O' hero, let us celebrate your appearance.
-- O' regent, lead us in time time of need.
+- O' regent, lead us in this time of need.
 - O' shepherd, disabuse us of this veil.
 - O' envoy, our attendant will address your needs.
 - O' conqueror, please hear our plea, and spare us.
