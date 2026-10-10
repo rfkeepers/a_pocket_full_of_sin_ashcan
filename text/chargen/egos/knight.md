@@ -13,7 +13,7 @@
   <dd>manly, feminine, a bit of both, not much of either, as I see fit, elsewise</dd>
   <dt>Costume</dt>
   <dd>shirtwaist ensemble, bicycle suit, cutaway frock, vest and trousers, edwardian gown, duster, ethnic traditional (mexican, american indian, chinese, etc)</dd>
-  <dt>Plays with</dt>
+  <dt>Moves with</dt>
   <dd>certainty, care, dignity, fervor, ill portent, understanding, ease, agitation</dd>
   <dt>Your armor</dt>
   <dd>suit of platemail, colorful brigandine, breastplate and morion, stitched linen, purely ornamental, faith, virtue</dd>
