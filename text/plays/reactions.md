@@ -107,6 +107,8 @@ When you **clearly and consciously act in line with one of your active anchors,*
 ---
 ###  Disharmonize
 
-When you **commit to a personal schism** and act against your nature or bindings, if you are `Grounded` you can step to `Adrift` to either reroll all the dice in a play, or ignore the constraints of a locked binding. Otherwise, you can take one step towards `Adrift` to ignore an unlocked binding, disregard your `Hesitance`, or use a burdened play without invoking the burden.
+When you **commit to a personal schism** and act against your nature or bindings, pick one:
+- Step from `Grounded` to `Adrift`, then, reroll all dice in play, ignore a locked binding, or ignore a burden.
+- Step towards `Adrift`, then, ignore an unlocked binding, or roll without `Hesitance`.
 
 ---

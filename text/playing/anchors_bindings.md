@@ -31,38 +31,26 @@ That bar sits to the right of your Ego's anchors, which look like so:
 
 ### Fulfilling your anchors
 
-Every PC will begin with ten total anchors: five from their Self, and five from their Ego. Don't fret if that sounds like a lot! If this is your first character, you'll only consider one at a time.
+Every PC will begin with ten total anchors: five from their Self, and five from their Ego. Don't fret if that sounds like a lot! At the beginning, you'll only need to track one at a time.
 
-Characters don't juggle all their anchors at once. Just like a real person, there's only a select few sitting atop your mind (whether or not you realize it): the behaviors you really need to embrace once again. These anchors are _active_. Your active anchor is always marked, and only your active anchors can be fulfilled.
+Characters don't prioritize all their anchors at the same time. You, similarly, I'm sure, are not juggling all your inclinations right this moment, either. Certainly not consciously, at any rate. More likely, if you take a ponderous moment to look inward, you'll feel yourself pulled towards those few behaviors which you really wish to engage in again. These are _active_ anchors. Active anchors are marked.
 
 <ul class="anchor-list">
   <li class="anchor-active">Give someone a compliment. (active)</li>
   <li class="anchor-li">Visit justice upon the cruel. (inactive)</li>
 </ul>
 
-What then?
+Only an active anchor can be fulfilled.
 
 > ####  Fulfill an anchor
 >
-> When you **clearly and consciously act in line with one of your active anchors,** you've fulfilled that want. First, take one step towards `Grounded`. Second, deactivate this anchor and activate a different one. Finally, move your `Confidence` and `Hesitance` (if unlocked) each to a different anchor.
+> When you **clearly and consciously act in line with one of your active anchors during a play,** you've fulfilled that want. First, take one step towards `Grounded`. Second, deactivate this anchor and activate a different one. Finally, move your `Confidence` and `Hesitance` (if unlocked) each to a different anchor.
 
-Fulfilling an anchor is a lot like it sounds: you took action in line with your wants. Two things happen: first, you're feeling more like your own self again. Go back to your grounded tracker. You'll either move from `Adrift` to the center, or from the center to `Grounded`.  If you're already grounded, you'll remain as you are. That's fine. You're exactly where you need to be. Second, you'll have to shift around your anchors a bit. Now that you've appeased this piece of your mind, another want is likely to bubble up and take its place.
-
-### Grounded and Adrift
-
-These two states are one of many ways we get to peek at your character's mental and emotional status. When you're grounded, you feel like yourself. When you're adrift, your feel addled and unlike yourself.
-
-Side note: you aren't expected to play out these states at any time in the conversation. Groundedness is an ever-shifting humor. The exploration is all in how you take yourself through those transitions, not in how you project a current mood. Let the mechanics lead you through.
-
-When adrift, you'll want to lean into your anchors and settle your feet back on the firm earth again. But what about when you're already grounded? In that case, you have some freedom to work against yourself without risking self harm.
-
-> ####  Disharmonize
->
-> When you **commit to a personal schism** and act against your nature or bindings, if you are `Grounded` you can step to `Adrift` to either reroll all the dice in a play, or ignore the constraints of a locked binding. Otherwise, you can take one step towards `Adrift` to ignore an unlocked binding, disregard your `Hesitance`, or use a burdened play without invoking the burden.
+Fulfilling an anchor is much like it sounds. Taking action in line with one's wants gives one gratitude. Two things then happen: first, you feel more like your own self again, and step towards grounded. Meaning, go back to your grounded tracker, then either move from `Adrift` to the center, or from the center to `Grounded`.  If you're already grounded, you'll remain as you are. That's fine. You're exactly where you need to be. Second, you'll have to shift around your active anchors. Now that you've appeased this piece of your mind, another want will well up and take priority.
 
 ### Confidence and Hesitance
 
-Just as your anchors themselves inevitably shift and change, so to will your sense of assurance in your own predispositions. The compulsion to act a certain way is divergent from any wind of courage or pang of worry when it comes time to do the act. We represent these feelings with confidence and hesitance.
+In the same way that your anchors shift and change, so to will your sense of assurance in those very predispositions. The compulsion to act a certain way is divergent from any wind of courage or pang of worry when it comes time to do the act. We represent these feelings with confidence and hesitance.
 
 As your character progresses you'll eventually mark one of your active anchors as `Confident` and another as `Hesitant`. How exactly you want to add this mark is up to you. Mostly because I haven't figured out a satisfactory ux for it. Something as simple as a plus and minus can be sufficient.
 
@@ -72,6 +60,20 @@ As your character progresses you'll eventually mark one of your active anchors a
 </ul>
 
 While marked one way or the other, if you use a play to fulfill an anchor (and roll the dice in the process), you'll take on the associated effect for that play. Keep in mind that it's the trigger for the play which counts toward fulfilling the anchor, not the results of the play; the position always applies.
+
+### Grounded and Adrift
+
+These two states are one of many ways that the character sheet helps us perceive your character's mental and emotional status. When you're grounded, you feel contented and like yourself. When you're adrift, you feel addled and unlike yourself.
+
+Side note: you aren't expected to roleplay out these states throughout the conversation. Groundedness is an ever-shifting humor. The exploration is all in how play takes you through those transitions, not in how you project the current mood. Let the mechanics lead you through the steps.
+
+When adrift, you'll want to lean into your anchors and settle your feet back on _terra firma_ again. What about when you're already grounded? In that case, you have some freedom to work against yourself without risking self harm. Struggling against your emotional state, or the leashes which tether you in place, isn't a simple effort, even in the best situations. Deep inside pocket reality, where your surroundings bewilder and flummox, it can feel down right impossible. Any such attempt is sure to loosen one's internal sense of stability.
+
+> ####  Disharmonize
+>
+> When you **commit to a personal schism** and act against your nature or bindings, pick one:
+> - Step from `Grounded` to `Adrift`, then, reroll all dice in play, ignore a locked binding, or ignore a burden.
+> - Step towards `Adrift`, then, ignore an unlocked binding, or roll without `Hesitance`.
 
 ## Bindings
 
