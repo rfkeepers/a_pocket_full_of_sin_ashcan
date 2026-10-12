@@ -22,30 +22,15 @@
 
 ## Anchors
 
-<div class="anchor-box">
-  <div class="left">
-    <ul class="anchor-list">
-      <li class="anchor-li">Protect someone weaker than yourself.</li>
-      <li class="anchor-li">Intervene where honor or valor demands.</li>
-      <li class="anchor-li">Engage in a dangerous sport or challenge for glory.</li>
-      <li class="anchor-li">Adhere to- and demand of others- an excess of decorum.</li>
-      <li class="anchor-li">Prove to a ward how foolish they are.</li>
-    </ul>
-  </div>
-  <div class="right">
-    <div class="anchor-diagram">
-      <div class="label"> Adrift </div>
-      <div class="anchor-diagram">
-        <span class="box"></span>
-        <span class="line"></span>
-        <span class="center"></span>
-        <span class="line"></span>
-        <span class="box"></span>
-      </div>
-      <div class="label">Anchored</div>
-    </div>
-  </div>
-</div>
+<anchors-grounded>
+
+- Protect someone weaker than yourself.
+- Intervene where honor or valor demands.
+- Engage in a dangerous sport or challenge for glory.
+- Adhere to- and demand of others- an excess of decorum.
+- Prove to a ward how foolish they are.
+
+</anchors-grounded>
 
 ## Plays
 

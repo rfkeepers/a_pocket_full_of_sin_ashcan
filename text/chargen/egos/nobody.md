@@ -22,31 +22,15 @@
 
 ## Anchors
 
-<div class="anchor-box">
-  <div class="left">
-    <ul class="anchor-list">
-      <li class="anchor-li"><i>They'll forget I was even here.</i></li>
-      <li class="anchor-li">Let them past your guard.</li>
-      <li class="anchor-li">Make them more important than you.</li>
-      <li class="anchor-li">Punish them for ignoring you.</li>
-      <li class="anchor-li">Raise a racket and demand attention.</li>
-    </ul>
-  </div>
-  <div class="right">
-    <div class="anchor-diagram">
-      <div class="label"> Adrift </div>
-      <div class="anchor-diagram">
-        <span class="box"></span>
-        <span class="line"></span>
-        <span class="center"></span>
-        <span class="line"></span>
-        <span class="box"></span>
-      </div>
-      <div class="label">Anchored</div>
-    </div>
-  </div>
-</div>
+<anchors-grounded>
 
+- _They'll forget I was even here._
+- Let them past your guard.
+- Make them more important than you.
+- Punish them for ignoring you.
+- Raise a racket and demand attention.
+
+</anchors-grounded>
 
 ## Plays
 
@@ -74,7 +58,7 @@ You're trapped creeping around this space until another character finds you and 
 
 #### Give them an inch
 
-When you **drop your defenses**, someone or something takes notice and plays in on you; roll. On a hit, you get to say who or what you've drawn in. On 2, you're aware and ready to meet them when they appear. On a miss, tell the MC what you hoped would happen, then prepare for the worst.
+When you **drop your defenses**, someone or something takes notice and moves in on you; roll. On a hit, you get to say who or what you've drawn in. On 2, you're aware and ready to meet them when they appear. On a miss, tell the MC what you hoped would happen, then prepare for the worst.
 
 ## Burdens
 <br>

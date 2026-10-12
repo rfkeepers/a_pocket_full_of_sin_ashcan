@@ -22,30 +22,15 @@
 
 ## Anchors
 
-<div class="anchor-box">
-  <div class="left">
-    <ul class="anchor-list">
-      <li class="anchor-li">Anchor 1</li>
-      <li class="anchor-li">Anchor 2</li>
-      <li class="anchor-li">Anchor 3</li>
-      <li class="anchor-li">Anchor 4</li>
-      <li class="anchor-li">Anchor 5</li>
-    </ul>
-  </div>
-  <div class="right">
-    <div class="anchor-diagram">
-      <div class="label"> Adrift </div>
-      <div class="anchor-diagram">
-        <span class="box"></span>
-        <span class="line"></span>
-        <span class="center"></span>
-        <span class="line"></span>
-        <span class="box"></span>
-      </div>
-      <div class="label">Anchored</div>
-    </div>
-  </div>
-</div>
+<anchors-grounded>
+
+- Anchor 1
+- Anchor 2
+- Anchor 3
+- Anchor 4
+- Anchor 5
+
+</anchors-grounded>
 
 ## Plays
 <p class="subtext">Pick 1 to start.</p>

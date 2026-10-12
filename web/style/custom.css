@@ -114,11 +114,15 @@
   padding-left: 12px !important;
 }
 
-.anchor-li::marker {
+.anchor-list ul {
+  padding-left: 0 !important;
+}
+
+.anchor-list li::marker {
   content: "" !important;
 }
 
-.anchor-li::before {
+.anchor-list li::before {
   content: "󰄱 ";
 }
 
@@ -260,4 +264,3 @@ dl.selectable dd strong {
   margin: 0;
   padding: 0;
 }
-

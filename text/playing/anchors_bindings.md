@@ -14,17 +14,7 @@ When someone fulfills an anchor, they've acted in accord with their true nature.
 
 Groundedness is tracked very literally. In every Ego playbook, you'll see a meter like this:
 
-<div class="anchor-diagram">
-  <div class="label"> Adrift </div>
-  <div class="anchor-diagram">
-    <span class="box"></span>
-    <span class="line"></span>
-    <span class="center"></span>
-    <span class="line"></span>
-    <span class="box"></span>
-  </div>
-  <div class="label">Anchored</div>
-</div>
+<grounded-adrift></grounded-adrift>
 
 This bar represents whether your character feels grounded (that is: stable, correct, in line with themselves, at peace with their behavior), adrift (outside of themselves, dissonant, without footing, or confused), or somewhere between the two. Most times you'll start off in a pocket in that center position: neither grounded nor adrift.
 

@@ -2,6 +2,9 @@
     --base-font-family: "Lilex Nerd Font", monospace;
     --base-font-size: 14px;
     --base-line-height: 1.05;
+    --base-line-spacing: calc(
+      var(--base-font-size) * var(--base-line-height)
+    );
 
     --base-background-color: var(--bg-color);
     --base-color           : var(--text-color);

@@ -22,30 +22,15 @@
 
 ## Anchors
 
-<div class="anchor-box">
-  <div class="left">
-    <ul class="anchor-list">
-      <li class="anchor-li">Fuck mediation, make something happen.</li>
-      <li class="anchor-li">Brook no insult.</li>
-      <li class="anchor-li">Take advantage of naivety.</li>
-      <li class="anchor-li">Assuage past wrongdoing with reparation.</li>
-      <li class="anchor-li">Go back to your sinful old ways.</li>
-    </ul>
-  </div>
-  <div class="right">
-    <div class="anchor-diagram">
-      <div class="label"> Adrift </div>
-      <div class="anchor-diagram">
-        <span class="box"></span>
-        <span class="line"></span>
-        <span class="center"></span>
-        <span class="line"></span>
-        <span class="box"></span>
-      </div>
-      <div class="label">Anchored</div>
-    </div>
-  </div>
-</div>
+<anchors-grounded>
+
+- Fuck mediation, make something happen.
+- Brook no insult.
+- Take advantage of naivety.
+- Assuage past wrongdoing with reparation.
+- Go back to your sinful old ways.
+
+</anchors-grounded>
 
 ## Plays
 
