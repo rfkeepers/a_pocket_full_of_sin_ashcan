@@ -33,7 +33,8 @@
   - [Rolling](/text/playing/rolling.md)
   - [Instability](/text/playing/instability.md)
   - [Burdens](/text/playing/burdens.md)
-  - [Anchors & Bindings](/text/playing/anchors_bindings.md)
+  - [Anchors](/text/playing/anchors.md)
+  - [Bindings](/text/playing/bindings.md)
 
 - The Setting
   - [America, 1900](/text/setting/america.md)
@@ -41,10 +42,3 @@
   - [Characters](/text/setting/characters.md)
   - [Afflictions](/text/setting/afflictions.md)
 
-<!-- - The Setting -->
-<!--   - America -->
-<!--     - [In 1900](/text/setting/america/1900.md) -->
-<!--     - [Playing History](/text/setting/america/history.md) -->
-<!--   - Psychic Pockets -->
-<!--     - [Reality](/text/setting/pockets/Reality.md) -->
-<!--     - [NPCs](/text/setting/pockets/npcs.md) -->

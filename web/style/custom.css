@@ -126,11 +126,11 @@
   content: "󰄱 ";
 }
 
-.anchor-active::marker {
+.anchor-list .anchor-active::marker {
   content: "" !important;
 }
 
-.anchor-active::before {
+.anchor-list .anchor-active::before {
   content: "󰄵 ";
 }
 

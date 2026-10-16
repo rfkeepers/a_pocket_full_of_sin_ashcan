@@ -75,6 +75,8 @@ In catching their eye you are likewise caught and must reveal something about yo
 Once per session, the first time that you **realize a moment of unfettered delight, exultant rapture, or genuine happiness**, tell the table what cherished memory it reminds you of then pick one:
 - Clear a burden.
 - Change your anchors.
+- Lock or unlock a binding.
+- Step towards `Grounded`.
 
 <div class="burden">
 
@@ -89,6 +91,8 @@ If you opt to clear a burden, you must clear this one.
 Once per session, the first time that you **avert your eyes, whimper in dread, or gasp or curse aloud**, confess your reaction openly to the table- naming what caused it, as necessary- then pick one:
 - Mark a burden.
 - Increase instability by `3`.
+- Add a second constraint to a binding that only has one.
+- Step towards `Adrift`.
 
 <div class="burden">
 
@@ -108,7 +112,7 @@ When you **clearly and consciously act in line with one of your active anchors,*
 ###  Disharmonize
 
 When you **commit to a personal schism** and act against your nature or bindings, pick one:
-- Step from `Grounded` to `Adrift`, then, reroll all dice in play, ignore a locked binding, or ignore a burden.
-- Step towards `Adrift`, then, ignore an unlocked binding, or roll without `Hesitance`.
+- Step fully from `Grounded` to `Adrift`, then, re-roll all dice in play, ignore the constraints on a locked binding, or ignore a burden.
+- Step towards `Adrift`, then, ignore the constraints on an unlocked binding, turn down a character you're bound to when they ask for a promise, or ignore `Hesitance` on your next roll.
 
 ---

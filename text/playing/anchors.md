@@ -1,4 +1,4 @@
-# Anchors & Bindings
+# Anchors
 
 Anchors are the ways in which a person holds fast to their beliefs, ideas and individuality. Even someone who hasn't pondered much will secure themselves to some tenant or another. Even should that berthing be all the worse for their life. At least they won't be caught adrift. It's those buoyant few without mooring who get swept out by a current or dashed upon the indecisive rocks.
 
@@ -24,7 +24,7 @@ That bar sits to the right of your Ego's anchors, which look like so:
   <li class="anchor-li">Give someone a compliment.</li>
   <li class="anchor-li">Visit justice upon the cruel.</li>
   <li class="anchor-li">Transgress against accepted norms.</li>
-  <li class="anchor-li">Attempt to prove someone wrong.</li>
+  <li class="anchor-li">Try to prove someone wrong.</li>
   <li class="anchor-li">Repair something broken for someone who didn't ask.</li>
 </ul>
 <br>
@@ -74,31 +74,5 @@ When adrift, you'll want to lean into your anchors and settle your feet back on 
 > When you **commit to a personal schism** and act against your nature or bindings, pick one:
 > - Step from `Grounded` to `Adrift`, then, reroll all dice in play, ignore a locked binding, or ignore a burden.
 > - Step towards `Adrift`, then, ignore an unlocked binding, or roll without `Hesitance`.
-
-## Bindings
-
-> only draft notes for now
-
-A binding states how you're tied to someone else. You can phrase it as simply as two words: their name, and your feelings. For example, `Hate, Jon` is a binding stating that you hate Jon. I doesn't have to be two words. But it doesn't have to be prose, either.
-
-Bindings can express positive or negative associations. `Love, Erica` is as valid as `Fear the worm at the center`.
-
-### Binding and Anchors
-
-Every binding gets set on an Anchor. There's not a lot of space on the character sheet to do this. It's easier with a notepad or sticky notes. It doesn't matter whether the anchor is active or not, the binding always applies.
-
-What does this do? I haven't fully figured it out yet. What I want to do is channel the sensibility of the effects of UHH's playbook questions (ex: "I can never put them off or waylay them.") It's a beautiful little contract that, well, isn't very easy to remember, much less change (outside of just writing in the change; y'know, fair game).
-
-First try is bindings as emotive bonds, attached to anchors.  If that doesn't work, I might try attaching them to moves (more directly like UHH) instead.
-
-### Locking and breaking
-
-Every binding has two stages: unlocked, and locked.  There's no ux for locking one. I guess just circle it?
-
-Some moves will lock an unlocked binding, others will break them. In general, if a move asks you to add a binding with a character when you already have one (or more) with them, decide first if the new binding would overlap with an existing one. If it does, and the binding is unlocked, you should lock that one first.
-
-Breaking works in reverse. A locked binding has its lock broken. An unlocked binding that gets broken has to be removed.
-
-This mechanic kinda serves a useful purpose. It's also clunky. Might go into the incinerator in the future.
 
 ---
