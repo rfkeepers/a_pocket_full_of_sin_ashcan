@@ -61,7 +61,7 @@
 
   ###### Selfhood
 
-  Enable a second anchor. Mark `Confident` on one of your anchors. Whenever you hit that anchor the confidence effect plays to the next one you pick. Alternatively, you can switch which anchor gives you confidence without changing anchors.
+  Hold a `Change of Mind`.
   </div>
   </div>
   <br>
@@ -74,7 +74,7 @@
 
   ###### Growth
 
-  Write two new anchors into your options: one from another self, and one from another ego.
+  Hold a `Change of Nerves` and a `Change of Mind`.
   </div>
   </div>
   <br>
@@ -87,7 +87,7 @@
 
   ###### Realization
 
-  Enable a third anchor. Mark `Hesitant` on one of your anchors. If you don't want to change anchors, you must play both your Confident and Hesitant marks.
+  Hold a `Change of Heart` and a `Change of Mind`.
   </div>
   </div>
   <br>
@@ -100,7 +100,7 @@
 
   ###### Fulfillment
 
-  Write two new anchors into your options: one from another self, and one from another ego.
+  Hold a `Change of Nerves` and a `Change of Mind`.
   </div>
   </div>
   <br>
@@ -113,7 +113,7 @@
 
   ###### Strength
 
-  ????
+  Hold a `Change of Heart` and a `Change of Mind`.
   </div>
   </div>
   <br>

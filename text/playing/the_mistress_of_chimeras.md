@@ -1,7 +1,7 @@
 # The Mistress of Chimeras
 <p class="subtext">or Mistrum, Maitre d', Mister, or any other title you'd prefer.</p>
 
-The MC bears the mantle of three offices: **ritualist**, who conducts the rites and ceremonies of the game; **dreamer**, who conjures the form and seeming of the world around the players' characters; and **reveler**, the first to celebrate the actions of the players.
+The MC bears the mantle of three offices: **ritualist**, who conducts the rites and ceremonies of the game; **dreamer**, who conjures the form and seeming of the pocket worlds around the players' characters; and **reveler**, the first to celebrate the actions of the players.
 
 ## Your agendas
 
@@ -51,12 +51,12 @@ Since they're only for you their format looks a bit different from the other pla
 - Give the players space to ponder and caper.
 - Follow the PCs wherever they go.
 - Give every character good times and bad.
-- Make the pocket ordinary, intoxicating, and harrowing. 
+- Make the pocket ordinary, intoxicating, and harrowing.
 - Say what honesty demands.
 - Say what the consequences demand.
 - Say what the rules demand.
 - Say what preparation and play demands.
-- Reveal all your information, even the secrets.
+- Reveal all your ideas, even the secrets.
 
 ## When to act
 

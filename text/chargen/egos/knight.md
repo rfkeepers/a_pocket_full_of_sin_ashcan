@@ -56,12 +56,17 @@ When you **proclaim your arrival with fanfare and pageantry**, roll; all the fig
 - O' fool, no one here knows your name.
 - Any other choice, and the need to abide local customs, extends to all those with you.
 
-####  Fear nothing, for your white knight arrives!
+#### Heroic resolve
 
-When any other visitor ** Writhes in your presence**, bind yourself to them (write this binding in a special place, separate from the rest). This person is now your ward; it must be either that they are weaker than you and in need of protection, or they're a fool and in need of lessons about the world.
+When you **set yourself to the completion of a trial** which no ordinary person could accomplish, then maybe, just maybe, you can do it; roll. On a 2, though nearly bowed, you do it. Ask the MC 1 of the following. On 1, it takes every bit of you, through tears and blood, being to persevere, ask 2.
+- _I can almost do it, just one more set of hands would surely tip the scales._ Who offers their help?
+- _I will endure any pain._ What parts of me are broken by the end?
+- _I will take as much time, and as many attempts, as it requires._ How long am I at it? Who loses faith in me, turning away from the ordeal, before I succeed?
+- _It certainly seems impossible._ How much does instability increase?
 
-Later, as you all exit this pocket, ask all those with this binding whether you served your wards rightly, and they will answer you with honesty full and true. If all agree that you upheld the duties of your binding, erase a burden. If the majority disagree, take a burden. Remove all these bindings after that. If you never took a ward in the first place, it must be that you weren't there for anyone in their time of need; or worse, that they don't need you at all: take a new affliction.
-
+On a miss, choose 1 of the following.
+- _Commitment means naught, the task is truly impossible._ Ask one from above anyway- the cost of your efforts- before you accept defeat.
+- _I’m willing to ruin myself._ And, so, you do it. Ask the MC what price you have to pay.
 
 ## Burdens
 

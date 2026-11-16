@@ -106,13 +106,25 @@ When you confess your reaction, also confess to one of the following:
 ---
 ###  Fulfill an anchor
 
-When you **clearly and consciously act in line with one of your active anchors,** you've fulfilled that want. First, take one step towards `Grounded`. Second, deactivate this anchor and activate a different one. Finally, move your `Confidence` and `Hesitance` (if unlocked) each to a different anchor.
+When you clearly and consciously **act in line with one of your active anchors,** you've fulfilled that want. First, deactivate this anchor and activate a different one. Second, remove one mark of`Hesitance` from one of your plays. Or, if none are marked, take `Confidence` on your next roll.
 
+<!-- --- -->
+<!-- ###  Fulfill an anchor -->
+<!---->
+<!-- When you clearly and consciously **act in line with one of your active anchors,** you've fulfilled that want. First, take one step towards `Grounded`. Second, deactivate this anchor and activate a different one. Finally, move your `Confidence` and `Hesitance` (if unlocked) each to a different anchor. -->
+<!---->
 ---
 ###  Disharmonize
 
-When you **commit to a personal schism** and act against your nature or bindings, pick one:
-- Step fully from `Grounded` to `Adrift`, then, re-roll all dice in play, ignore the constraints on a locked binding, or ignore a burden.
-- Step towards `Adrift`, then, ignore the constraints on an unlocked binding, turn down a character you're bound to when they ask for a promise, or ignore `Hesitance` on your next roll.
+When you commit to a personal schism and **act against your nature or bindings**, pick one:
+- Mark a play with `Hesitant`, then pick one: re-roll all dice in play, ignore the constraints on an unlocked binding, or ignore the effects of a burden.
+- Add two marks of `Hesitant` to a play (the same play, if possible), then pick one: ignore the constraints on a locked binding, turn down a character to whom you're bound when they ask you for a promise, or ignore `Hesitant` on your next roll.
 
+<!-- --- -->
+<!-- ###  Disharmonize -->
+<!---->
+<!-- When you commit to a personal schism and **act against your nature or bindings**, pick one: -->
+<!-- - Step fully from `Grounded` to `Adrift`, then, re-roll all dice in play, ignore the constraints on a locked binding, or ignore the effects of a burden. -->
+<!-- - Step towards `Adrift`, then, ignore the constraints on an unlocked binding, turn down a character you're bound to when they ask for a promise, or ignore `Hesitance` on your next roll. -->
+<!---->
 ---

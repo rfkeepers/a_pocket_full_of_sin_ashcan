@@ -6,11 +6,25 @@
   - [The MC](/text/playing/the_mistress_of_chimeras.md)
   - [Safety & Communication](/text/playing/safety.md)
 
-- Character Creation
-  - [Player characters](/text/chargen/basics.md)
-  <!-- - [Creating a Character](/text/playbooks/creating-a-character.md) -->
-  - [Selves](/text/chargen/selves/self_sheet.md)
-  - [Egos](/text/chargen/egos/ego_sheet.md)
+- The Setting
+  - [America, 1900](/text/setting/america.md)
+  - [Psychic Pockets](/text/setting/pockets.md)
+  - [Characters](/text/setting/characters.md)
+  - [Afflictions](/text/setting/afflictions.md)
+
+- Rules
+  - [Rolling](/text/playing/rolling.md)
+  - [Instability](/text/playing/instability.md)
+  - [Burdens](/text/playing/burdens.md)
+  - [Anchors](/text/playing/anchors.md)
+  - [Bindings](/text/playing/bindings.md)
+
+- Plays
+  - [About](/text/plays/about.md)
+  - [Basic](/text/plays/basic.md)
+  - [ Reactions](/text/plays/reactions.md)
+  - [ Instability](/text/plays/instability.md)
+  - [󰩏 Powers](/text/plays/psychic_powers.md)
 
 - The Seven Course Meal
   - [About](/text/seven_course_meal/about.md)
@@ -22,23 +36,11 @@
   - [Main course](/text/seven_course_meal/main_course.md)
   - [Dessert](/text/seven_course_meal/dessert.md)
 
-- Plays
-  - [About](/text/plays/about.md)
-  - [Basic](/text/plays/basic.md)
-  - [ Reactions](/text/plays/reactions.md)
-  - [ Instability](/text/plays/instability.md)
-  - [󰩏 Powers](/text/plays/psychic_powers.md)
+- Downtime
+  - [About](/text/downtime/about.md)
 
-- Rules
-  - [Rolling](/text/playing/rolling.md)
-  - [Instability](/text/playing/instability.md)
-  - [Burdens](/text/playing/burdens.md)
-  - [Anchors](/text/playing/anchors.md)
-  - [Bindings](/text/playing/bindings.md)
-
-- The Setting
-  - [America, 1900](/text/setting/america.md)
-  - [Psychic Pockets](/text/setting/pockets.md)
-  - [Characters](/text/setting/characters.md)
-  - [Afflictions](/text/setting/afflictions.md)
-
+- Character Creation
+  - [Player characters](/text/chargen/basics.md)
+  <!-- - [Creating a Character](/text/playbooks/creating-a-character.md) -->
+  - [Selves](/text/chargen/selves/self_sheet.md)
+  - [Egos](/text/chargen/egos/ego_sheet.md)
