@@ -11,9 +11,9 @@ Examples:
 
 The "Self" playbooks represent the characters in reality: what they do, what situation they're in, and what they've committed themselves to.  
 
-In selecting a Self, the player initially establishes: 1/ what personal storyline they want to explore during downtime, 2/ their starting stats, and 3/ their character's take on intimacy and iniquity.  Selves very rarely start with pocket-phase plays.
+In selecting a Self, the player initially establishes: 1/ what personal storyline they want to explore during downtime, 2/ their starting stats, and 3/ their character's take on intimacy and sin.  Selves very rarely start with pocket-phase plays.
 
-As play continues, the self will evolve in two ways: 1/ adding or amending plays for all phases of play, 2/ forcing the world to change in significant ways (a tangential of taking _Iniquity_).
+As play continues, the self will evolve in two ways: 1/ adding or amending plays for all phases of play, 2/ forcing the world to change in significant ways (a tangential of taking _Sin_).
 
 Self concepts:
 

@@ -71,22 +71,23 @@ Play in this phase is structured, not free-form, a series of questions which tea
 
 ### Psychic Pockets
 
-The lion's share of a sin eater's job takes place in the alternate, liminal realities contained within other people. These places have gone by many names over time: figment space, the mental world, the mindscape, the soulscape. Freud might have called it the home of the unconscious. Most formally, we call it a psychic pocket.
+The lion's share of a sin eater's job takes place in the alternate, liminal realities contained within other people. These places have gone by many names over time: figment space, the mental world, the mind-land, the home of the soul. Freud might have called it the home of the unconscious. Most formally, we call it a psychic pocket.
 
 A psychic pocket is a self-contained world. Not so much a real place as a hallucination of reality, and all the figments inside are themselves projections of some real thing. Every person, without conscious intent or design, whether they're aware of it or not, maintains their own pocket containing all their thoughts and emotions and harbored joys and indulgent secrets, all alive and active in this universe.
 
 The general populace doesn't consort with psychic pockets. A person might grasp at slivers of their pockets through dreams or feverish pitches with barely a mote of comprehension. Science rankles over investigations into psychical forces. Charlatan hustlers push the paranormal into theatrical spotlights. All true tradition and heritage of psychic pockets survives hidden behind closed doors and out-of-the-way corners, now believed to be one more performative, falsified spiritualism. 
 
-In play, psychic pockets are the primary space for free-form gameplay. Play stays in the pocket until the PCs contract is fulfilled. Players first take their time to investigate the pocket. They'll discover the hidden truths about this owner's history, secrets, and subconscious. Eventually it all culminates in the opportunity to consume the uncontrolled monstrosity of sin of this psychical world-- that is, the PCs take that sin into themselves on behalf of the pocket, increasing their _Iniquity_ in the process.
+In play, psychic pockets are the primary space for free-form gameplay. Play stays in the pocket until the PCs contract is fulfilled. Players first take their time to investigate the pocket. They'll discover the hidden truths about this owner's history, secrets, and subconscious. Eventually it all culminates in the opportunity to consume the uncontrolled monstrosity of sin of this psychical world-- that is, the PCs take that sin into themselves on behalf of the pocket, increasing their _Sin_ in the process.
 
 ### Downtime
 
-A round of opportunities for all players to recover, recuperate, and to pursue scenes that are of particular importance to their character.
+A round of opportunities for all players to recover, recuperate, and to pursue scenes that are of particular importance to their character. This is a structured phase of play; a collection of player-led scenes aimed at small, specific goals. Played troupe style, the other players and MC step in as the NPCs in the scene.
 
-Players use this time on some of following:
-- (If they gained _Inquity_) How has the/their world changed in consequence?  _Inquity_ also provides an advancement.
-- (If they have _Burdens_ to recover) How do they rest, recover, or engage with community to remove their burdens?
-- (If they want to progress a personal story) The player sets up a scene with them and other PCs and NPCs (npcs are played by both the MC and other players).  This scene has no strictly mechanical benefit, it is purely an opportunity to pursue personal agendas.
+Each scene has a specific purpose and boundary:
+- (If they want to release _Sin_) How has the/their world changed in consequence?
+- (If they want to recover their _Burdens_) How do they start trouble, dive into their vices, or otherwise blow off steam?
+- (If they want to face their Afflictions) The player guides all the other players through their character's own pocket space.
+- (If they want to progress a personal story) The player sets up a scene between themselves and other PCs and NPCs.
 
 ---
 

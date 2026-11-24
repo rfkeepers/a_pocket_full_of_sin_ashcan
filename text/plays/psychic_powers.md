@@ -70,9 +70,9 @@ When you **settle, soothe, or repair the pocket** in an effort to patch up its d
 ---
 ### 󰩏 Sup on their iniquity
 
-When you **consume the iniquity of the pocket**, increase your Iniquity by 1. Anyone who votes in favor of this power partakes in the meal and increases their Iniquity by 1. Regardless of the count of votes, you consume all iniquity in this pocket, devoured and bellied by yourself and your fellow sin eaters. This power can only be used once per pocket.
+When you **consume the sin of the pocket**, increase your Sin by 1. Anyone who votes in favor of this power partakes in the meal and increases their Sin by 1. Regardless of the count of votes, you consume all sin in this pocket, devoured and bellied by yourself and your fellow sin eaters. This power can only be used once per pocket.
 
-Iniquity is the weight of wrongdoing by a soul. The tally of unpaid tolls, not the guilt of conscience itself. The former can be removed without affecting the latter, and vice versa.
+Sin is the weight of wrongdoing by a soul. The tally of unpaid tolls, not the guilt of conscience itself. The former can be removed without affecting the latter, and vice versa.
 
 ---
 ### 󰩏 Leave your troubles at the door

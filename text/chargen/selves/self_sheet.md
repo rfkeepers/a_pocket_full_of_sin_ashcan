@@ -39,8 +39,8 @@
 **When you conjure up a playbook,** roll.  On 2, you come up with something that both matches the theme and has interesting mechanics. On 1, it either matches the theme or has interesting mechanics, pick one.  On a miss, it's not working out.  Scrap it and start over again.
 
 <br>
-<h2>Iniquity</h2>
-<p class="subtext">Begin at Ⓞ . Play to the next stage each time you feast on your iniquity.</p>
+<h2>Sin</h2>
+<p class="subtext">Begin at Ⓞ . Play to the next stage each time you feast on your sin.</p>
 <div class="list-stages">
   <div class="stage-li">
 
@@ -128,7 +128,7 @@
 
   Pick one:
   - Persist. Continue playing this character, just as they are.
-  - Change. Select a new Self and start over with that iniquity track.
+  - Change. Select a new Self and start over with that Sin track.
   - Retire. Hand your sheet to the MC and pick up another one.
 
   </div>

@@ -20,7 +20,7 @@ Every downtime phase follows these same steps:
 <br>
 <dl>
 <dt><a href="#/downtime/transference.md">Transference</a></dt>
-<dd>Your story progresses. Release your Iniquity to the world, and see what consequences that brings.</dd>
+<dd>Your story progresses. Release your Sin to the world, and see what consequences that brings.</dd>
 <dt><a href="#/downtime/depravity.md">Depravity</a></dt>
 <dd>A person in miserable straits is prone to indulge their most reprobate vices. What better way to ease your Burdens?</dd>
 <dt><a href="#/downtime/exorcism.md">Exorcism</a></dt>
