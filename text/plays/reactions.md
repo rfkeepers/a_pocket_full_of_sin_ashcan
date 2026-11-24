@@ -20,17 +20,17 @@ All reaction plays are marked with a  in the name, and all rules affecting re
 - _What are you forgetting, ignoring, or keeping hidden (possibly from yourself)?_
 
 On a miss, ask them what goes wrong. They might have you choose 1 anyway, but be prepared for the worst. Perhaps you revealed your attention to them.
-
-<div class="burden">
-
-Always ask one of the following questions:
-
-- _What do you obviously not like about me?_
-- _What am I not going to like about you?_
-- _Why do I need to worry about having a run-in?_
-
-The player who answers may not say, "nothing". If they try then any other player may provide an answer in their stead, and it must be treated as truth.
-</div>
+<!---->
+<!-- <div class="burden"> -->
+<!---->
+<!-- Always ask one of the following questions: -->
+<!---->
+<!-- - _What do you obviously not like about me?_ -->
+<!-- - _What am I not going to like about you?_ -->
+<!-- - _Why do I need to worry about having a run-in?_ -->
+<!---->
+<!-- The player who answers may not say, "nothing". If they try then any other player may provide an answer in their stead, and it must be treated as truth. -->
+<!-- </div> -->
 
 ---
 ###  Put a spell on me
@@ -52,10 +52,10 @@ When someone **arrests your interest**, confess how they make you feel- whether 
 </dl>
 
 Once someone has arrested your interest, you're bound to them. Write that binding and lock it right away.
-<div class="burden">
-
-The next time someone puts a spell on you, your next play is `Hesitant` if it's directed at them, and `Confident` if not. Change this burden to a different play.
-</div>
+<!-- <div class="burden"> -->
+<!---->
+<!-- The next time someone puts a spell on you, your next play is `Hesitant` if it's directed at them, and `Confident` if not. Change this burden to a different play. -->
+<!-- </div> -->
 
 ---
 ###  Catch their eye
@@ -63,11 +63,11 @@ The next time someone puts a spell on you, your next play is `Hesitant` if it's 
 When you **catch someone’s eye** (your call), roll. On 2, pick 2, one feeling quickens within them while the other smothers entirely. On 1, you pick 1 then they pick 1. On a miss, they pick both. You are a mere catalyst in this instant. Their emotions rouse at the sight of you, but not necessarily towards you.
 
 They feel (or repress feeling) _aroused_, _wolfish_, _allayed_, _disquieted_, _charmed_, or _flustered_.
-
-<div class="burden">
-
-In catching their eye you are likewise caught and must reveal something about yourself to them. They ask you any one question from **Take Their Measure**.
-</div>
+<!---->
+<!-- <div class="burden"> -->
+<!---->
+<!-- In catching their eye you are likewise caught and must reveal something about yourself to them. They ask you any one question from **Take Their Measure**. -->
+<!-- </div> -->
 
 ---
 ###  Revel
@@ -77,13 +77,13 @@ Once per session, the first time that you **realize a moment of unfettered delig
 - Change your anchors.
 - Lock or unlock a binding.
 - Step towards `Grounded`.
-
-<div class="burden">
-
-The affliction of a cherished memory lies in the realization that you cherish it ever more as something you no longer possess. When you describe the memory, tell the table what you lost afterward. It is time to let go. Lay this remembrance to rest and never think of it again.
-
-If you opt to clear a burden, you must clear this one.
-</div>
+<!---->
+<!-- <div class="burden"> -->
+<!---->
+<!-- The affliction of a cherished memory lies in the realization that you cherish it ever more as something you no longer possess. When you describe the memory, tell the table what you lost afterward. It is time to let go. Lay this remembrance to rest and never think of it again. -->
+<!---->
+<!-- If you opt to clear a burden, you must clear this one. -->
+<!-- </div> -->
 
 ---
 ###  Writhe
@@ -93,15 +93,15 @@ Once per session, the first time that you **avert your eyes, whimper in dread, o
 - Increase instability by `3`.
 - Add a second constraint to a binding that only has one.
 - Step towards `Adrift`.
-
-<div class="burden">
-
-When you confess your reaction, also confess to one of the following:
-  - _A part of me is curious and wants to know more._
-  - _In spite of myself I also feel a little excitement._
-  - _This makes me yearn for `X`._
-
-</div>
+<!---->
+<!-- <div class="burden"> -->
+<!---->
+<!-- When you confess your reaction, also confess to one of the following: -->
+<!--   - _A part of me is curious and wants to know more._ -->
+<!--   - _In spite of myself I also feel a little excitement._ -->
+<!--   - _This makes me yearn for `X`._ -->
+<!---->
+<!-- </div> -->
 
 ---
 ###  Fulfill an anchor
