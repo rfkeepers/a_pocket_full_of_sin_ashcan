@@ -38,6 +38,10 @@
 
 - Downtime
   - [About](/text/downtime/about.md)
+  - [Transference](/text/downtime/transference.md)
+  - [Depravity](/text/downtime/depravity.md)
+  - [Exorcism](/text/downtime/exorcism.md)
+  - [Survival](/text/downtime/survival.md)
 
 - Character Creation
   - [Player characters](/text/chargen/basics.md)
